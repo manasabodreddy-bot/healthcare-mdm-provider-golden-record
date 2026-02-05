@@ -1,0 +1,1312 @@
+source_system,org_id_source,org_name,org_type,address_line1,city,state,postal_code,country,updated_at,entity_key
+CRM_A,CRM_A_O_ORG_0000_906,Bhalla-Bhalla Clinic,Clinic,"63/30
+Dutt Street",Kota,KA,887159,IN,2026-01-05T14:15:07,ORG_0000
+CRM_B,CRM_B_O_ORG_0000_420,Bhalla-Bhalla Clnc,Clinic,"63/30
+Dutt Street",Kota,KA,887159,IN,2025-10-29T05:46:15,ORG_0000
+CRM_A,CRM_A_O_ORG_0001_641,Ram-Sanghvi Clinic,Clinic,"99/21
+Suresh Street",Erode,NJ,40332,US,2026-01-27T20:08:45,ORG_0001
+CRM_B,CRM_B_O_ORG_0001_936,Ram-Sanghvi Clnc,Clinic,"99/21
+Suresh Street",Erode,NJ,40332,US,2025-11-18T03:20:48,ORG_0001
+CRM_A,CRM_A_O_ORG_0002_168,Chaudhary and Sons Diagnostic Center,Diagnostic Center,"H.No. 59, Goel Path",Sikar,AL,43738,US,2025-10-17T08:14:34,ORG_0002
+CRM_B,CRM_B_O_ORG_0002_687,Chaudhary and Sons Diagnostic Ctr,Diagnostic Center,"H.No. 59, Goel Path",Sikar,AL,43738,US,2025-11-02T02:55:08,ORG_0002
+CRM_A,CRM_A_O_ORG_0003_689,Rao-Dutta Hospital,Hospital,"29/59, Modi Nagar",Aurangabad,IL,24450,US,2025-11-11T07:16:03,ORG_0003
+CRM_B,CRM_B_O_ORG_0003_369,Rao-Dutta Hospital,Hospital,"29/59, Modi Nagar",Aurangabad,IL,24450,US,2025-12-16T21:05:52,ORG_0003
+CRM_B,CRM_B_O_ORG_0003_186,Rao-Dutta Hospital,Hospital,"29/59, Modi Nagar",Aurangabad,IL,24450,US,2025-12-08T12:42:34,ORG_0003
+CRM_A,CRM_A_O_ORG_0004_489,Tara-Patla Clinic,Clinic,"63, Gill Chowk",Erode,MI,35674,US,2025-10-14T05:27:08,ORG_0004
+CRM_B,CRM_B_O_ORG_0004_238,Tara-Patla Clinic,Clinic,"63, Gill Chowk",Erode,MI,35674,US,2026-01-07T17:36:40,ORG_0004
+CRM_A,CRM_A_O_ORG_0005_597,Trivedi-Pandya Hospital,Hospital,"H.No. 76
+Parmar Marg",Mehsana,OH,55205,US,2025-12-07T09:11:12,ORG_0005
+CRM_B,CRM_B_O_ORG_0005_445,Trivedi-Pandya Hospital,Hospital,H.No. 76 Parmar Marg,Mehsana,OH,55205,US,2025-12-11T13:47:55,ORG_0005
+CRM_A,CRM_A_O_ORG_0006_194,Agrawal-Nagy Clinic,Clinic,"65/06, Sachdev Chowk",Naihati,UP,491727,IN,2025-11-05T15:54:14,ORG_0006
+CRM_B,CRM_B_O_ORG_0006_825,Agrawal-Nagy Clinic,Clinic,"65/06, Sachdev Chowk",Naihati,UP,491727,IN,2026-01-07T00:40:59,ORG_0006
+CRM_A,CRM_A_O_ORG_0007_270,Chaudhary LLC Hospital,Hospital,"H.No. 92, Sachar Path",Delhi,PA,36687,US,2025-11-23T13:50:16,ORG_0007
+CRM_B,CRM_B_O_ORG_0007_462,Chaudhary LLC Hospital,Hospital,"H.No. 92, Sachar Path",Delhi,PA,36687,US,2025-11-30T23:33:54,ORG_0007
+CRM_A,CRM_A_O_ORG_0008_152,Gandhi-Samra Hospital,Hospital,"97
+Parikh",Bongaigaon,WA,82810,US,2025-12-26T14:20:39,ORG_0008
+CRM_B,CRM_B_O_ORG_0008_641,Gandhi-Samra Hospital,Hospital,"97
+Parikh",Bongaigaon,WA,82810,US,2025-10-20T03:36:51,ORG_0008
+CRM_A,CRM_A_O_ORG_0009_104,Mistry Ltd Clinic,Clinic,"06
+Tripathi Ganj",Dibrugarh,CO,30455,US,2025-12-04T15:20:38,ORG_0009
+CRM_B,CRM_B_O_ORG_0009_763,Mistry Ltd Clinic,Clinic,"06
+Tripathi Ganj",Dibrugarh,CO,30455,US,2025-11-02T09:05:05,ORG_0009
+CRM_A,CRM_A_O_ORG_0010_977,Balay-Merchant Lab,Lab,"27, Acharya Path",Bhopal,VA,61735,US,2026-01-04T15:29:25,ORG_0010
+CRM_B,CRM_B_O_ORG_0010_187,Balay-Merchant Lab,Lab,27 Acharya Path,Bhopal,VA,61735,US,2026-01-15T07:49:04,ORG_0010
+CRM_A,CRM_A_O_ORG_0011_671,"Dugar, Gole and Natt Pharmacy",Pharmacy,"H.No. 238, Ghosh Nagar",Bilaspur,NX,97936,US,2025-10-09T18:09:33,ORG_0011
+CRM_B,CRM_B_O_ORG_0011_225,"Dugar, Gole and Natt Pharmacy",Pharmacy,"H.No. 238, Ghosh Nagar",Bilaspur,NX,97936,US,2025-12-14T15:02:51,ORG_0011
+CRM_A,CRM_A_O_ORG_0012_566,"Raja, Desai and Tailor Hospital",Hospital,"514
+Shetty Circle",Gudivada,PA,28129,US,2026-02-19T03:16:00,ORG_0012
+CRM_A,CRM_A_O_ORG_0013_888,Chand-Murty Hospital,Hospital,"954, Khosla Path",Rajahmundry,WB,855018,IN,2026-01-03T13:02:31,ORG_0013
+CRM_B,CRM_B_O_ORG_0013_525,Chand-Murty Hospital,Hospital,"954, Khosla Path",Rajahmundry,WB,855018,IN,2025-10-31T21:17:03,ORG_0013
+CRM_A,CRM_A_O_ORG_0014_385,"Karan, Narula and Tella Lab",Lab,"99/91
+Palan Marg",Karnal,MA,43177,US,2025-10-17T05:28:21,ORG_0014
+CRM_B,CRM_B_O_ORG_0014_873,"Karan, Narula and Tella Lab",Lab,"99/91
+Palan Marg",Karnal,MA,43177,US,2026-01-21T07:22:50,ORG_0014
+CRM_A,CRM_A_O_ORG_0015_938,"Nori, Dhar and Deol Clinic",Clinic,"51/209
+Bhatti Nagar",Mehsana,WB,889303,IN,2025-12-07T13:10:45,ORG_0015
+CRM_B,CRM_B_O_ORG_0015_293,"Nori, Dhar and Deol Clinic",Clinic,"51/209
+Bhatti Nagar",Mehsana,WB,889303,IN,2025-11-14T14:18:50,ORG_0015
+CRM_A,CRM_A_O_ORG_0016_581,"Mittal, Shankar and Krish Pharmacy",Pharmacy,"H.No. 149, Khare Marg",Bhusawal,NY,76782-3726,US,2025-12-05T04:07:39,ORG_0016
+CRM_B,CRM_B_O_ORG_0016_435,"Mittal, Shankar and Krish Pharmacy",Pharmacy,"H.No. 149, Khare Marg",Bhusawal,NY,76782-3726,US,2025-11-08T10:02:15,ORG_0016
+CRM_A,CRM_A_O_ORG_0017_659,Char Inc Pharmacy,Pharmacy,"04/596
+Sethi Zila",Ghaziabad,UP,622993,IN,2025-10-21T21:52:08,ORG_0017
+CRM_B,CRM_B_O_ORG_0017_210,Char Inc Pharmacy,Pharmacy,"04/596
+Sethi Zila",Ghaziabad,UP,622993,IN,2025-12-19T16:09:07,ORG_0017
+CRM_B,CRM_B_O_ORG_0017_663,Char Incorporated Pharmacy,Pharmacy,"04/596
+Sethi Zila",Ghaziabad,UP,622993,IN,2025-11-15T14:21:45,ORG_0017
+CRM_A,CRM_A_O_ORG_0018_577,Pathak PLC Pharmacy,Pharmacy,"H.No. 83
+Mannan Road",Ghaziabad,AZ,53983-5148,US,2025-10-26T03:44:31,ORG_0018
+CRM_B,CRM_B_O_ORG_0018_650,Pathak PLC Pharmacy,Pharmacy,"H.No. 83
+Mannan Road",Ghaziabad,AZ,53983-5148,US,2026-01-08T17:24:07,ORG_0018
+CRM_B,CRM_B_O_ORG_0018_340,Pathak PLC Pharmacy,Pharmacy,"H.No. 83
+Mannan Road",Ghaziabad,AZ,53983-5148,US,2025-12-01T03:03:38,ORG_0018
+CRM_A,CRM_A_O_ORG_0019_637,"Mahajan, Ganguly and Chakraborty Diagnostic Center",Diagnostic Center,"42/084, Varkey Zila",Bongaigaon,MA,83700,US,2026-01-17T18:54:46,ORG_0019
+CRM_B,CRM_B_O_ORG_0019_949,"Mahajan, Ganguly and Chakraborty Diagnostic Center",Diagnostic Center,"42/084, Varkey Zila",Bongaigaon,MA,83700,US,2026-01-12T18:45:00,ORG_0019
+CRM_A,CRM_A_O_ORG_0020_157,"Ray, Nagi and Madan Hospital",Hospital,"87, Nair Street",Visakhapatnam,MH,219248,IN,2025-10-29T04:05:54,ORG_0020
+CRM_B,CRM_B_O_ORG_0020_316,"Ray, Nagi and Madan Hospital",Hospital,"87, Nair Street",Visakhapatnam,MH,219248,IN,2025-10-26T14:55:59,ORG_0020
+CRM_A,CRM_A_O_ORG_0021_337,"Prakash, Mukhopadhyay and Dar Lab",Lab,"H.No. 909
+Shankar Ganj",Sultan Pur Majra,TS,900690,IN,2025-12-17T07:50:20,ORG_0021
+CRM_B,CRM_B_O_ORG_0021_599,"Prakash, Mukhopadhyay and Dar Lab",Lab,H.No. 909 Shankar Ganj,Sultan Pur Majra,TS,900690,IN,2025-11-27T09:01:28,ORG_0021
+CRM_A,CRM_A_O_ORG_0022_791,Agate-Savant Lab,Lab,"06/169
+Chowdhury Road",Bharatpur,DL,152343,IN,2025-12-01T04:50:41,ORG_0022
+CRM_B,CRM_B_O_ORG_0022_726,Agate-Savant Lab,Lab,"06/169
+Chowdhury Road",Bharatpur,DL,152343,IN,2025-11-03T20:20:57,ORG_0022
+CRM_A,CRM_A_O_ORG_0023_506,Garg PLC Lab,Lab,"36/95
+Patla Path",Shivpuri,WX,405946,IN,2025-12-14T05:45:52,ORG_0023
+CRM_B,CRM_B_O_ORG_0023_349,Garg PLC Lab,Lab,"36/95
+Patla Path",Shivpuri,WX,405946,IN,2025-11-02T14:52:42,ORG_0023
+CRM_B,CRM_B_O_ORG_0023_622,Garg PLC Lab,Lab,"36/95
+Patla Path",Shivpuri,WX,405946,IN,2025-11-11T17:53:59,ORG_0023
+CRM_A,CRM_A_O_ORG_0024_794,Bhatia-Rout Diagnostic Center,Diagnostic Center,"691, Rama Path",Khora ,OH,94185,US,2026-01-26T17:22:07,ORG_0024
+CRM_B,CRM_B_O_ORG_0024_284,Bhatia-Rout Diagnostic Center,Diagnostic Center,"691, Rama Path",Khora ,OH,94185,US,2025-11-28T12:35:18,ORG_0024
+CRM_B,CRM_B_O_ORG_0024_652,Bhatia-Rout Diagnostic Center,Diagnostic Center,"691, Rama Path",Khora ,OH,94185,US,2026-01-08T08:12:43,ORG_0024
+CRM_A,CRM_A_O_ORG_0025_365,Saran Inc Diagnostic Center,Diagnostic Center,"61, Apte Nagar",Kamarhati,AK,85638,US,2026-01-24T22:00:41,ORG_0025
+CRM_B,CRM_B_O_ORG_0025_933,Saran Inc Diagnostic Center,Diagnostic Center,61 Apte Nagar,Kamarhati,AK,85638,US,2026-01-24T11:24:56,ORG_0025
+CRM_A,CRM_A_O_ORG_0026_362,Bose-Devan Hospital,Hospital,"45/96, Choudhary",Nandyal,AK,18052-5455,US,2025-12-30T10:16:52,ORG_0026
+CRM_B,CRM_B_O_ORG_0026_755,Bose-Devan Hospital,Hospital,"45/96, Choudhary",Nandyal,AK,18052-5455,US,2025-11-03T17:33:34,ORG_0026
+CRM_A,CRM_A_O_ORG_0027_750,Lal PLC Diagnostic Center,Diagnostic Center,"856
+Jayaraman Ganj",Secunderabad,MI,37993,US,2026-01-12T04:25:18,ORG_0027
+CRM_B,CRM_B_O_ORG_0027_956,Lal PLC Diagnostic Ctr,Diagnostic Center,"856
+Jayaraman Ganj",Secunderabad,MI,37993,US,2025-11-03T19:33:50,ORG_0027
+CRM_A,CRM_A_O_ORG_0028_362,"Vala, Luthra and Chada Hospital",Hospital,"87/870, Varty Zila",Chandigarh,TS,387771,IN,2025-11-15T00:06:59,ORG_0028
+CRM_B,CRM_B_O_ORG_0028_795,"Vala, Luthra and Chada Hospital",Hospital,"87/870, Varty Zila",Chandigarh,TS,387771,IN,2025-10-10T12:20:36,ORG_0028
+CRM_A,CRM_A_O_ORG_0029_156,Kashyap and Sons Pharmacy,Pharmacy,"52/33
+Lata Zila",Rourkela,FL,76281,US,2026-02-07T19:39:26,ORG_0029
+CRM_B,CRM_B_O_ORG_0029_746,Kashyap and Sons Pharmacy,Pharmacy,"52/33
+Lata Zila",Rourkela,FL,76281,US,2026-01-24T12:09:24,ORG_0029
+CRM_A,CRM_A_O_ORG_0029_859,Kashyap and Sons Pharmacy,Pharmacy,"52/33
+Lata Zila",Rourkela,FL,76281,US,2026-01-14T20:15:42,ORG_0029
+CRM_A,CRM_A_O_ORG_0030_171,Bumb-Sathe Hospital,Hospital,"71/278, Saha Chowk",Sambalpur,AK,62863,US,2025-11-27T04:04:51,ORG_0030
+CRM_B,CRM_B_O_ORG_0030_861,Bumb-Sathe Hospital,Hospital,"71/278, Saha Chowk",Sambalpur,AK,62863,US,2025-10-23T13:07:28,ORG_0030
+CRM_A,CRM_A_O_ORG_0031_708,"Uppal, Sundaram and Baria Pharmacy",Pharmacy,"220, Dhar Circle",Meerut,MD,69087,US,2026-01-06T12:08:27,ORG_0031
+CRM_B,CRM_B_O_ORG_0031_519,"Uppal, Sundaram and Baria Pharmacy",Pharmacy,"220, Dhar Circle",Meerut,MD,69087,US,2025-11-30T21:59:33,ORG_0031
+CRM_A,CRM_A_O_ORG_0032_632,Manda-Venkataraman Diagnostic Center,Diagnostic Center,"35/197
+Chaudhari Circle",Rohtak,AK,70632-2682,US,2026-01-01T06:48:52,ORG_0032
+CRM_B,CRM_B_O_ORG_0032_953,Manda-Venkataraman Diagnostic Ctr,Diagnostic Center,35/197 Chaudhari Circle,Rohtak,AK,70632-2682,US,2025-11-09T14:49:59,ORG_0032
+CRM_B,CRM_B_O_ORG_0032_100,Manda-Venkataraman Diagnostic Center,Diagnostic Center,"35/197
+Chaudhari Circle",Rohtak,AK,70632-2682,US,2026-01-07T08:13:27,ORG_0032
+CRM_A,CRM_A_O_ORG_0033_870,"Pandit, Soni and Choudhury Diagnostic Center",Diagnostic Center,"H.No. 25, Badal",Gaya,WA,36765,US,2025-12-18T12:02:40,ORG_0033
+CRM_B,CRM_B_O_ORG_0033_800,"Pandit, Soni and Choudhury Diagnostic Center",Diagnostic Center,"H.No. 25, Badal",Gaya,WA,36765,US,2025-11-30T10:41:05,ORG_0033
+CRM_A,CRM_A_O_ORG_0034_286,"Menon, Gala and Deol Hospital",Hospital,"H.No. 701
+Kapoor Circle",Mathura,CA,61021,US,2026-01-30T20:26:44,ORG_0034
+CRM_B,CRM_B_O_ORG_0034_864,"Menon, Gala and Deol Hospital",Hospital,H.No. 701 Kapoor Circle,Mathura,CA,61021,US,2025-11-04T13:38:53,ORG_0034
+CRM_A,CRM_A_O_ORG_0035_408,Tailor-Majumdar Hospital,Hospital,"H.No. 03, Om Nagar",Chapra,PA,84879,US,2025-11-13T08:57:10,ORG_0035
+CRM_B,CRM_B_O_ORG_0035_843,Tailor-Majumdar Hospital,Hospital,"H.No. 03, Om Nagar",Chapra,PA,84879,US,2025-12-10T09:35:56,ORG_0035
+CRM_A,CRM_A_O_ORG_0036_493,Natarajan Ltd Diagnostic Center,Diagnostic Center,"33, Palan Ganj",Muzaffarpur,NC,78329,US,2025-11-11T01:00:37,ORG_0036
+CRM_B,CRM_B_O_ORG_0036_201,Natarajan Ltd Diagnostic Center,Diagnostic Center,"33, Palan Ganj",Muzaffarpur,NC,78329,US,2025-10-07T23:29:18,ORG_0036
+CRM_A,CRM_A_O_ORG_0037_831,Tella-Gade Hospital,Hospital,"H.No. 152, Sur",Begusarai,FL,15463,US,2025-11-15T05:03:28,ORG_0037
+CRM_B,CRM_B_O_ORG_0037_699,Tella-Gade Hospital,Hospital,"H.No. 152, Sur",Begusarai,FL,15463,US,2025-12-12T09:54:57,ORG_0037
+CRM_A,CRM_A_O_ORG_0038_484,Mani-Raval Diagnostic Center,Diagnostic Center,"H.No. 167, Bera Nagar",Dehradun,AL,34850,US,2025-12-08T10:38:37,ORG_0038
+CRM_B,CRM_B_O_ORG_0038_357,Mani-Raval Diagnostic Center,Diagnostic Center,"H.No. 167, Bera Nagar",Dehradun,AL,34850,US,2026-01-29T03:55:55,ORG_0038
+CRM_B,CRM_B_O_ORG_0038_490,Mani-Raval Diagnostic Center,Diagnostic Center,"H.No. 167, Bera Nagar",Dehradun,AL,34850,US,2025-10-29T11:19:12,ORG_0038
+CRM_A,CRM_A_O_ORG_0039_879,Varkey and Sons Lab,Lab,"407, Sant Marg",Naihati,TX,67636,US,2026-01-13T17:14:34,ORG_0039
+CRM_B,CRM_B_O_ORG_0039_925,Varkey and Sons Lab,Lab,"407, Sant Marg",Naihati,TX,67636,US,2025-11-29T21:23:48,ORG_0039
+CRM_A,CRM_A_O_ORG_0040_345,"Kala, Ramachandran and Dua Lab",Lab,"H.No. 350, Cheema Zila",Gopalpur,TX,42435,US,2025-11-16T13:21:57,ORG_0040
+CRM_B,CRM_B_O_ORG_0040_161,"Kala, Ramachandran and Dua Lab",Lab,"H.No. 350, Cheema Zila",Gopalpur,TX,42435,US,2026-01-12T10:07:40,ORG_0040
+CRM_A,CRM_A_O_ORG_0041_996,Purohit-Narain Diagnostic Center,Diagnostic Center,"29/18, Trivedi Road",Raurkela Industrial Township,VA,30869,US,2025-11-21T09:19:02,ORG_0041
+CRM_A,CRM_A_O_ORG_0042_808,Mall-Sarna Pharmacy,Pharmacy,"H.No. 47, Bhakta Street",Unnao,CO,15677,US,2025-11-17T07:23:49,ORG_0042
+CRM_B,CRM_B_O_ORG_0042_932,Mall-Sarna Pharmacy,Pharmacy,"H.No. 47, Bhakta Street",Unnao,CO,15677,US,2026-01-17T18:05:53,ORG_0042
+CRM_A,CRM_A_O_ORG_0043_519,Mohan-Dass Lab,Lab,"56, Kurian Ganj",Firozabad,MD,66066,US,2026-02-08T07:21:57,ORG_0043
+CRM_B,CRM_B_O_ORG_0043_692,Mohan-Dass Lab,Lab,"56, Kurian Ganj",Firozabad,MD,66066,US,2026-01-27T05:19:55,ORG_0043
+CRM_A,CRM_A_O_ORG_0043_806,Mohan-Dass Lab,Lab,"56, Kurian Ganj",Firozabad,MD,66066,US,2026-02-09T01:09:12,ORG_0043
+CRM_A,CRM_A_O_ORG_0044_228,Nanda-Chaudhuri Hospital,Hospital,"H.No. 44
+Patil Marg",Tirupati,WA,36528,US,2025-11-19T08:16:20,ORG_0044
+CRM_B,CRM_B_O_ORG_0044_547,Nanda-Chaudhuri Hospital,Hospital,"H.No. 44
+Patil Marg",Tirupati,WA,36528,US,2026-01-05T16:14:39,ORG_0044
+CRM_A,CRM_A_O_ORG_0045_196,"Bir, Master and Nadkarni Clinic",Clinic,"H.No. 28, Walla Circle",Bihar Sharif,PA,70558,US,2026-01-25T04:02:15,ORG_0045
+CRM_A,CRM_A_O_ORG_0046_872,Nadkarni-Badal Diagnostic Center,Diagnostic Center,"H.No. 431, Memon Chowk",Solapur,NC,39095,US,2025-12-26T11:33:12,ORG_0046
+CRM_B,CRM_B_O_ORG_0046_908,Nadkarni-Badal Diagnostic Ctr,Diagnostic Center,"H.No. 431, Memon Chowk",Solapur,NC,39095,US,2025-11-12T05:36:03,ORG_0046
+CRM_A,CRM_A_O_ORG_0047_841,Chaudhari and Sons Hospital,Hospital,"99/754
+Kanda Circle",Morbi,AZ,26486,US,2025-10-12T14:39:02,ORG_0047
+CRM_B,CRM_B_O_ORG_0047_137,Chaudhari and Sons Hosp,Hospital,"99/754
+Kanda Circle",Morbi,AZ,26486,US,2026-01-05T05:24:47,ORG_0047
+CRM_A,CRM_A_O_ORG_0048_600,Sule-Deo Pharmacy,Pharmacy,"15/422
+D’Alia Road",Ratlam,TN,211668,IN,2026-01-15T09:38:52,ORG_0048
+CRM_B,CRM_B_O_ORG_0048_189,Sule-Deo Pharmacy,Pharmacy,"15/422
+D’Alia Road",Ratlam,TN,211668,IN,2025-11-10T06:20:23,ORG_0048
+CRM_A,CRM_A_O_ORG_0049_385,Jani PLC Pharmacy,Pharmacy,"H.No. 12, Soman Road",Bokaro,KA,957928,IN,2025-10-15T09:08:09,ORG_0049
+CRM_B,CRM_B_O_ORG_0049_777,Jani PLC Pharmacy,Pharmacy,"H.No. 12, Soman Road",Bokaro,KA,957928,IN,2026-01-29T14:39:07,ORG_0049
+CRM_A,CRM_A_O_ORG_0050_254,Shah and Sons Diagnostic Center,Diagnostic Center,"41, Subramanian",Thrissur,AL,26392,US,2025-11-10T02:59:03,ORG_0050
+CRM_B,CRM_B_O_ORG_0050_854,Shah and Sons Diagnostic Center,Diagnostic Center,41 Subramanian,Thrissur,AL,26392,US,2025-11-30T22:52:57,ORG_0050
+CRM_B,CRM_B_O_ORG_0050_903,Shah and Sons Diagnostic Center,Diagnostic Center,"41, Subramanian",Thrissur,AL,26392,US,2025-12-01T23:47:29,ORG_0050
+CRM_A,CRM_A_O_ORG_0051_597,Bawa-Ben Clinic,Clinic,"239
+Suri",Bhagalpur,WY,682557,IN,2025-10-16T21:17:47,ORG_0051
+CRM_B,CRM_B_O_ORG_0051_350,Bawa-Ben Clinic,Clinic,"239
+Suri",Bhagalpur,WY,682557,IN,2025-12-11T06:06:57,ORG_0051
+CRM_A,CRM_A_O_ORG_0052_169,Pradhan and Sons Pharmacy,Pharmacy,"H.No. 858, Sharma Ganj",Raurkela Industrial Township,WB,931896,IN,2025-12-09T08:35:38,ORG_0052
+CRM_B,CRM_B_O_ORG_0052_993,Pradhan and Sons Pharmacy,Pharmacy,"H.No. 858, Sharma Ganj",Raurkela Industrial Township,WB,931896,IN,2026-02-01T15:08:04,ORG_0052
+CRM_A,CRM_A_O_ORG_0053_709,"Gola, Sagar and Kara Hospital",Hospital,"H.No. 894, Chaudhry Path",Proddatur,NY,75701,US,2025-12-06T17:39:20,ORG_0053
+CRM_B,CRM_B_O_ORG_0053_938,"Gola, Sagar and Kara Hospital",Hospital,"H.No. 894, Chaudhry Path",Proddatur,NY,75701,US,2025-12-10T12:20:02,ORG_0053
+CRM_A,CRM_A_O_ORG_0054_114,"Pal, Tripathi and Varty Pharmacy",Pharmacy,"11/99, Golla Road",Mehsana,MD,61109,US,2026-02-04T11:28:37,ORG_0054
+CRM_B,CRM_B_O_ORG_0054_400,"Pal, Tripathi and Varty Pharmacy",Pharmacy,"11/99, Golla Road",Mehsana,MD,61109,US,2026-01-31T20:12:42,ORG_0054
+CRM_B,CRM_B_O_ORG_0054_792,"Pal, Tripathi and Varty Pharmacy",Pharmacy,11/99 Golla Road,Mehsana,MD,61109,US,2025-11-15T04:18:07,ORG_0054
+CRM_A,CRM_A_O_ORG_0055_825,"Keer, Mangal and Deshmukh Pharmacy",Pharmacy,"43, Nagar Ganj",Maheshtala,WA,29192,US,2025-11-25T05:09:45,ORG_0055
+CRM_B,CRM_B_O_ORG_0055_726,"Keer, Mangal and Deshmukh Pharmacy",Pharmacy,"43, Nagar Ganj",Maheshtala,WA,29192,US,2025-11-04T05:32:39,ORG_0055
+CRM_A,CRM_A_O_ORG_0056_299,Hayre-Guha Lab,Lab,"71/97
+Arora Street",Dhanbad,CO,48692,US,2026-02-05T15:20:26,ORG_0056
+CRM_B,CRM_B_O_ORG_0056_683,Hayre-Guha Lab,Lab,"71/97
+Arora Street",Dhanbad,CO,48692,US,2025-10-10T14:57:14,ORG_0056
+CRM_A,CRM_A_O_ORG_0056_608,Hayre-Guha Lab,Lab,"71/97
+Arora Street",Dhanbad,CO,48692,US,2026-02-06T04:26:15,ORG_0056
+CRM_A,CRM_A_O_ORG_0057_380,"Kale, Goyal and Manne Hospital",Hospital,"H.No. 30, Buch Nagar",Kamarhati,OH,96330,US,2025-12-24T05:30:03,ORG_0057
+CRM_B,CRM_B_O_ORG_0057_718,"Kale, Goyal and Manne Hospital",Hospital,"H.No. 30, Buch Nagar",Kamarhati,OH,96330,US,2025-10-21T07:30:34,ORG_0057
+CRM_A,CRM_A_O_ORG_0058_185,Puri and Sons Hospital,Hospital,"430, Tank Circle",Farrukhabad,NY,65993,US,2026-01-13T17:44:12,ORG_0058
+CRM_A,CRM_A_O_ORG_0059_574,Srinivasan-Thakkar Pharmacy,Pharmacy,"07/12, Ganesh Zila",Shimla,UP,213598,IN,2026-01-16T14:40:33,ORG_0059
+CRM_B,CRM_B_O_ORG_0059_310,Srinivasan-Thakkar Pharmacy,Pharmacy,"07/12, Ganesh Zila",Shimla,UP,213598,IN,2025-11-16T10:01:00,ORG_0059
+CRM_A,CRM_A_O_ORG_0060_715,"Zacharia, Sankaran and Brahmbhatt Pharmacy",Pharmacy,"419, Gola Circle",Ujjain,WA,69671,US,2026-01-06T06:40:49,ORG_0060
+CRM_B,CRM_B_O_ORG_0060_420,"Zacharia, Sankaran and Brahmbhatt Pharmacy",Pharmacy,"419, Gola Circle",Ujjain,WA,69671,US,2026-01-21T08:48:00,ORG_0060
+CRM_A,CRM_A_O_ORG_0061_212,Mannan-Parsa Pharmacy,Pharmacy,"H.No. 769, Bose",Asansol,AK,40740,US,2026-01-29T04:43:22,ORG_0061
+CRM_B,CRM_B_O_ORG_0061_169,Mannan-Parsa Pharmacy,Pharmacy,"H.No. 769, Bose",Asansol,AK,40740,US,2025-12-10T09:33:36,ORG_0061
+CRM_A,CRM_A_O_ORG_0062_664,"Kade, Chada and Chana Diagnostic Center",Diagnostic Center,"89
+Chhabra Path",Machilipatnam,IL,29967,US,2026-01-12T12:02:46,ORG_0062
+CRM_A,CRM_A_O_ORG_0063_437,Bhalla-Chhabra Pharmacy,Pharmacy,"H.No. 544, Dhawan Nagar",Bahraich,MA,57779,US,2025-12-12T02:49:44,ORG_0063
+CRM_B,CRM_B_O_ORG_0063_404,Bhalla-Chhabra Pharmacy,Pharmacy,"H.No. 544, Dhawan Nagar",Bahraich,MA,57779,US,2025-12-26T11:27:33,ORG_0063
+CRM_A,CRM_A_O_ORG_0064_760,Bhargava-Dada Clinic,Clinic,"162, Sinha Path",Tiruchirappalli,NY,21566,US,2026-01-15T00:49:07,ORG_0064
+CRM_B,CRM_B_O_ORG_0064_667,Bhargava-Dada Clinic,Clinic,"162, Sinha Path",Tiruchirappalli,NY,21566,US,2025-10-20T01:05:47,ORG_0064
+CRM_A,CRM_A_O_ORG_0065_805,Bandi Inc Diagnostic Center,Diagnostic Center,"68, Sinha Path",Mathura,IL,70116,US,2025-12-09T01:01:10,ORG_0065
+CRM_B,CRM_B_O_ORG_0065_271,Bandi Inc Diagnostic Center,Diagnostic Center,"68, Sinha Path",Mathura,IL,70116,US,2025-10-13T01:40:43,ORG_0065
+CRM_B,CRM_B_O_ORG_0065_646,Bandi Inc Diagnostic Center,Diagnostic Center,"68, Sinha Path",Mathura,IL,70116,US,2025-11-20T10:04:49,ORG_0065
+CRM_A,CRM_A_O_ORG_0066_126,"Soman, Khalsa and Madan Clinic",Clinic,"18/458
+Rama Zila",Nashik,MA,24944,US,2025-12-27T12:14:41,ORG_0066
+CRM_B,CRM_B_O_ORG_0066_196,"Soman, Khalsa and Madan Clinic",Clinic,"18/458
+Rama Zila",Nashik,MA,24944,US,2025-12-15T11:04:27,ORG_0066
+CRM_A,CRM_A_O_ORG_0067_129,Chhabra and Sons Lab,Lab,"23/63, Desai Chowk",Gorakhpur,VA,22606-1718,US,2026-01-25T11:21:01,ORG_0067
+CRM_B,CRM_B_O_ORG_0067_793,Chhabra and Sons Lab,Lab,"23/63, Desai Chowk",Gorakhpur,VA,22606-1718,US,2025-10-25T04:09:25,ORG_0067
+CRM_A,CRM_A_O_ORG_0068_130,Dewan PLC Hospital,Hospital,"31/026, Kaul Street",Nagpur,CO,27635,US,2026-02-17T22:05:29,ORG_0068
+CRM_B,CRM_B_O_ORG_0068_774,Dewan PLC Hospital,Hospital,"31/026, Kaul Street",Nagpur,CO,27635,US,2025-12-05T06:28:45,ORG_0068
+CRM_A,CRM_A_O_ORG_0068_118,Dewan PLC Hospital,Hospital,"31/026, Kaul Street",Nagpur,CO,27635,US,2025-11-28T20:08:10,ORG_0068
+CRM_A,CRM_A_O_ORG_0069_850,Bansal-Rajagopal Clinic,Clinic,"48/252
+Dutta Street",Ichalkaranji,TX,71436,US,2026-01-30T04:23:08,ORG_0069
+CRM_B,CRM_B_O_ORG_0069_717,Bansal-Rajagopal Clnc,Clinic,"48/252
+Dutta Street",Ichalkaranji,TX,71436,US,2025-11-04T01:47:16,ORG_0069
+CRM_A,CRM_A_O_ORG_0070_897,Nayar-Mallick Diagnostic Center,Diagnostic Center,"31
+Chanda Marg",Uluberia,DL,995369,IN,2025-10-17T15:26:19,ORG_0070
+CRM_A,CRM_A_O_ORG_0071_216,Bera-Jhaveri Diagnostic Center,Diagnostic Center,"H.No. 35
+Dutt Road",Gandhidham,MD,56944,US,2026-01-04T08:35:48,ORG_0071
+CRM_B,CRM_B_O_ORG_0071_563,Bera-Jhaveri Diagnostic Center,Diagnostic Center,"H.No. 35
+Dutt Road",Gandhidham,MD,56944,US,2025-12-03T04:45:30,ORG_0071
+CRM_A,CRM_A_O_ORG_0072_930,Kumer Group Hospital,Hospital,"62
+Rout Street",Pali,AZ,62811,US,2026-01-14T21:35:49,ORG_0072
+CRM_B,CRM_B_O_ORG_0072_212,Kumer Group Hospital,Hospital,"62
+Rout Street",Pali,AZ,62811,US,2025-10-30T01:37:04,ORG_0072
+CRM_A,CRM_A_O_ORG_0073_142,Tailor LLC Pharmacy,Pharmacy,"04/55
+Dhar Street",Tirunelveli,AZ,76238,US,2025-12-28T11:55:31,ORG_0073
+CRM_B,CRM_B_O_ORG_0073_120,Tailor LLC Pharmacy,Pharmacy,"04/55
+Dhar Street",Tirunelveli,AZ,76238,US,2025-10-14T22:47:46,ORG_0073
+CRM_A,CRM_A_O_ORG_0074_997,"Bassi, Parsa and Sane Lab",Lab,"549
+Walia Chowk",Gandhinagar,UP,811751,IN,2025-12-02T16:23:39,ORG_0074
+CRM_B,CRM_B_O_ORG_0074_776,"Bassi, Parsa and Sane Lab",Lab,"549
+Walia Chowk",Gandhinagar,UP,811751,IN,2026-02-03T22:02:31,ORG_0074
+CRM_A,CRM_A_O_ORG_0075_776,Karnik-Subramaniam Clinic,Clinic,"60/34, Sunder Circle",Coimbatore,WB,196069,IN,2025-11-03T11:09:54,ORG_0075
+CRM_B,CRM_B_O_ORG_0075_158,Karnik-Subramaniam Clinic,Clinic,"60/34, Sunder Circle",Coimbatore,WB,196069,IN,2025-11-22T23:31:37,ORG_0075
+CRM_A,CRM_A_O_ORG_0076_703,Sangha Inc Pharmacy,Pharmacy,"H.No. 65, Prabhakar Ganj",Tiruchirappalli,MH,543843,IN,2025-11-13T12:07:50,ORG_0076
+CRM_B,CRM_B_O_ORG_0076_301,Sangha Incorporated Pharmacy,Pharmacy,"H.No. 65, Prabhakar Ganj",Tiruchirappalli,MH,543843,IN,2026-01-10T00:25:40,ORG_0076
+CRM_A,CRM_A_O_ORG_0077_278,Nadkarni LLC Pharmacy,Pharmacy,"H.No. 01, Bajaj Path",Kakinada,PA,44585,US,2026-01-09T01:46:43,ORG_0077
+CRM_B,CRM_B_O_ORG_0077_627,Nadkarni LLC Pharmacy,Pharmacy,"H.No. 01, Bajaj Path",Kakinada,PA,44585,US,2026-01-17T11:54:15,ORG_0077
+CRM_A,CRM_A_O_ORG_0078_352,"Shroff, Bhat and Vohra Pharmacy",Pharmacy,"08/83
+Vyas Path",Nagercoil,DL,802347,IN,2025-11-12T00:47:36,ORG_0078
+CRM_B,CRM_B_O_ORG_0078_243,"Shroff, Bhat and Vohra Pharmacy",Pharmacy,"08/83
+Vyas Path",Nagercoil,DL,802347,IN,2026-01-05T19:02:21,ORG_0078
+CRM_A,CRM_A_O_ORG_0079_115,"Kapur, Sane and Lal Hospital",Hospital,"H.No. 87
+Sen Path",Bhilwara,AL,98513,US,2025-12-04T08:34:22,ORG_0079
+CRM_B,CRM_B_O_ORG_0079_369,"Kapur, Sane and Lal Hospital",Hospital,"H.No. 87
+Sen Path",Bhilwara,AL,98513,US,2025-12-05T00:06:38,ORG_0079
+CRM_B,CRM_B_O_ORG_0079_748,"Kapur, Sane and Lal Hospital",Hospital,"H.No. 87
+Sen Path",Bhilwara,AL,98513,US,2026-02-03T01:55:37,ORG_0079
+CRM_A,CRM_A_O_ORG_0080_959,Palla Ltd Hospital,Hospital,"904
+Rajagopalan Ganj",Morena,AL,97364,US,2025-11-04T05:15:40,ORG_0080
+CRM_B,CRM_B_O_ORG_0080_599,Palla Ltd Hospital,Hospital,"904
+Rajagopalan Ganj",Morena,AL,97364,US,2026-02-03T03:37:34,ORG_0080
+CRM_A,CRM_A_O_ORG_0081_447,Raval-Varma Diagnostic Center,Diagnostic Center,"78/50
+Virk Chowk",Ongole,AL,54291-5584,US,2025-12-22T10:05:27,ORG_0081
+CRM_B,CRM_B_O_ORG_0081_624,Raval-Varma Diagnostic Center,Diagnostic Center,"78/50
+Virk Chowk",Ongole,AL,54291-5584,US,2025-12-22T07:12:36,ORG_0081
+CRM_A,CRM_A_O_ORG_0082_795,Nadkarni and Sons Hospital,Hospital,"15/80, Raval Circle",Nagaon,CO,95419,US,2025-12-30T15:58:48,ORG_0082
+CRM_B,CRM_B_O_ORG_0082_859,Nadkarni and Sons Hospital,Hospital,"15/80, Raval Circle",Nagaon,CO,95419,US,2026-01-10T16:45:22,ORG_0082
+CRM_A,CRM_A_O_ORG_0083_592,"Lal, Prakash and Chokshi Clinic",Clinic,"32/46, Bobal Chowk",Madhyamgram,AK,51978,US,2025-12-21T20:55:01,ORG_0083
+CRM_B,CRM_B_O_ORG_0083_199,"Lal, Prakash and Chokshi Clinic",Clinic,32/46 Bobal Chowk,Madhyamgram,AK,51978,US,2025-10-09T10:20:21,ORG_0083
+CRM_A,CRM_A_O_ORG_0084_669,Garg-Kalita Clinic,Clinic,"H.No. 002
+Pillai",Jhansi,WB,499915,IN,2025-10-28T19:51:21,ORG_0084
+CRM_B,CRM_B_O_ORG_0084_740,Garg-Kalita Clinic,Clinic,"H.No. 002
+Pillai",Jhansi,WB,499915,IN,2025-12-21T07:32:14,ORG_0084
+CRM_A,CRM_A_O_ORG_0084_113,Garg-Kalita Clinic,Clinic,"H.No. 002
+Pillai",Jhansi,WB,499915,IN,2025-12-21T17:50:30,ORG_0084
+CRM_A,CRM_A_O_ORG_0085_228,Borah-Sunder Hospital,Hospital,"05
+Golla Ganj",Phusro,FL,17453,US,2026-01-04T14:13:19,ORG_0085
+CRM_B,CRM_B_O_ORG_0085_511,Borah-Sunder Hospital,Hospital,"05
+Golla Ganj",Phusro,FL,17453,US,2025-10-09T19:17:00,ORG_0085
+CRM_A,CRM_A_O_ORG_0086_996,"Korpal, Puri and Bose Diagnostic Center",Diagnostic Center,"01/446, Chokshi Road",Sangli-Miraj & Kupwad,VA,18646,US,2025-10-14T01:29:40,ORG_0086
+CRM_B,CRM_B_O_ORG_0086_116,"Korpal, Puri and Bose Diagnostic Center",Diagnostic Center,01/446 Chokshi Road,Sangli-Miraj & Kupwad,VA,18646,US,2025-11-01T23:26:40,ORG_0086
+CRM_A,CRM_A_O_ORG_0087_103,"Mani, Bobal and Bhandari Hospital",Hospital,"75, Atwal Circle",Tezpur,PA,50595,US,2025-11-23T06:08:42,ORG_0087
+CRM_B,CRM_B_O_ORG_0087_111,"Mani, Bobal and Bhandari Hospital",Hospital,"75, Atwal Circle",Tezpur,PA,50595,US,2025-10-19T14:19:39,ORG_0087
+CRM_A,CRM_A_O_ORG_0088_579,"Kapadia, Dube and Viswanathan Clinic",Clinic,"H.No. 117
+Gupta Zila",Kulti,DL,652313,IN,2025-12-06T03:00:37,ORG_0088
+CRM_B,CRM_B_O_ORG_0088_381,"Kapadia, Dube and Viswanathan Clinic",Clinic,"H.No. 117
+Gupta Zila",Kulti,DL,652313,IN,2025-11-16T10:07:41,ORG_0088
+CRM_A,CRM_A_O_ORG_0089_790,"Sundaram, Bala and Sharaf Lab",Lab,"46/79, Shroff Nagar",Muzaffarpur,GA,81271-3944,US,2025-10-13T11:02:03,ORG_0089
+CRM_A,CRM_A_O_ORG_0090_552,Kalita-Cherian Clinic,Clinic,"27/59
+Swaminathan Street",Haridwar,AK,44407-4614,US,2025-11-12T20:37:42,ORG_0090
+CRM_B,CRM_B_O_ORG_0090_398,Kalita-Cherian Clinic,Clinic,"27/59
+Swaminathan Street",Haridwar,AK,44407-4614,US,2025-10-27T03:32:20,ORG_0090
+CRM_A,CRM_A_O_ORG_0091_209,Chad Inc Clinic,Clinic,"97, Master Chowk",Mumbai,NJ,61630,US,2025-12-28T17:37:58,ORG_0091
+CRM_B,CRM_B_O_ORG_0091_883,Chad Incorporated Clnc,Clinic,"97, Master Chowk",Mumbai,NJ,61630,US,2025-10-15T15:34:17,ORG_0091
+CRM_B,CRM_B_O_ORG_0091_710,Chad Inc Clnc,Clinic,"97, Master Chowk",Mumbai,NJ,61630,US,2026-02-01T19:15:33,ORG_0091
+CRM_A,CRM_A_O_ORG_0092_991,"Shere, Bhakta and Bhatnagar Hospital",Hospital,"566, Anand Zila",Bareilly,AL,27970,US,2026-01-10T23:53:38,ORG_0092
+CRM_B,CRM_B_O_ORG_0092_120,"Shere, Bhakta and Bhatnagar Hospital",Hospital,566 Anand Zila,Bareilly,AL,27970,US,2026-01-16T22:07:45,ORG_0092
+CRM_A,CRM_A_O_ORG_0093_708,Vyas LLC Lab,Lab,"00, Bhatia Chowk",Salem,NJ,84983,US,2025-11-01T17:41:12,ORG_0093
+CRM_B,CRM_B_O_ORG_0093_907,Vyas LLC Lab,Lab,"00, Bhatia Chowk",Salem,NJ,84983,US,2025-10-23T00:44:09,ORG_0093
+CRM_A,CRM_A_O_ORG_0094_388,Doctor and Sons Lab,Lab,"12/683, Barman",Jalandhar,NY,10490,US,2026-02-05T14:17:04,ORG_0094
+CRM_B,CRM_B_O_ORG_0094_235,Doctor and Sons Lab,Lab,"12/683, Barman",Jalandhar,NY,10490,US,2025-11-18T08:40:30,ORG_0094
+CRM_A,CRM_A_O_ORG_0095_135,"Banik, Dara and Bose Hospital",Hospital,"69/349, Ahluwalia Zila",Madhyamgram,UP,138100,IN,2025-10-07T06:11:21,ORG_0095
+CRM_B,CRM_B_O_ORG_0095_433,"Banik, Dara and Bose Hospital",Hospital,"69/349, Ahluwalia Zila",Madhyamgram,UP,138100,IN,2025-11-15T17:10:05,ORG_0095
+CRM_A,CRM_A_O_ORG_0096_721,Vasa-Sood Clinic,Clinic,"H.No. 149, Buch Road",Khandwa,UP,807100,IN,2026-01-18T07:17:09,ORG_0096
+CRM_B,CRM_B_O_ORG_0096_380,Vasa-Sood Clinic,Clinic,"H.No. 149, Buch Road",Khandwa,UP,807100,IN,2025-11-22T20:30:45,ORG_0096
+CRM_A,CRM_A_O_ORG_0097_471,Gola PLC Pharmacy,Pharmacy,"25/196, Deshmukh Road",Guna,TZ,621346,IN,2026-02-01T23:40:17,ORG_0097
+CRM_B,CRM_B_O_ORG_0097_129,Gola PLC Pharmacy,Pharmacy,"25/196, Deshmukh Road",Guna,TZ,621346,IN,2025-10-20T13:08:00,ORG_0097
+CRM_B,CRM_B_O_ORG_0097_416,Gola PLC Pharmacy,Pharmacy,"25/196, Deshmukh Road",Guna,TZ,621346,IN,2025-11-07T03:31:52,ORG_0097
+CRM_A,CRM_A_O_ORG_0098_837,"Raju, Dara and Sant Diagnostic Center",Diagnostic Center,"117
+Dugal Nagar",Nizamabad,DL,404313,IN,2026-01-21T01:39:52,ORG_0098
+CRM_A,CRM_A_O_ORG_0099_361,Ramakrishnan-Mutti Hospital,Hospital,"H.No. 242
+Vasa Zila",Anantapur,KA,883282,IN,2026-01-22T05:13:38,ORG_0099
+CRM_B,CRM_B_O_ORG_0099_911,Ramakrishnan-Mutti Hospital,Hospital,"H.No. 242
+Vasa Zila",Anantapur,KA,883282,IN,2025-12-30T23:31:28,ORG_0099
+CRM_B,CRM_B_O_ORG_0099_475,Ramakrishnan-Mutti Hospital,Hospital,"H.No. 242
+Vasa Zila",Anantapur,KA,883282,IN,2025-10-18T05:31:05,ORG_0099
+CRM_A,CRM_A_O_ORG_0100_774,Vohra-Bedi Pharmacy,Pharmacy,"75/950
+Menon Street",Chandrapur,NJ,56658,US,2025-12-19T15:53:02,ORG_0100
+CRM_B,CRM_B_O_ORG_0100_192,Vohra-Bedi Pharmacy,Pharmacy,75/950 Menon Street,Chandrapur,NJ,56658,US,2025-12-30T00:35:44,ORG_0100
+CRM_A,CRM_A_O_ORG_0101_969,"Devi, Sahota and Kale Pharmacy",Pharmacy,"H.No. 23, Sheth Zila",Tumkur,CA,22883,US,2025-12-15T14:14:17,ORG_0101
+CRM_B,CRM_B_O_ORG_0101_681,"Devi, Sahota and Kale Pharmacy",Pharmacy,"H.No. 23, Sheth Zila",Tumkur,CA,22883,US,2025-12-19T11:08:35,ORG_0101
+CRM_A,CRM_A_O_ORG_0101_947,"Devi, Sahota and Kale Pharmacy",Pharmacy,"H.No. 23, Sheth Zila",Tumkur,CA,22883,US,2026-01-02T04:16:57,ORG_0101
+CRM_A,CRM_A_O_ORG_0102_238,"Savant, Tank and Dash Clinic",Clinic,"020, Chana Marg",Tadepalligudem,OH,81131,US,2026-01-31T17:06:06,ORG_0102
+CRM_A,CRM_A_O_ORG_0103_475,"De, Atwal and Keer Clinic",Clinic,"67/67, Mohanty Road",Mangalore,TS,553448,IN,2025-12-19T07:05:32,ORG_0103
+CRM_B,CRM_B_O_ORG_0103_660,"De, Atwal and Keer Clinic",Clinic,"67/67, Mohanty Road",Mangalore,TS,553448,IN,2025-10-16T03:54:27,ORG_0103
+CRM_A,CRM_A_O_ORG_0104_783,"Suresh, Apte and Tara Pharmacy",Pharmacy,"00/49, Karpe Marg",Adoni,MI,93870,US,2025-12-07T13:46:57,ORG_0104
+CRM_B,CRM_B_O_ORG_0104_810,"Suresh, Apte and Tara Pharmacy",Pharmacy,"00/49, Karpe Marg",Adoni,MI,93870,US,2025-11-23T04:16:22,ORG_0104
+CRM_A,CRM_A_O_ORG_0105_332,Sahni-Raman Clinic,Clinic,"29
+Balay Marg",Narasaraopet,NC,66656,US,2026-01-30T08:27:46,ORG_0105
+CRM_B,CRM_B_O_ORG_0105_246,Sahni-Raman Clinic,Clinic,"29
+Balay Marg",Narasaraopet,NC,66656,US,2025-10-17T18:37:48,ORG_0105
+CRM_A,CRM_A_O_ORG_0106_539,Muni-Boase Diagnostic Center,Diagnostic Center,"H.No. 71, Mishra Marg",Bardhaman,PA,35521-8332,US,2026-01-06T13:30:10,ORG_0106
+CRM_B,CRM_B_O_ORG_0106_446,Muni-Boase Diagnostic Center,Diagnostic Center,"H.No. 71, Mishra Marg",Bardhaman,PA,35521-8332,US,2025-10-13T15:37:10,ORG_0106
+CRM_A,CRM_A_O_ORG_0107_591,Thakkar-Lanka Lab,Lab,"57
+Dalal Chowk",Hospet,AZ,82128,US,2025-11-12T11:25:17,ORG_0107
+CRM_B,CRM_B_O_ORG_0107_709,Thakkar-Lanka Lab,Lab,"57
+Dalal Chowk",Hospet,AZ,82128,US,2025-12-29T07:22:41,ORG_0107
+CRM_A,CRM_A_O_ORG_0108_692,Padmanabhan and Sons Diagnostic Center,Diagnostic Center,"789
+Ghosh Ganj",Thrissur,DL,738788,IN,2025-11-20T17:11:50,ORG_0108
+CRM_B,CRM_B_O_ORG_0108_560,Padmanabhan and Sons Diagnostic Center,Diagnostic Center,"789
+Ghosh Ganj",Thrissur,DL,738788,IN,2025-12-18T20:21:59,ORG_0108
+CRM_A,CRM_A_O_ORG_0109_529,Ghose Group Clinic,Clinic,"54
+Mann Circle",Panchkula,MA,84134,US,2026-01-08T12:28:32,ORG_0109
+CRM_B,CRM_B_O_ORG_0109_840,Ghose Group Clnc,Clinic,"54
+Mann Circle",Panchkula,MA,84134,US,2026-02-04T08:35:03,ORG_0109
+CRM_B,CRM_B_O_ORG_0109_566,Ghose Group Clinic,Clinic,54 Mann Circle,Panchkula,MA,84134,US,2025-11-15T05:29:20,ORG_0109
+CRM_A,CRM_A_O_ORG_0110_874,Mann-Sangha Diagnostic Center,Diagnostic Center,"H.No. 40
+Balan Ganj",Bhatpara,CO,70929,US,2025-10-24T00:44:22,ORG_0110
+CRM_B,CRM_B_O_ORG_0110_895,Mann-Sangha Diagnostic Center,Diagnostic Center,"H.No. 40
+Balan Ganj",Bhatpara,CO,70929,US,2025-10-13T18:41:06,ORG_0110
+CRM_A,CRM_A_O_ORG_0111_789,"Chaudhry, Mital and Kaur Pharmacy",Pharmacy,"59
+Parmer Road",Begusarai,MD,13268,US,2026-01-11T18:40:49,ORG_0111
+CRM_B,CRM_B_O_ORG_0111_116,"Chaudhry, Mital and Kaur Pharmacy",Pharmacy,"59
+Parmer Road",Begusarai,MD,13268,US,2025-11-16T05:23:33,ORG_0111
+CRM_A,CRM_A_O_ORG_0112_391,"Gera, Kale and Deshpande Lab",Lab,"H.No. 53, Palla Ganj",Erode,FL,79756,US,2026-01-31T04:12:36,ORG_0112
+CRM_B,CRM_B_O_ORG_0112_368,"Gera, Kale and Deshpande Lab",Lab,"H.No. 53, Palla Ganj",Erode,FL,79756,US,2025-12-17T11:58:48,ORG_0112
+CRM_A,CRM_A_O_ORG_0113_247,"Edwin, Deo and Viswanathan Lab",Lab,"H.No. 75
+Dixit Road",Korba,AL,67778,US,2026-01-31T21:28:40,ORG_0113
+CRM_B,CRM_B_O_ORG_0113_285,"Edwin, Deo and Viswanathan Lab",Lab,H.No. 75 Dixit Road,Korba,AL,67778,US,2025-10-27T03:42:16,ORG_0113
+CRM_A,CRM_A_O_ORG_0114_859,"Acharya, Chowdhury and Jaggi Diagnostic Center",Diagnostic Center,"76/191, Shan Path",Bangalore,NC,84928,US,2025-11-01T19:35:40,ORG_0114
+CRM_B,CRM_B_O_ORG_0114_316,"Acharya, Chowdhury and Jaggi Diagnostic Ctr",Diagnostic Center,"76/191, Shan Path",Bangalore,NC,84928,US,2025-10-19T18:43:54,ORG_0114
+CRM_A,CRM_A_O_ORG_0115_540,Mukhopadhyay Inc Lab,Lab,"H.No. 581, Dube Marg",Coimbatore,CO,55995,US,2025-11-04T02:49:12,ORG_0115
+CRM_B,CRM_B_O_ORG_0115_583,Mukhopadhyay Inc Lab,Lab,"H.No. 581, Dube Marg",Coimbatore,CO,55995,US,2025-12-09T03:40:37,ORG_0115
+CRM_A,CRM_A_O_ORG_0115_841,Mukhopadhyay Inc Lab,Lab,"H.No. 581, Dube Marg",Coimbatore,CO,55995,US,2025-11-30T04:40:58,ORG_0115
+CRM_A,CRM_A_O_ORG_0116_182,Kohli-Mahajan Hospital,Hospital,"11/58, Ravel Chowk",Agra,DL,779778,IN,2025-12-10T19:57:26,ORG_0116
+CRM_B,CRM_B_O_ORG_0116_642,Kohli-Mahajan Hospital,Hospital,11/58 Ravel Chowk,Agra,DL,779778,IN,2025-10-13T19:48:56,ORG_0116
+CRM_A,CRM_A_O_ORG_0116_744,Kohli-Mahajan Hospital,Hospital,"11/58, Ravel Chowk",Agra,DL,779778,IN,2026-02-17T08:10:31,ORG_0116
+CRM_A,CRM_A_O_ORG_0117_256,"Bhatt, Puri and Jaggi Hospital",Hospital,"50/579
+Dara Street",Rajkot,MA,95391-6915,US,2025-12-12T07:21:44,ORG_0117
+CRM_B,CRM_B_O_ORG_0117_212,"Bhatt, Puri and Jaggi Hospital",Hospital,"50/579
+Dara Street",Rajkot,MA,95391-6915,US,2025-11-01T05:03:54,ORG_0117
+CRM_A,CRM_A_O_ORG_0118_327,Chanda Inc Clinic,Clinic,"94/430, Dewan Nagar",Morbi,KA,374611,IN,2026-01-25T08:46:39,ORG_0118
+CRM_B,CRM_B_O_ORG_0118_788,Chanda Incorporated Clinic,Clinic,"94/430, Dewan Nagar",Morbi,KA,374611,IN,2025-11-16T17:32:43,ORG_0118
+CRM_B,CRM_B_O_ORG_0118_744,Chanda Inc Clinic,Clinic,"94/430, Dewan Nagar",Morbi,KA,374611,IN,2025-12-05T12:45:48,ORG_0118
+CRM_A,CRM_A_O_ORG_0119_518,Devi Inc Pharmacy,Pharmacy,"H.No. 69
+Dhingra Road",Haridwar,CT,74392,US,2025-11-21T12:14:13,ORG_0119
+CRM_B,CRM_B_O_ORG_0119_714,Devi Inc Pharmacy,Pharmacy,"H.No. 69
+Dhingra Road",Haridwar,CT,74392,US,2025-12-31T11:26:56,ORG_0119
+CRM_A,CRM_A_O_ORG_0120_345,"Gulati, Anand and Vora Clinic",Clinic,"32, Saxena Marg",Kamarhati,NY,28519,US,2025-10-10T20:00:15,ORG_0120
+CRM_B,CRM_B_O_ORG_0120_450,"Gulati, Anand and Vora Clinic",Clinic,32 Saxena Marg,Kamarhati,NY,28519,US,2025-11-30T18:33:43,ORG_0120
+CRM_A,CRM_A_O_ORG_0121_450,"Chaudhry, Chahal and More Clinic",Clinic,"H.No. 075, Thakur Ganj",Vijayawada,AL,11729,US,2025-10-19T14:39:53,ORG_0121
+CRM_B,CRM_B_O_ORG_0121_453,"Chaudhry, Chahal and More Clinic",Clinic,H.No. 075 Thakur Ganj,Vijayawada,AL,11729,US,2025-10-08T18:33:38,ORG_0121
+CRM_B,CRM_B_O_ORG_0121_229,"Chaudhry, Chahal and More Clinic",Clinic,"H.No. 075, Thakur Ganj",Vijayawada,AL,11729,US,2025-11-19T02:32:51,ORG_0121
+CRM_A,CRM_A_O_ORG_0122_357,Chopra-Lata Hospital,Hospital,"42, Kant",Gandhinagar,PA,32402,US,2026-02-06T11:15:48,ORG_0122
+CRM_B,CRM_B_O_ORG_0122_880,Chopra-Lata Hospital,Hospital,"42, Kant",Gandhinagar,PA,32402,US,2025-11-17T00:01:06,ORG_0122
+CRM_B,CRM_B_O_ORG_0122_951,Chopra-Lata Hospital,Hospital,"42, Kant",Gandhinagar,PA,32402,US,2026-01-04T11:07:15,ORG_0122
+CRM_A,CRM_A_O_ORG_0123_111,"Kurian, Raj and Choudhury Diagnostic Center",Diagnostic Center,"838
+Sachar Zila",Dewas,AL,33744,US,2025-10-30T19:01:32,ORG_0123
+CRM_B,CRM_B_O_ORG_0123_952,"Kurian, Raj and Choudhury Diagnostic Center",Diagnostic Center,"838
+Sachar Zila",Dewas,AL,33744,US,2025-12-31T02:05:49,ORG_0123
+CRM_A,CRM_A_O_ORG_0124_505,"Desai, Zachariah and Munshi Clinic",Clinic,"H.No. 584
+Lad Chowk",Proddatur,FL,93098,US,2025-12-12T09:32:11,ORG_0124
+CRM_A,CRM_A_O_ORG_0125_758,"Master, Suresh and Nayar Hospital",Hospital,"97/24, Shanker Path",Gaya,NC,75336-4204,US,2026-01-22T06:01:09,ORG_0125
+CRM_B,CRM_B_O_ORG_0125_769,"Master, Suresh and Nayar Hospital",Hospital,97/24 Shanker Path,Gaya,NC,75336-4204,US,2026-01-27T07:13:38,ORG_0125
+CRM_A,CRM_A_O_ORG_0126_889,Oak-Pai Clinic,Clinic,"H.No. 421
+Andra Nagar",Dewas,CO,95355,US,2025-12-08T02:34:36,ORG_0126
+CRM_B,CRM_B_O_ORG_0126_266,Oak-Pai Clinic,Clinic,"H.No. 421
+Andra Nagar",Dewas,CO,95355,US,2026-01-31T10:39:47,ORG_0126
+CRM_A,CRM_A_O_ORG_0127_502,"Ratta, Dani and Choudhary Diagnostic Center",Diagnostic Center,"85
+Prabhu Road",Buxar,CO,41354,US,2025-12-30T12:31:00,ORG_0127
+CRM_B,CRM_B_O_ORG_0127_788,"Ratta, Dani and Choudhary Diagnostic Ctr",Diagnostic Center,85 Prabhu Road,Buxar,CO,41354,US,2026-01-31T03:27:29,ORG_0127
+CRM_B,CRM_B_O_ORG_0127_301,"Ratta, Dani and Choudhary Diagnostic Center",Diagnostic Center,"85
+Prabhu Road",Buxar,CO,41354,US,2025-11-23T14:05:18,ORG_0127
+CRM_A,CRM_A_O_ORG_0128_875,"Balay, Pal and Sarraf Lab",Lab,"26
+Goda",Patiala,MA,22061,US,2026-01-26T11:09:54,ORG_0128
+CRM_B,CRM_B_O_ORG_0128_583,"Balay, Pal and Sarraf Lab",Lab,"26
+Goda",Patiala,MA,22061,US,2025-12-04T19:29:26,ORG_0128
+CRM_A,CRM_A_O_ORG_0129_453,"Nigam, Khurana and Anand Pharmacy",Pharmacy,"25/539, Goswami Path",Silchar,WB,795567,IN,2025-11-30T08:47:33,ORG_0129
+CRM_B,CRM_B_O_ORG_0129_517,"Nigam, Khurana and Anand Pharmacy",Pharmacy,"25/539, Goswami Path",Silchar,WB,795567,IN,2026-01-24T10:33:15,ORG_0129
+CRM_A,CRM_A_O_ORG_0130_508,"Jhaveri, Sha and Sura Pharmacy",Pharmacy,"H.No. 252, Pathak Road",Patna,TN,368133,IN,2026-01-05T08:33:56,ORG_0130
+CRM_B,CRM_B_O_ORG_0130_118,"Jhaveri, Sha and Sura Pharmacy",Pharmacy,"H.No. 252, Pathak Road",Patna,TN,368133,IN,2025-12-23T00:23:34,ORG_0130
+CRM_A,CRM_A_O_ORG_0131_105,Kant Inc Pharmacy,Pharmacy,"H.No. 751, Khanna Chowk",Bharatpur,NC,57433,US,2026-01-11T12:09:38,ORG_0131
+CRM_B,CRM_B_O_ORG_0131_937,Kant Inc Pharmacy,Pharmacy,"H.No. 751, Khanna Chowk",Bharatpur,NC,57433,US,2026-01-06T09:53:51,ORG_0131
+CRM_A,CRM_A_O_ORG_0132_599,"Hayre, Sabharwal and Dhar Clinic",Clinic,"21/51
+Sanghvi Path",Bijapur,IL,18596,US,2025-10-31T00:57:25,ORG_0132
+CRM_B,CRM_B_O_ORG_0132_641,"Hayre, Sabharwal and Dhar Clinic",Clinic,"21/51
+Sanghvi Path",Bijapur,IL,18596,US,2025-10-25T21:30:46,ORG_0132
+CRM_A,CRM_A_O_ORG_0133_175,Tandon PLC Diagnostic Center,Diagnostic Center,"H.No. 713
+Kale Path",Anand,NJ,64897,US,2025-12-06T21:10:40,ORG_0133
+CRM_B,CRM_B_O_ORG_0133_349,Tandon PLC Diagnostic Center,Diagnostic Center,H.No. 713 Kale Path,Anand,NJ,64897,US,2026-01-20T15:29:41,ORG_0133
+CRM_A,CRM_A_O_ORG_0134_803,"Chacko, Bhalla and Palla Lab",Lab,"25/62
+Kala Chowk",Parbhani,PA,48885,US,2026-01-20T20:36:05,ORG_0134
+CRM_A,CRM_A_O_ORG_0135_427,Jaggi Inc Lab,Lab,"H.No. 209
+Dhaliwal",Deoghar,GA,66224,US,2025-11-10T22:03:50,ORG_0135
+CRM_B,CRM_B_O_ORG_0135_920,Jaggi Inc Lab,Lab,"H.No. 209
+Dhaliwal",Deoghar,GA,66224,US,2025-10-09T16:30:02,ORG_0135
+CRM_A,CRM_A_O_ORG_0136_120,"Soni, Memon and Dua Clinic",Clinic,"51
+Kapadia Path",Gandhidham,NJ,61332,US,2025-11-23T00:05:08,ORG_0136
+CRM_B,CRM_B_O_ORG_0136_344,"Soni, Memon and Dua Clinic",Clinic,"51
+Kapadia Path",Gandhidham,NJ,61332,US,2026-01-24T23:17:54,ORG_0136
+CRM_A,CRM_A_O_ORG_0137_701,Batta Ltd Clinic,Clinic,"50/669
+Chawla",Bongaigaon,DL,130721,IN,2026-02-14T16:19:18,ORG_0137
+CRM_B,CRM_B_O_ORG_0137_363,Batta Limited Clinic,Clinic,"50/669
+Chawla",Bongaigaon,DL,130721,IN,2026-01-29T08:20:55,ORG_0137
+CRM_B,CRM_B_O_ORG_0137_535,Batta Limited Clnc,Clinic,"50/669
+Chawla",Bongaigaon,DL,130721,IN,2025-12-05T07:56:00,ORG_0137
+CRM_A,CRM_A_O_ORG_0138_492,Randhawa-Vasa Lab,Lab,"44/16
+Khalsa Road",Navi Mumbai,WB,650004,IN,2025-10-20T00:20:33,ORG_0138
+CRM_B,CRM_B_O_ORG_0138_455,Randhawa-Vasa Lab,Lab,44/16 Khalsa Road,Navi Mumbai,WB,650004,IN,2025-12-13T16:08:02,ORG_0138
+CRM_A,CRM_A_O_ORG_0138_615,Randhawa-Vasa Lab,Lab,"44/16
+Khalsa Road",Navi Mumbai,WB,650004,IN,2025-12-31T22:33:47,ORG_0138
+CRM_A,CRM_A_O_ORG_0139_371,Chahal LLC Lab,Lab,"85/402
+Dass Marg",Kadapa,PA,95255,US,2025-10-26T11:40:34,ORG_0139
+CRM_B,CRM_B_O_ORG_0139_423,Chahal LLC Lab,Lab,"85/402
+Dass Marg",Kadapa,PA,95255,US,2025-10-20T19:13:52,ORG_0139
+CRM_B,CRM_B_O_ORG_0139_570,Chahal LLC Lab,Lab,"85/402
+Dass Marg",Kadapa,PA,95255,US,2025-12-16T15:39:13,ORG_0139
+CRM_A,CRM_A_O_ORG_0140_968,Ramaswamy Ltd Lab,Lab,"36/323, Das Path",Tirunelveli,WA,66442,US,2026-01-10T15:01:31,ORG_0140
+CRM_B,CRM_B_O_ORG_0140_389,Ramaswamy Ltd Lab,Lab,"36/323, Das Path",Tirunelveli,WA,66442,US,2025-11-24T22:19:34,ORG_0140
+CRM_A,CRM_A_O_ORG_0141_154,Chakraborty Group Diagnostic Center,Diagnostic Center,"13
+Sarraf Nagar",Udupi,UP,133212,IN,2025-10-21T16:21:12,ORG_0141
+CRM_B,CRM_B_O_ORG_0141_128,Chakraborty Group Diagnostic Ctr,Diagnostic Center,"13
+Sarraf Nagar",Udupi,UP,133212,IN,2025-11-16T11:08:45,ORG_0141
+CRM_A,CRM_A_O_ORG_0142_787,"Sarma, Brar and Mannan Hospital",Hospital,"54/430
+Shetty Nagar",Naihati,MA,14178,US,2025-12-07T09:17:19,ORG_0142
+CRM_B,CRM_B_O_ORG_0142_160,"Sarma, Brar and Mannan Hospital",Hospital,"54/430
+Shetty Nagar",Naihati,MA,14178,US,2025-12-11T02:15:10,ORG_0142
+CRM_A,CRM_A_O_ORG_0143_330,"Seshadri, Suresh and Singh Pharmacy",Pharmacy,"H.No. 465
+Thaker Zila",Jalandhar,TX,11073,US,2025-12-05T15:10:02,ORG_0143
+CRM_B,CRM_B_O_ORG_0143_385,"Seshadri, Suresh and Singh Pharmacy",Pharmacy,H.No. 465 Thaker Zila,Jalandhar,TX,11073,US,2026-01-22T19:42:47,ORG_0143
+CRM_A,CRM_A_O_ORG_0144_219,Konda-Iyer Diagnostic Center,Diagnostic Center,"H.No. 33, Hegde Marg",Thoothukudi,FL,84336,US,2025-11-19T04:49:11,ORG_0144
+CRM_B,CRM_B_O_ORG_0144_960,Konda-Iyer Diagnostic Center,Diagnostic Center,"H.No. 33, Hegde Marg",Thoothukudi,FL,84336,US,2025-11-23T05:19:46,ORG_0144
+CRM_A,CRM_A_O_ORG_0145_728,Pandit-Sheth Pharmacy,Pharmacy,"07
+Grover Nagar",Lucknow,NY,87370,US,2025-11-25T13:46:59,ORG_0145
+CRM_B,CRM_B_O_ORG_0145_500,Pandit-Sheth Pharmacy,Pharmacy,"07
+Grover Nagar",Lucknow,NY,87370,US,2025-10-10T14:35:52,ORG_0145
+CRM_A,CRM_A_O_ORG_0146_531,Raj-Sane Hospital,Hospital,"H.No. 695
+Varma Nagar",Siliguri,MI,13745,US,2025-11-19T23:33:03,ORG_0146
+CRM_B,CRM_B_O_ORG_0146_799,Raj-Sane Hospital,Hospital,"H.No. 695
+Varma Nagar",Siliguri,MI,13745,US,2025-10-10T18:34:56,ORG_0146
+CRM_A,CRM_A_O_ORG_0147_824,Bumb-Batta Lab,Lab,"96/55
+Deshpande Ganj",Rohtak,CO,15039,US,2025-10-19T16:19:40,ORG_0147
+CRM_B,CRM_B_O_ORG_0147_808,Bumb-Batta Lab,Lab,"96/55
+Deshpande Ganj",Rohtak,CO,15039,US,2026-01-18T07:01:27,ORG_0147
+CRM_A,CRM_A_O_ORG_0148_872,Madan-Chhabra Lab,Lab,"H.No. 240
+Hayre Road",Saharsa,AL,34247-2543,US,2026-01-31T11:49:34,ORG_0148
+CRM_B,CRM_B_O_ORG_0148_554,Madan-Chhabra Lab,Lab,"H.No. 240
+Hayre Road",Saharsa,AL,34247-2543,US,2025-10-20T04:28:07,ORG_0148
+CRM_A,CRM_A_O_ORG_0149_468,Varma-Kade Hospital,Hospital,"60/00
+Dugal Zila",Anand,MD,70816,US,2026-01-28T22:16:18,ORG_0149
+CRM_B,CRM_B_O_ORG_0149_659,Varma-Kade Hospital,Hospital,"60/00
+Dugal Zila",Anand,MD,70816,US,2025-10-29T07:01:12,ORG_0149
+CRM_A,CRM_A_O_ORG_0150_974,Cherian-Ram Pharmacy,Pharmacy,"81/93, Dhillon",Jodhpur,GA,53333,US,2025-10-17T05:35:33,ORG_0150
+CRM_B,CRM_B_O_ORG_0150_717,Cherian-Ram Pharmacy,Pharmacy,"81/93, Dhillon",Jodhpur,GA,53333,US,2025-12-02T16:16:43,ORG_0150
+CRM_A,CRM_A_O_ORG_0151_501,"Chandran, Toor and Kannan Clinic",Clinic,"87/92, Sachdev Zila",Delhi,CA,85511,US,2025-12-04T19:11:07,ORG_0151
+CRM_B,CRM_B_O_ORG_0151_417,"Chandran, Toor and Kannan Clinic",Clinic,"87/92, Sachdev Zila",Delhi,CA,85511,US,2025-12-21T07:57:42,ORG_0151
+CRM_A,CRM_A_O_ORG_0152_348,Vohra Inc Clinic,Clinic,"57/601
+Balay Circle",Gandhidham,CT,44628,US,2025-12-02T02:37:09,ORG_0152
+CRM_B,CRM_B_O_ORG_0152_680,Vohra Inc Clinic,Clinic,"57/601
+Balay Circle",Gandhidham,CT,44628,US,2025-12-11T21:34:06,ORG_0152
+CRM_A,CRM_A_O_ORG_0153_108,"Nagarajan, Dass and Date Pharmacy",Pharmacy,"491
+Dave Path",Gulbarga,NJ,97534,US,2025-11-07T05:57:42,ORG_0153
+CRM_B,CRM_B_O_ORG_0153_763,"Nagarajan, Dass and Date Pharmacy",Pharmacy,"491
+Dave Path",Gulbarga,NJ,97534,US,2025-10-15T13:04:44,ORG_0153
+CRM_A,CRM_A_O_ORG_0154_653,"Chhabra, Raval and Sarin Pharmacy",Pharmacy,"17/731
+Chacko Ganj",Ramagundam,AK,35223,US,2026-02-14T14:35:11,ORG_0154
+CRM_B,CRM_B_O_ORG_0154_810,"Chhabra, Raval and Sarin Pharmacy",Pharmacy,"17/731
+Chacko Ganj",Ramagundam,AK,35223,US,2026-02-03T10:50:08,ORG_0154
+CRM_A,CRM_A_O_ORG_0155_409,"Korpal, D’Alia and Khatri Lab",Lab,"762
+Oommen Path",Pallavaram,MI,44018,US,2025-12-04T16:18:42,ORG_0155
+CRM_B,CRM_B_O_ORG_0155_438,"Korpal, D’Alia and Khatri Lab",Lab,"762
+Oommen Path",Pallavaram,MI,44018,US,2025-12-29T17:15:36,ORG_0155
+CRM_A,CRM_A_O_ORG_0156_852,Pingle-Bhatnagar Diagnostic Center,Diagnostic Center,"25/66, Choudhary Path",Kakinada,NJ,92026,US,2025-12-26T09:28:46,ORG_0156
+CRM_B,CRM_B_O_ORG_0156_499,Pingle-Bhatnagar Diagnostic Ctr,Diagnostic Center,"25/66, Choudhary Path",Kakinada,NJ,92026,US,2025-10-25T07:31:39,ORG_0156
+CRM_A,CRM_A_O_ORG_0157_862,"Choudhary, Shah and Gara Hospital",Hospital,"H.No. 548
+Sachdev Ganj",Deoghar,GA,49903,US,2026-02-01T20:23:16,ORG_0157
+CRM_A,CRM_A_O_ORG_0158_623,Hayer LLC Clinic,Clinic,"503, Mander Ganj",Ahmedabad,MI,14096,US,2026-01-30T10:53:17,ORG_0158
+CRM_A,CRM_A_O_ORG_0158_760,Hayer LLC Clinic,Clinic,"503, Mander Ganj",Ahmedabad,MI,14096,US,2025-12-24T02:14:37,ORG_0158
+CRM_A,CRM_A_O_ORG_0159_878,"Solanki, Mukhopadhyay and Sagar Clinic",Clinic,"H.No. 74
+Sangha Road",Avadi,MH,670232,IN,2025-11-05T10:37:38,ORG_0159
+CRM_B,CRM_B_O_ORG_0159_121,"Solanki, Mukhopadhyay and Sagar Clinic",Clinic,H.No. 74 Sangha Road,Avadi,MH,670232,IN,2025-11-23T02:46:42,ORG_0159
+CRM_A,CRM_A_O_ORG_0160_687,"Kulkarni, Yohannan and Dhar Clinic",Clinic,"73/98, Cherian Street",Ozhukarai,MH,563745,IN,2026-01-09T23:41:41,ORG_0160
+CRM_B,CRM_B_O_ORG_0160_823,"Kulkarni, Yohannan and Dhar Clinic",Clinic,"73/98, Cherian Street",Ozhukarai,MH,563745,IN,2025-12-01T21:03:20,ORG_0160
+CRM_A,CRM_A_O_ORG_0160_386,"Kulkarni, Yohannan and Dhar Clinic",Clinic,"73/98, Cherian Street",Ozhukarai,MH,563745,IN,2025-11-08T13:21:49,ORG_0160
+CRM_A,CRM_A_O_ORG_0161_470,Uppal-Suri Clinic,Clinic,"H.No. 05
+Kamdar Nagar",Mau,CA,97529,US,2025-10-23T12:45:40,ORG_0161
+CRM_B,CRM_B_O_ORG_0161_463,Uppal-Suri Clnc,Clinic,"H.No. 05
+Kamdar Nagar",Mau,CA,97529,US,2025-12-26T02:26:38,ORG_0161
+CRM_A,CRM_A_O_ORG_0162_670,Johal LLC Pharmacy,Pharmacy,"H.No. 08
+Naidu Marg",Udupi,OH,31860,US,2025-11-20T21:12:36,ORG_0162
+CRM_B,CRM_B_O_ORG_0162_613,Johal LLC Pharmacy,Pharmacy,"H.No. 08
+Naidu Marg",Udupi,OH,31860,US,2025-11-02T01:01:13,ORG_0162
+CRM_A,CRM_A_O_ORG_0163_545,"Sanghvi, Kanda and Swaminathan Clinic",Clinic,"H.No. 77
+Kari Zila",Chandigarh,TN,889847,IN,2026-01-15T20:12:22,ORG_0163
+CRM_B,CRM_B_O_ORG_0163_444,"Sanghvi, Kanda and Swaminathan Clinic",Clinic,H.No. 77 Kari Zila,Chandigarh,TN,889847,IN,2025-12-08T15:47:59,ORG_0163
+CRM_A,CRM_A_O_ORG_0164_850,Nori Ltd Hospital,Hospital,"83/410, Pillay Marg",Bhavnagar,PA,95852,US,2025-11-25T22:46:31,ORG_0164
+CRM_B,CRM_B_O_ORG_0164_914,Nori Limited Hospital,Hospital,"83/410, Pillay Marg",Bhavnagar,PA,95852,US,2025-12-30T20:52:41,ORG_0164
+CRM_A,CRM_A_O_ORG_0165_873,"Sehgal, Sama and Raja Hospital",Hospital,"20
+Tara Marg",Noida,CZ,40676,US,2026-01-10T05:23:51,ORG_0165
+CRM_B,CRM_B_O_ORG_0165_473,"Sehgal, Sama and Raja Hospital",Hospital,"20
+Tara Marg",Noida,CZ,40676,US,2025-11-30T03:38:28,ORG_0165
+CRM_A,CRM_A_O_ORG_0166_313,"Kaul, Kala and Prashad Clinic",Clinic,"77/441
+Krishnamurthy Nagar",Bhimavaram,NJ,88343,US,2025-10-15T12:05:33,ORG_0166
+CRM_B,CRM_B_O_ORG_0166_145,"Kaul, Kala and Prashad Clinic",Clinic,77/441 Krishnamurthy Nagar,Bhimavaram,NJ,88343,US,2025-12-21T11:02:04,ORG_0166
+CRM_A,CRM_A_O_ORG_0167_911,Dara-Choudhury Pharmacy,Pharmacy,"00/340, Korpal",Sasaram,AZ,50732,US,2026-01-29T09:38:18,ORG_0167
+CRM_B,CRM_B_O_ORG_0167_322,Dara-Choudhury Pharmacy,Pharmacy,"00/340, Korpal",Sasaram,AZ,50732,US,2026-01-05T12:25:11,ORG_0167
+CRM_A,CRM_A_O_ORG_0168_709,Sood Ltd Diagnostic Center,Diagnostic Center,"32, Kakar Nagar",Hyderabad,MD,26389,US,2025-10-26T03:08:52,ORG_0168
+CRM_B,CRM_B_O_ORG_0168_733,Sood Ltd Diagnostic Center,Diagnostic Center,32 Kakar Nagar,Hyderabad,MD,26389,US,2025-12-11T06:15:57,ORG_0168
+CRM_A,CRM_A_O_ORG_0169_308,Ranganathan-Rana Pharmacy,Pharmacy,"51
+Loke Circle",Danapur,UP,338618,IN,2025-11-25T05:37:18,ORG_0169
+CRM_B,CRM_B_O_ORG_0169_453,Ranganathan-Rana Pharmacy,Pharmacy,"51
+Loke Circle",Danapur,UP,338618,IN,2026-01-29T20:27:18,ORG_0169
+CRM_A,CRM_A_O_ORG_0170_305,"Tara, Sibal and Vora Clinic",Clinic,"H.No. 87
+Parekh",Amaravati,CA,40035,US,2025-10-28T00:12:52,ORG_0170
+CRM_B,CRM_B_O_ORG_0170_644,"Tara, Sibal and Vora Clinic",Clinic,"H.No. 87
+Parekh",Amaravati,CA,40035,US,2026-01-24T19:28:55,ORG_0170
+CRM_A,CRM_A_O_ORG_0171_693,Chada-Chaudhary Diagnostic Center,Diagnostic Center,"17/94
+Bhavsar Marg",Gandhinagar,DL,140347,IN,2026-01-14T13:56:39,ORG_0171
+CRM_B,CRM_B_O_ORG_0171_151,Chada-Chaudhary Diagnostic Center,Diagnostic Center,"17/94
+Bhavsar Marg",Gandhinagar,DL,140347,IN,2025-12-30T13:25:11,ORG_0171
+CRM_A,CRM_A_O_ORG_0172_450,"Goel, Kar and Pandya Hospital",Hospital,"H.No. 832, Varughese Chowk",Katni,MI,95224,US,2025-11-29T23:08:00,ORG_0172
+CRM_B,CRM_B_O_ORG_0172_316,"Goel, Kar and Pandya Hospital",Hospital,H.No. 832 Varughese Chowk,Katni,MI,95224,US,2026-01-10T19:58:29,ORG_0172
+CRM_A,CRM_A_O_ORG_0173_337,"Sandal, Vohra and Mitra Clinic",Clinic,"H.No. 032, Narayanan Marg",Ambattur,CO,58007,US,2026-02-02T17:25:56,ORG_0173
+CRM_B,CRM_B_O_ORG_0173_143,"Sandal, Vohra and Mitra Clinic",Clinic,"H.No. 032, Narayanan Marg",Ambattur,CO,58007,US,2025-12-22T12:58:51,ORG_0173
+CRM_A,CRM_A_O_ORG_0174_305,Nadig and Sons Clinic,Clinic,"H.No. 142
+Savant Nagar",Dindigul,CO,43469,US,2025-10-18T10:39:05,ORG_0174
+CRM_B,CRM_B_O_ORG_0174_384,Nadig and Sons Clinic,Clinic,"H.No. 142
+Savant Nagar",Dindigul,CO,43469,US,2026-01-23T08:45:19,ORG_0174
+CRM_A,CRM_A_O_ORG_0175_780,Kapoor and Sons Pharmacy,Pharmacy,"949
+Soni Path",Meerut,MI,34222,US,2025-11-06T07:12:13,ORG_0175
+CRM_B,CRM_B_O_ORG_0175_302,Kapoor and Sons Pharmacy,Pharmacy,"949
+Soni Path",Meerut,MI,34222,US,2025-11-17T15:37:38,ORG_0175
+CRM_A,CRM_A_O_ORG_0176_489,Sahni Ltd Lab,Lab,"H.No. 849, Sridhar Street",Barasat,AZ,13182,US,2025-12-03T21:26:34,ORG_0176
+CRM_B,CRM_B_O_ORG_0176_932,Sahni Ltd Lab,Lab,H.No. 849 Sridhar Street,Barasat,AZ,13182,US,2025-11-01T21:25:24,ORG_0176
+CRM_A,CRM_A_O_ORG_0176_677,Sahni Ltd Lab,Lab,"H.No. 849, Sridhar Street",Barasat,AZ,13182,US,2025-12-18T12:12:44,ORG_0176
+CRM_A,CRM_A_O_ORG_0177_994,Jha-Vig Hospital,Hospital,"76/12
+Sen",Pallavaram,IL,36623,US,2025-10-29T16:28:16,ORG_0177
+CRM_A,CRM_A_O_ORG_0178_168,Doshi-Comar Diagnostic Center,Diagnostic Center,"H.No. 45, Bir Marg",Ambattur,GA,21082,US,2025-10-26T09:42:23,ORG_0178
+CRM_B,CRM_B_O_ORG_0178_930,Doshi-Comar Diagnostic Center,Diagnostic Center,"H.No. 45, Bir Marg",Ambattur,GA,21082,US,2026-01-25T02:07:26,ORG_0178
+CRM_A,CRM_A_O_ORG_0179_829,Padmanabhan Ltd Clinic,Clinic,"83/489, Patil",Amritsar,UP,796749,IN,2026-02-10T08:01:22,ORG_0179
+CRM_B,CRM_B_O_ORG_0179_981,Padmanabhan Limited Clinic,Clinic,"83/489, Patil",Amritsar,UP,796749,IN,2026-01-31T23:32:27,ORG_0179
+CRM_A,CRM_A_O_ORG_0180_177,Bedi Inc Hospital,Hospital,"04/00
+Mammen Street",Hospet,MH,436271,IN,2025-12-16T17:16:42,ORG_0180
+CRM_A,CRM_A_O_ORG_0180_922,Bedi Inc Hospital,Hospital,"04/00
+Mammen Street",Hospet,MH,436271,IN,2026-01-02T01:42:03,ORG_0180
+CRM_A,CRM_A_O_ORG_0181_714,Kale Group Hospital,Hospital,"373
+Brahmbhatt Ganj",Dewas,CO,71302,US,2025-11-27T00:28:28,ORG_0181
+CRM_A,CRM_A_O_ORG_0182_326,"Dixit, Mukhopadhyay and Bhatnagar Lab",Lab,"71/897
+Gaba Marg",Nangloi Jat,NC,69233,US,2026-01-10T03:27:42,ORG_0182
+CRM_B,CRM_B_O_ORG_0182_119,"Dixit, Mukhopadhyay and Bhatnagar Lab",Lab,71/897 Gaba Marg,Nangloi Jat,NC,69233,US,2025-11-04T01:01:15,ORG_0182
+CRM_B,CRM_B_O_ORG_0182_310,"Dixit, Mukhopadhyay and Bhatnagar Lab",Lab,"71/897
+Gaba Marg",Nangloi Jat,NC,69233,US,2026-01-19T06:45:05,ORG_0182
+CRM_A,CRM_A_O_ORG_0183_848,Menon-Dhaliwal Pharmacy,Pharmacy,"H.No. 017, Tandon Street",Hosur,CT,90528,US,2025-11-25T03:39:42,ORG_0183
+CRM_B,CRM_B_O_ORG_0183_627,Menon-Dhaliwal Pharmacy,Pharmacy,"H.No. 017, Tandon Street",Hosur,CT,90528,US,2025-10-10T20:50:31,ORG_0183
+CRM_A,CRM_A_O_ORG_0184_212,Buch Ltd Pharmacy,Pharmacy,"H.No. 750
+Sama Chowk",Jodhpur,AK,91074,US,2025-11-06T02:11:34,ORG_0184
+CRM_B,CRM_B_O_ORG_0184_184,Buch Limited Pharmacy,Pharmacy,"H.No. 750
+Sama Chowk",Jodhpur,AK,91074,US,2025-10-07T08:58:46,ORG_0184
+CRM_A,CRM_A_O_ORG_0185_130,Dhawan LLC Clinic,Clinic,"49/619, Nagar Marg",Phagwara,CA,19898,US,2026-01-16T06:10:23,ORG_0185
+CRM_B,CRM_B_O_ORG_0185_330,Dhawan LLC Clinic,Clinic,"49/619, Nagar Marg",Phagwara,CA,19898,US,2025-11-30T12:11:22,ORG_0185
+CRM_A,CRM_A_O_ORG_0186_919,Ramanathan-Garg Pharmacy,Pharmacy,"H.No. 457
+Samra Nagar",Katihar,MH,556287,IN,2026-01-20T12:23:19,ORG_0186
+CRM_B,CRM_B_O_ORG_0186_347,Ramanathan-Garg Pharmacy,Pharmacy,"H.No. 457
+Samra Nagar",Katihar,MH,556287,IN,2025-11-15T13:21:02,ORG_0186
+CRM_B,CRM_B_O_ORG_0186_203,Ramanathan-Garg Pharmacy,Pharmacy,"H.No. 457
+Samra Nagar",Katihar,MH,556287,IN,2026-01-21T03:28:30,ORG_0186
+CRM_A,CRM_A_O_ORG_0187_705,"Sant, Tripathi and Sarin Lab",Lab,"785, Shere Chowk",Madhyamgram,KA,243559,IN,2025-11-19T10:07:03,ORG_0187
+CRM_B,CRM_B_O_ORG_0187_855,"Sant, Tripathi and Sarin Lab",Lab,785 Shere Chowk,Madhyamgram,KA,243559,IN,2025-10-25T19:11:00,ORG_0187
+CRM_A,CRM_A_O_ORG_0188_612,Gokhale Inc Pharmacy,Pharmacy,"91/767, Suri Nagar",Mumbai,NY,55384,US,2025-10-31T05:56:50,ORG_0188
+CRM_A,CRM_A_O_ORG_0188_961,Gokhale Inc Pharmacy,Pharmacy,"91/767, Suri Nagar",Mumbai,NY,55384,US,2026-01-29T07:36:07,ORG_0188
+CRM_A,CRM_A_O_ORG_0189_781,Garg Ltd Hospital,Hospital,"62/44
+Goswami Path",Dibrugarh,UP,491286,IN,2025-11-06T02:17:28,ORG_0189
+CRM_B,CRM_B_O_ORG_0189_917,Garg Ltd Hospital,Hospital,"62/44
+Goswami Path",Dibrugarh,UP,491286,IN,2025-11-26T17:11:47,ORG_0189
+CRM_A,CRM_A_O_ORG_0190_389,Hayre-Acharya Lab,Lab,"987, Baral Circle",Baranagar,KA,153601,IN,2026-02-02T23:28:17,ORG_0190
+CRM_B,CRM_B_O_ORG_0190_426,Hayre-Acharya Lab,Lab,"987, Baral Circle",Baranagar,KA,153601,IN,2025-12-26T07:41:04,ORG_0190
+CRM_A,CRM_A_O_ORG_0191_328,Oak-Mohanty Pharmacy,Pharmacy,"86/849, Sur Circle",Madanapalle,CZ,78254,US,2025-10-17T18:30:16,ORG_0191
+CRM_B,CRM_B_O_ORG_0191_259,Oak-Mohanty Pharmacy,Pharmacy,"86/849, Sur Circle",Madanapalle,CZ,78254,US,2026-01-09T03:56:01,ORG_0191
+CRM_A,CRM_A_O_ORG_0192_107,"Hari, Gokhale and Amble Hospital",Hospital,"92/268, Thaker Marg",Indore,OH,50590,US,2026-01-26T19:37:42,ORG_0192
+CRM_B,CRM_B_O_ORG_0192_348,"Hari, Gokhale and Amble Hospital",Hospital,92/268 Thaker Marg,Indore,OH,50590,US,2025-12-26T21:33:39,ORG_0192
+CRM_A,CRM_A_O_ORG_0193_700,"Jhaveri, Singhal and Peri Lab",Lab,"78/545
+Raju Chowk",Kakinada,AK,69321,US,2026-01-29T03:25:43,ORG_0193
+CRM_B,CRM_B_O_ORG_0193_397,"Jhaveri, Singhal and Peri Lab",Lab,"78/545
+Raju Chowk",Kakinada,AK,69321,US,2026-01-12T09:07:29,ORG_0193
+CRM_A,CRM_A_O_ORG_0194_116,Dhar LLC Hospital,Hospital,"H.No. 30
+Choudhury Circle",Bikaner,KA,385423,IN,2025-11-29T01:38:48,ORG_0194
+CRM_B,CRM_B_O_ORG_0194_256,Dhar LLC Hosp,Hospital,"H.No. 30
+Choudhury Circle",Bikaner,KA,385423,IN,2025-12-04T14:38:10,ORG_0194
+CRM_A,CRM_A_O_ORG_0195_698,Ghose LLC Pharmacy,Pharmacy,"H.No. 04
+Devi Zila",Bidar,FL,49006,US,2025-10-21T19:57:02,ORG_0195
+CRM_B,CRM_B_O_ORG_0195_847,Ghose LLC Pharmacy,Pharmacy,"H.No. 04
+Devi Zila",Bidar,FL,49006,US,2026-01-21T03:16:38,ORG_0195
+CRM_A,CRM_A_O_ORG_0196_150,Mohan-Khare Clinic,Clinic,"09/455
+Kata Chowk",Baranagar,TX,65569,US,2026-02-21T14:49:23,ORG_0196
+CRM_B,CRM_B_O_ORG_0196_723,Mohan-Khare Clinic,Clinic,"09/455
+Kata Chowk",Baranagar,TX,65569,US,2025-10-21T18:37:25,ORG_0196
+CRM_B,CRM_B_O_ORG_0196_512,Mohan-Khare Clinic,Clinic,"09/455
+Kata Chowk",Baranagar,TX,65569,US,2025-10-25T08:23:27,ORG_0196
+CRM_A,CRM_A_O_ORG_0197_989,"Dora, Samra and Sami Clinic",Clinic,"477, Agate Marg",Miryalaguda,CA,97166,US,2026-01-26T20:01:30,ORG_0197
+CRM_B,CRM_B_O_ORG_0197_727,"Dora, Samra and Sami Clinic",Clinic,"477, Agate Marg",Miryalaguda,CA,97166,US,2025-12-10T14:08:53,ORG_0197
+CRM_A,CRM_A_O_ORG_0198_112,Thakkar Inc Lab,Lab,"H.No. 002
+Mutti Road",Darbhanga,CT,42055,US,2025-10-29T03:46:32,ORG_0198
+CRM_B,CRM_B_O_ORG_0198_217,Thakkar Incorporated Lab,Lab,"H.No. 002
+Mutti Road",Darbhanga,CT,42055,US,2025-10-11T17:03:12,ORG_0198
+CRM_A,CRM_A_O_ORG_0199_572,Sharaf Ltd Lab,Lab,"96/97, Konda",Pudukkottai,AK,10382,US,2026-01-02T10:29:57,ORG_0199
+CRM_B,CRM_B_O_ORG_0199_734,Sharaf Limited Lab,Lab,"96/97, Konda",Pudukkottai,AK,10382,US,2026-01-10T10:34:45,ORG_0199
+CRM_A,CRM_A_O_ORG_0200_851,Korpal PLC Clinic,Clinic,"38/768, Kade Circle",Nagaon,TX,40939,US,2025-10-25T18:13:45,ORG_0200
+CRM_B,CRM_B_O_ORG_0200_567,Korpal PLC Clinic,Clinic,"38/768, Kade Circle",Nagaon,TX,40939,US,2025-12-25T12:47:45,ORG_0200
+CRM_A,CRM_A_O_ORG_0201_916,"Wagle, Doctor and Pai Hospital",Hospital,"38, Yohannan Marg",Burhanpur,TX,98095,US,2025-11-29T05:18:43,ORG_0201
+CRM_B,CRM_B_O_ORG_0201_471,"Wagle, Doctor and Pai Hosp",Hospital,"38, Yohannan Marg",Burhanpur,TX,98095,US,2025-12-07T06:04:33,ORG_0201
+CRM_A,CRM_A_O_ORG_0202_236,Gole-Dhar Pharmacy,Pharmacy,"H.No. 07, Keer",Tinsukia,CA,11184,US,2025-10-07T19:40:41,ORG_0202
+CRM_B,CRM_B_O_ORG_0202_101,Gole-Dhar Pharmacy,Pharmacy,"H.No. 07, Keer",Tinsukia,CA,11184,US,2026-01-21T18:04:42,ORG_0202
+CRM_A,CRM_A_O_ORG_0203_899,Kaul-Parsa Hospital,Hospital,"H.No. 998, Puri Nagar",Kavali,VA,72768,US,2025-10-28T16:58:03,ORG_0203
+CRM_B,CRM_B_O_ORG_0203_350,Kaul-Parsa Hospital,Hospital,"H.No. 998, Puri Nagar",Kavali,VA,72768,US,2026-01-05T17:31:03,ORG_0203
+CRM_B,CRM_B_O_ORG_0203_134,Kaul-Parsa Hospital,Hospital,"H.No. 998, Puri Nagar",Kavali,VA,72768,US,2026-01-18T00:44:27,ORG_0203
+CRM_A,CRM_A_O_ORG_0204_835,Balasubramanian-Hegde Hospital,Hospital,"H.No. 29, Panchal",Hosur,UP,588486,IN,2026-01-08T20:17:43,ORG_0204
+CRM_B,CRM_B_O_ORG_0204_541,Balasubramanian-Hegde Hosp,Hospital,"H.No. 29, Panchal",Hosur,UP,588486,IN,2025-12-28T09:00:44,ORG_0204
+CRM_A,CRM_A_O_ORG_0205_212,Sheth-Dube Pharmacy,Pharmacy,"62, Chakrabarti Circle",Hospet,VA,34141,US,2026-02-13T01:52:13,ORG_0205
+CRM_B,CRM_B_O_ORG_0205_199,Sheth-Dube Pharmacy,Pharmacy,"62, Chakrabarti Circle",Hospet,VA,34141,US,2026-01-08T15:29:14,ORG_0205
+CRM_B,CRM_B_O_ORG_0205_251,Sheth-Dube Pharmacy,Pharmacy,62 Chakrabarti Circle,Hospet,VA,34141,US,2025-11-07T06:43:36,ORG_0205
+CRM_A,CRM_A_O_ORG_0206_306,Sarraf-Shan Hospital,Hospital,"67/39
+Borra Chowk",Narasaraopet,AL,23070,US,2025-11-03T22:02:15,ORG_0206
+CRM_B,CRM_B_O_ORG_0206_800,Sarraf-Shan Hospital,Hospital,"67/39
+Borra Chowk",Narasaraopet,AL,23070,US,2025-12-04T08:56:14,ORG_0206
+CRM_A,CRM_A_O_ORG_0207_467,Parmer Ltd Pharmacy,Pharmacy,"H.No. 68
+Kari",Patna,MH,219684,IN,2026-01-26T15:17:32,ORG_0207
+CRM_B,CRM_B_O_ORG_0207_983,Parmer Ltd Pharmacy,Pharmacy,"H.No. 68
+Kari",Patna,MH,219684,IN,2025-11-06T10:14:44,ORG_0207
+CRM_B,CRM_B_O_ORG_0207_548,Parmer Limited Pharmacy,Pharmacy,"H.No. 68
+Kari",Patna,MH,219684,IN,2026-01-08T04:53:22,ORG_0207
+CRM_A,CRM_A_O_ORG_0208_381,Kale-Sunder Hospital,Hospital,"H.No. 624
+Rama Street",Pimpri-Chinchwad,IL,97987,US,2025-10-24T02:48:51,ORG_0208
+CRM_B,CRM_B_O_ORG_0208_174,Kale-Sunder Hospital,Hospital,"H.No. 624
+Rama Street",Pimpri-Chinchwad,IL,97987,US,2025-12-21T10:23:44,ORG_0208
+CRM_B,CRM_B_O_ORG_0208_723,Kale-Sunder Hospital,Hospital,"H.No. 624
+Rama Street",Pimpri-Chinchwad,IL,97987,US,2026-01-15T17:08:04,ORG_0208
+CRM_A,CRM_A_O_ORG_0209_168,"Keer, Khurana and Doshi Clinic",Clinic,"77/36
+Chopra Path",Medininagar,WA,10841,US,2025-11-08T02:53:58,ORG_0209
+CRM_B,CRM_B_O_ORG_0209_579,"Keer, Khurana and Doshi Clinic",Clinic,"77/36
+Chopra Path",Medininagar,WA,10841,US,2025-11-24T20:52:54,ORG_0209
+CRM_A,CRM_A_O_ORG_0210_291,Yadav Group Diagnostic Center,Diagnostic Center,"H.No. 329
+Bail Road",Patiala,AZ,91555,US,2025-12-22T22:54:40,ORG_0210
+CRM_B,CRM_B_O_ORG_0210_748,Yadav Group Diagnostic Center,Diagnostic Center,"H.No. 329
+Bail Road",Patiala,AZ,91555,US,2025-11-30T11:57:35,ORG_0210
+CRM_A,CRM_A_O_ORG_0211_547,Sodhi-Gopal Lab,Lab,"63
+Pall",Siliguri,MA,71946,US,2025-11-25T08:01:26,ORG_0211
+CRM_B,CRM_B_O_ORG_0211_418,Sodhi-Gopal Lab,Lab,"63
+Pall",Siliguri,MA,71946,US,2025-11-03T14:33:22,ORG_0211
+CRM_B,CRM_B_O_ORG_0211_443,Sodhi-Gopal Lab,Lab,"63
+Pall",Siliguri,MA,71946,US,2025-10-19T06:26:06,ORG_0211
+CRM_A,CRM_A_O_ORG_0212_645,Virk-Naidu Pharmacy,Pharmacy,"H.No. 728, Karan Road",Loni,NC,88648,US,2025-10-25T02:06:42,ORG_0212
+CRM_B,CRM_B_O_ORG_0212_114,Virk-Naidu Pharmacy,Pharmacy,"H.No. 728, Karan Road",Loni,NC,88648,US,2026-01-21T05:32:38,ORG_0212
+CRM_A,CRM_A_O_ORG_0213_730,Bala PLC Clinic,Clinic,"92
+Munshi Road",Khammam,NJ,99699,US,2025-10-27T20:30:18,ORG_0213
+CRM_B,CRM_B_O_ORG_0213_369,Bala PLC Clnc,Clinic,92 Munshi Road,Khammam,NJ,99699,US,2026-01-14T09:44:19,ORG_0213
+CRM_A,CRM_A_O_ORG_0214_971,Loke PLC Diagnostic Center,Diagnostic Center,"H.No. 87, Pai Ganj",Dindigul,UP,624787,IN,2026-02-09T07:40:32,ORG_0214
+CRM_B,CRM_B_O_ORG_0214_246,Loke PLC Diagnostic Center,Diagnostic Center,H.No. 87 Pai Ganj,Dindigul,UP,624787,IN,2025-11-04T10:25:37,ORG_0214
+CRM_A,CRM_A_O_ORG_0215_464,Kara-Mangat Clinic,Clinic,"649
+Ramanathan",Ghaziabad,CO,62532,US,2025-12-11T12:37:52,ORG_0215
+CRM_B,CRM_B_O_ORG_0215_532,Kara-Mangat Clinic,Clinic,649 Ramanathan,Ghaziabad,CO,62532,US,2025-11-29T17:31:54,ORG_0215
+CRM_A,CRM_A_O_ORG_0216_361,Tata-Saxena Pharmacy,Pharmacy,"222
+Mohanty Marg",Guwahati,NC,67752,US,2026-01-13T20:20:46,ORG_0216
+CRM_B,CRM_B_O_ORG_0216_134,Tata-Saxena Pharmacy,Pharmacy,222 Mohanty Marg,Guwahati,NC,67752,US,2026-01-31T00:07:22,ORG_0216
+CRM_A,CRM_A_O_ORG_0217_946,Khurana-Khalsa Pharmacy,Pharmacy,"H.No. 270, Sharma Street",Allahabad,AL,22903,US,2025-11-26T11:15:30,ORG_0217
+CRM_B,CRM_B_O_ORG_0217_958,Khurana-Khalsa Pharmacy,Pharmacy,"H.No. 270, Sharma Street",Allahabad,AL,22903,US,2026-01-25T17:14:25,ORG_0217
+CRM_B,CRM_B_O_ORG_0217_459,Khurana-Khalsa Pharmacy,Pharmacy,"H.No. 270, Sharma Street",Allahabad,AL,22903,US,2025-12-11T20:21:31,ORG_0217
+CRM_A,CRM_A_O_ORG_0218_455,Saini-Singhal Lab,Lab,"93/805
+Krishnan Zila",New Delhi,PA,16099,US,2025-11-26T14:41:33,ORG_0218
+CRM_B,CRM_B_O_ORG_0218_809,Saini-Singhal Lab,Lab,"93/805
+Krishnan Zila",New Delhi,PA,16099,US,2025-10-31T06:42:05,ORG_0218
+CRM_A,CRM_A_O_ORG_0219_673,"Purohit, Anne and Dada Lab",Lab,"12/07
+Ahuja Path",Nagpur,CO,19023,US,2026-01-01T17:21:32,ORG_0219
+CRM_B,CRM_B_O_ORG_0219_459,"Purohit, Anne and Dada Lab",Lab,"12/07
+Ahuja Path",Nagpur,CO,19023,US,2025-11-17T06:23:14,ORG_0219
+CRM_B,CRM_B_O_ORG_0219_553,"Purohit, Anne and Dada Lab",Lab,"12/07
+Ahuja Path",Nagpur,CO,19023,US,2026-02-01T01:16:26,ORG_0219
+CRM_A,CRM_A_O_ORG_0220_982,Buch-Pall Clinic,Clinic,"59/39
+Dhawan Street",Bardhaman,NC,36842,US,2025-10-18T19:41:15,ORG_0220
+CRM_B,CRM_B_O_ORG_0220_768,Buch-Pall Clinic,Clinic,59/39 Dhawan Street,Bardhaman,NC,36842,US,2025-10-28T07:56:55,ORG_0220
+CRM_A,CRM_A_O_ORG_0221_847,Parekh-Sarin Hospital,Hospital,"322
+Mitter Zila",Parbhani,AL,69910-7817,US,2026-01-01T05:00:20,ORG_0221
+CRM_B,CRM_B_O_ORG_0221_238,Parekh-Sarin Hosp,Hospital,"322
+Mitter Zila",Parbhani,AL,69910-7817,US,2025-10-16T12:30:50,ORG_0221
+CRM_B,CRM_B_O_ORG_0221_982,Parekh-Sarin Hosp,Hospital,"322
+Mitter Zila",Parbhani,AL,69910-7817,US,2026-01-03T00:06:02,ORG_0221
+CRM_A,CRM_A_O_ORG_0222_704,Gupta PLC Hospital,Hospital,"17/699
+Joshi Ganj",Mathura,UP,492789,IN,2025-11-03T09:44:58,ORG_0222
+CRM_B,CRM_B_O_ORG_0222_933,Gupta PLC Hospital,Hospital,"17/699
+Joshi Ganj",Mathura,UP,492789,IN,2025-12-21T04:18:04,ORG_0222
+CRM_A,CRM_A_O_ORG_0223_252,"Buch, Nadig and Saraf Diagnostic Center",Diagnostic Center,"07/05
+Pingle Marg",Ahmedabad,PA,79712,US,2025-10-22T09:26:15,ORG_0223
+CRM_B,CRM_B_O_ORG_0223_734,"Buch, Nadig and Saraf Diagnostic Center",Diagnostic Center,"07/05
+Pingle Marg",Ahmedabad,PA,79712,US,2026-01-29T15:47:01,ORG_0223
+CRM_A,CRM_A_O_ORG_0224_241,Joshi-Sabharwal Pharmacy,Pharmacy,"12/874, Thakkar Nagar",Rajkot,FL,13566,US,2025-10-20T19:36:12,ORG_0224
+CRM_B,CRM_B_O_ORG_0224_828,Joshi-Sabharwal Pharmacy,Pharmacy,12/874 Thakkar Nagar,Rajkot,FL,13566,US,2026-02-02T13:24:34,ORG_0224
+CRM_A,CRM_A_O_ORG_0224_920,Joshi-Sabharwal Pharmacy,Pharmacy,"12/874, Thakkar Nagar",Rajkot,FL,13566,US,2025-11-27T00:04:44,ORG_0224
+CRM_A,CRM_A_O_ORG_0225_150,Halder-Bakshi Diagnostic Center,Diagnostic Center,"93/82
+Majumdar Zila",Mira-Bhayandar,MH,692840,IN,2025-12-22T15:34:37,ORG_0225
+CRM_B,CRM_B_O_ORG_0225_611,Halder-Bakshi Diagnostic Center,Diagnostic Center,"93/82
+Majumdar Zila",Mira-Bhayandar,MH,692840,IN,2026-01-19T22:15:53,ORG_0225
+CRM_A,CRM_A_O_ORG_0226_594,"Sastry, Venkataraman and Ranganathan Hospital",Hospital,"93/02, Mangat Circle",Karimnagar,PA,82247,US,2025-10-10T15:08:51,ORG_0226
+CRM_B,CRM_B_O_ORG_0226_232,"Sastry, Venkataraman and Ranganathan Hosp",Hospital,"93/02, Mangat Circle",Karimnagar,PA,82247,US,2026-01-20T08:33:31,ORG_0226
+CRM_B,CRM_B_O_ORG_0226_772,"Sastry, Venkataraman and Ranganathan Hosp",Hospital,"93/02, Mangat Circle",Karimnagar,PA,82247,US,2025-11-22T09:33:18,ORG_0226
+CRM_A,CRM_A_O_ORG_0227_167,Borde PLC Diagnostic Center,Diagnostic Center,"H.No. 560
+Gupta Circle",Aurangabad,GY,99510,US,2025-10-18T05:54:25,ORG_0227
+CRM_B,CRM_B_O_ORG_0227_653,Borde PLC Diagnostic Center,Diagnostic Center,"H.No. 560
+Gupta Circle",Aurangabad,GY,99510,US,2025-11-09T04:53:42,ORG_0227
+CRM_B,CRM_B_O_ORG_0227_393,Borde PLC Diagnostic Center,Diagnostic Center,"H.No. 560
+Gupta Circle",Aurangabad,GY,99510,US,2026-01-01T18:59:58,ORG_0227
+CRM_A,CRM_A_O_ORG_0228_850,Doctor Ltd Clinic,Clinic,"H.No. 485
+Sama Circle",Firozabad,GA,20322,US,2025-12-23T21:50:13,ORG_0228
+CRM_B,CRM_B_O_ORG_0228_423,Doctor Ltd Clinic,Clinic,"H.No. 485
+Sama Circle",Firozabad,GA,20322,US,2025-11-01T13:17:34,ORG_0228
+CRM_A,CRM_A_O_ORG_0229_605,"Bir, Magar and Magar Clinic",Clinic,"38/65, Sharaf Road",Gaya,DL,917327,IN,2026-01-27T17:41:24,ORG_0229
+CRM_B,CRM_B_O_ORG_0229_451,"Bir, Magar and Magar Clinic",Clinic,"38/65, Sharaf Road",Gaya,DL,917327,IN,2026-01-05T20:00:14,ORG_0229
+CRM_A,CRM_A_O_ORG_0230_194,Behl-Pradhan Clinic,Clinic,"74/87
+Nayar Nagar",Nadiad,DL,605994,IN,2025-12-27T17:41:49,ORG_0230
+CRM_B,CRM_B_O_ORG_0230_190,Behl-Pradhan Clinic,Clinic,"74/87
+Nayar Nagar",Nadiad,DL,605994,IN,2025-10-11T17:18:39,ORG_0230
+CRM_A,CRM_A_O_ORG_0231_211,Kar Inc Clinic,Clinic,"H.No. 60, More",Katni,MH,393768,IN,2026-02-11T18:26:54,ORG_0231
+CRM_B,CRM_B_O_ORG_0231_526,Kar Inc Clnc,Clinic,"H.No. 60, More",Katni,MH,393768,IN,2025-11-10T11:32:45,ORG_0231
+CRM_A,CRM_A_O_ORG_0232_164,Patel Inc Clinic,Clinic,"350, Rana Marg",Gandhinagar,IL,20742,US,2025-11-16T02:28:54,ORG_0232
+CRM_B,CRM_B_O_ORG_0232_287,Patel Inc Clinic,Clinic,"350, Rana Marg",Gandhinagar,IL,20742,US,2025-10-15T03:45:57,ORG_0232
+CRM_B,CRM_B_O_ORG_0232_289,Patel Inc Clinic,Clinic,"350, Rana Marg",Gandhinagar,IL,20742,US,2025-12-20T01:31:09,ORG_0232
+CRM_A,CRM_A_O_ORG_0233_111,Bhakta-Parsa Clinic,Clinic,"H.No. 90, Patel Circle",Berhampore,CT,26263,US,2025-11-29T05:01:38,ORG_0233
+CRM_A,CRM_A_O_ORG_0234_503,Narayan-Sundaram Hospital,Hospital,"93, Char",Morbi,AL,86465,US,2025-12-30T19:00:58,ORG_0234
+CRM_B,CRM_B_O_ORG_0234_992,Narayan-Sundaram Hospital,Hospital,"93, Char",Morbi,AL,86465,US,2025-12-25T04:30:32,ORG_0234
+CRM_A,CRM_A_O_ORG_0235_166,Kara-Shenoy Pharmacy,Pharmacy,"90/35, Butala Street",Surat,MH,450922,IN,2025-12-18T19:40:57,ORG_0235
+CRM_B,CRM_B_O_ORG_0235_578,Kara-Shenoy Pharmacy,Pharmacy,"90/35, Butala Street",Surat,MH,450922,IN,2025-10-07T05:41:57,ORG_0235
+CRM_B,CRM_B_O_ORG_0235_170,Kara-Shenoy Pharmacy,Pharmacy,"90/35, Butala Street",Surat,MH,450922,IN,2025-10-25T17:45:11,ORG_0235
+CRM_A,CRM_A_O_ORG_0236_583,"Dash, Bala and Devi Diagnostic Center",Diagnostic Center,"47
+Morar Zila",Chandrapur,PA,85569,US,2025-10-29T10:17:10,ORG_0236
+CRM_B,CRM_B_O_ORG_0236_197,"Dash, Bala and Devi Diagnostic Center",Diagnostic Center,"47
+Morar Zila",Chandrapur,PA,85569,US,2026-02-01T08:39:56,ORG_0236
+CRM_A,CRM_A_O_ORG_0237_907,"Kari, Ganguly and Buch Pharmacy",Pharmacy,"H.No. 902, Saha Marg",Noida,MA,17455,US,2026-01-21T00:28:10,ORG_0237
+CRM_B,CRM_B_O_ORG_0237_896,"Kari, Ganguly and Buch Pharmacy",Pharmacy,H.No. 902 Saha Marg,Noida,MA,17455,US,2025-10-25T06:51:36,ORG_0237
+CRM_A,CRM_A_O_ORG_0238_336,Sengupta-Handa Hospital,Hospital,"309, Kohli Circle",Firozabad,CO,81602,US,2026-01-05T04:18:38,ORG_0238
+CRM_B,CRM_B_O_ORG_0238_797,Sengupta-Handa Hosp,Hospital,"309, Kohli Circle",Firozabad,CO,81602,US,2025-11-16T14:42:57,ORG_0238
+CRM_A,CRM_A_O_ORG_0239_319,Gaba-Krish Pharmacy,Pharmacy,"03/46
+Hayre Ganj",Kottayam,WB,473236,IN,2026-01-05T02:12:14,ORG_0239
+CRM_B,CRM_B_O_ORG_0239_634,Gaba-Krish Pharmacy,Pharmacy,"03/46
+Hayre Ganj",Kottayam,WB,473236,IN,2025-12-16T01:43:06,ORG_0239
+CRM_A,CRM_A_O_ORG_0240_546,Lalla-Dube Diagnostic Center,Diagnostic Center,"56
+Ramaswamy Circle",Katihar,CA,11233,US,2025-10-29T19:26:48,ORG_0240
+CRM_B,CRM_B_O_ORG_0240_761,Lalla-Dube Diagnostic Center,Diagnostic Center,"56
+Ramaswamy Circle",Katihar,CA,11233,US,2025-12-27T06:45:19,ORG_0240
+CRM_A,CRM_A_O_ORG_0241_106,Nath PLC Lab,Lab,"H.No. 058, Palla",Tinsukia,OH,41883,US,2025-12-25T19:43:04,ORG_0241
+CRM_B,CRM_B_O_ORG_0241_706,Nath PLC Lab,Lab,"H.No. 058, Palla",Tinsukia,OH,41883,US,2025-12-19T05:06:07,ORG_0241
+CRM_A,CRM_A_O_ORG_0242_588,Narang Group Hospital,Hospital,"H.No. 154
+Nath Ganj",Panvel,NJ,70423,US,2025-12-02T16:20:29,ORG_0242
+CRM_B,CRM_B_O_ORG_0242_296,Narang Group Hospital,Hospital,"H.No. 154
+Nath Ganj",Panvel,NJ,70423,US,2025-11-05T10:50:42,ORG_0242
+CRM_A,CRM_A_O_ORG_0243_913,Bawa Group Pharmacy,Pharmacy,"49/14
+Venkatesh Circle",Sri Ganganagar,TN,957710,IN,2025-12-02T14:05:11,ORG_0243
+CRM_B,CRM_B_O_ORG_0243_575,Bawa Group Pharmacy,Pharmacy,"49/14
+Venkatesh Circle",Sri Ganganagar,TN,957710,IN,2025-11-02T07:29:33,ORG_0243
+CRM_A,CRM_A_O_ORG_0244_563,"Comar, Merchant and Madan Diagnostic Center",Diagnostic Center,"19
+Om",Bhubaneswar,NJ,63807,US,2026-01-17T06:53:12,ORG_0244
+CRM_B,CRM_B_O_ORG_0244_124,"Comar, Merchant and Madan Diagnostic Center",Diagnostic Center,"19
+Om",Bhubaneswar,NJ,63807,US,2025-12-28T23:56:30,ORG_0244
+CRM_A,CRM_A_O_ORG_0245_362,Chander-Banik Hospital,Hospital,"56, Randhawa Street",Haldia,TX,37690,US,2025-10-18T13:35:02,ORG_0245
+CRM_B,CRM_B_O_ORG_0245_212,Chander-Banik Hospital,Hospital,"56, Randhawa Street",Haldia,TX,37690,US,2026-01-05T08:13:38,ORG_0245
+CRM_B,CRM_B_O_ORG_0245_265,Chander-Banik Hospital,Hospital,"56, Randhawa Street",Haldia,TX,37690,US,2025-10-14T10:43:22,ORG_0245
+CRM_A,CRM_A_O_ORG_0246_764,"Pathak, Mannan and Murthy Diagnostic Center",Diagnostic Center,"637
+Sandal Chowk",Karimnagar,VA,79520-3731,US,2025-10-16T19:47:31,ORG_0246
+CRM_B,CRM_B_O_ORG_0246_718,"Pathak, Mannan and Murthy Diagnostic Center",Diagnostic Center,637 Sandal Chowk,Karimnagar,VA,79520-3731,US,2026-01-14T00:07:17,ORG_0246
+CRM_A,CRM_A_O_ORG_0247_764,"Pandey, Bath and Ganguly Hospital",Hospital,"H.No. 42, Chaudry Ganj",Bokaro,CA,65839,US,2025-12-25T14:46:57,ORG_0247
+CRM_B,CRM_B_O_ORG_0247_690,"Pandey, Bath and Ganguly Hospital",Hospital,H.No. 42 Chaudry Ganj,Bokaro,CA,65839,US,2025-11-08T10:40:48,ORG_0247
+CRM_A,CRM_A_O_ORG_0248_351,Raj Group Clinic,Clinic,"49/18
+Chatterjee Marg",Kharagpur,TN,220501,IN,2025-10-14T12:37:41,ORG_0248
+CRM_B,CRM_B_O_ORG_0248_682,Raj Group Clinic,Clinic,"49/18
+Chatterjee Marg",Kharagpur,TN,220501,IN,2025-11-01T06:44:08,ORG_0248
+CRM_A,CRM_A_O_ORG_0249_530,Varughese and Sons Hospital,Hospital,"580
+Jhaveri Path",Chandigarh,FL,41729,US,2025-11-25T04:28:20,ORG_0249
+CRM_A,CRM_A_O_ORG_0249_736,Varughese and Sons Hospital,Hospital,"580
+Jhaveri Path",Chandigarh,FL,41729,US,2026-02-04T06:57:23,ORG_0249
+CRM_A,CRM_A_O_ORG_0250_437,"Patel, Butala and Iyengar Lab",Lab,"35/611, Agrawal Chowk",Shivpuri,WA,14801,US,2025-11-14T22:04:12,ORG_0250
+CRM_A,CRM_A_O_ORG_0250_713,"Patel, Butala and Iyengar Lab",Lab,"35/611, Agrawal Chowk",Shivpuri,WA,14801,US,2025-12-07T21:43:11,ORG_0250
+CRM_A,CRM_A_O_ORG_0251_885,"Mann, Soman and Guha Diagnostic Center",Diagnostic Center,"H.No. 79
+Sehgal Ganj",Akola,KA,975344,IN,2025-12-04T15:21:26,ORG_0251
+CRM_B,CRM_B_O_ORG_0251_321,"Mann, Soman and Guha Diagnostic Center",Diagnostic Center,H.No. 79 Sehgal Ganj,Akola,KA,975344,IN,2026-01-02T00:38:21,ORG_0251
+CRM_A,CRM_A_O_ORG_0252_490,Choudhary Group Diagnostic Center,Diagnostic Center,"H.No. 968
+Garde Street",Nagaon,OH,48778,US,2026-01-01T14:49:33,ORG_0252
+CRM_B,CRM_B_O_ORG_0252_901,Choudhary Group Diagnostic Center,Diagnostic Center,H.No. 968 Garde Street,Nagaon,OH,48778,US,2025-11-21T22:29:28,ORG_0252
+CRM_B,CRM_B_O_ORG_0252_111,Choudhary Group Diagnostic Ctr,Diagnostic Center,"H.No. 968
+Garde Street",Nagaon,OH,48778,US,2025-11-28T13:57:12,ORG_0252
+CRM_A,CRM_A_O_ORG_0253_619,"Om, Virk and Mahajan Lab",Lab,"H.No. 357, Aurora Road",Aizawl,MD,40725,US,2025-12-30T05:57:39,ORG_0253
+CRM_A,CRM_A_O_ORG_0254_385,Mahal-Bala Hospital,Hospital,"972
+Saini",Morbi,VA,46497,US,2026-01-14T22:58:24,ORG_0254
+CRM_B,CRM_B_O_ORG_0254_907,Mahal-Bala Hospital,Hospital,"972
+Saini",Morbi,VA,46497,US,2025-10-10T06:48:06,ORG_0254
+CRM_A,CRM_A_O_ORG_0255_376,Reddy-Om Clinic,Clinic,"99
+Rajan Nagar",Guna,TS,252567,IN,2025-11-04T08:02:41,ORG_0255
+CRM_B,CRM_B_O_ORG_0255_690,Reddy-Om Clinic,Clinic,"99
+Rajan Nagar",Guna,TS,252567,IN,2025-12-26T11:35:08,ORG_0255
+CRM_A,CRM_A_O_ORG_0256_490,Mann LLC Lab,Lab,"H.No. 11, Barad Circle",Bhilwara,WB,210982,IN,2026-01-22T14:58:10,ORG_0256
+CRM_B,CRM_B_O_ORG_0256_281,Mann LLC Lab,Lab,"H.No. 11, Barad Circle",Bhilwara,WB,210982,IN,2026-02-04T19:23:25,ORG_0256
+CRM_A,CRM_A_O_ORG_0257_499,Munshi-Brahmbhatt Diagnostic Center,Diagnostic Center,"H.No. 15, Varkey Street",Patiala,IL,34150,US,2026-02-11T01:39:34,ORG_0257
+CRM_B,CRM_B_O_ORG_0257_446,Munshi-Brahmbhatt Diagnostic Center,Diagnostic Center,"H.No. 15, Varkey Street",Patiala,IL,34150,US,2025-12-19T01:31:10,ORG_0257
+CRM_A,CRM_A_O_ORG_0258_584,Krishnamurthy-Ahuja Lab,Lab,"17, Rai Nagar",Medininagar,AZ,65177,US,2025-12-14T08:42:18,ORG_0258
+CRM_B,CRM_B_O_ORG_0258_658,Krishnamurthy-Ahuja Lab,Lab,"17, Rai Nagar",Medininagar,AZ,65177,US,2025-10-20T18:23:33,ORG_0258
+CRM_A,CRM_A_O_ORG_0259_752,Modi LLC Clinic,Clinic,"375
+Bahri Street",Karimnagar,KA,840995,IN,2025-11-15T15:11:57,ORG_0259
+CRM_B,CRM_B_O_ORG_0259_589,Modi LLC Clinic,Clinic,"375
+Bahri Street",Karimnagar,KA,840995,IN,2025-12-01T10:19:29,ORG_0259
+CRM_A,CRM_A_O_ORG_0260_166,Chandran-Majumdar Diagnostic Center,Diagnostic Center,"16/415
+Kari Chowk",Fatehpur,AK,84900,US,2025-12-21T15:39:08,ORG_0260
+CRM_B,CRM_B_O_ORG_0260_340,Chandran-Majumdar Diagnostic Center,Diagnostic Center,"16/415
+Kari Chowk",Fatehpur,AK,84900,US,2025-11-19T15:33:33,ORG_0260
+CRM_A,CRM_A_O_ORG_0261_485,Vasa-Madan Clinic,Clinic,"91/341, Toor Chowk",Kanpur,MI,82726,US,2026-01-21T06:19:26,ORG_0261
+CRM_A,CRM_A_O_ORG_0262_905,"Ahluwalia, Sur and Choudhry Pharmacy",Pharmacy,"14
+Chaudry Path",Ballia,GA,16910,US,2025-11-20T05:41:00,ORG_0262
+CRM_B,CRM_B_O_ORG_0262_278,"Ahluwalia, Sur and Choudhry Pharmacy",Pharmacy,"14
+Chaudry Path",Ballia,GA,16910,US,2025-12-23T19:40:54,ORG_0262
+CRM_A,CRM_A_O_ORG_0263_221,Chaudhary-Mammen Pharmacy,Pharmacy,"H.No. 83
+Sur Circle",Yamunanagar,AL,78329,US,2025-11-10T12:07:31,ORG_0263
+CRM_B,CRM_B_O_ORG_0263_719,Chaudhary-Mammen Pharmacy,Pharmacy,H.No. 83 Sur Circle,Yamunanagar,AL,78329,US,2025-12-18T15:41:49,ORG_0263
+CRM_A,CRM_A_O_ORG_0264_105,"Bansal, Sibal and Gill Diagnostic Center",Diagnostic Center,"18
+Warrior Nagar",New Delhi,MD,86958-8022,US,2025-12-01T20:01:59,ORG_0264
+CRM_B,CRM_B_O_ORG_0264_742,"Bansal, Sibal and Gill Diagnostic Ctr",Diagnostic Center,"18
+Warrior Nagar",New Delhi,MD,86958-8022,US,2026-02-04T01:43:54,ORG_0264
+CRM_A,CRM_A_O_ORG_0265_740,"Venkataraman, Biswas and Raja Diagnostic Center",Diagnostic Center,"27/23
+Balay Nagar",Pune,MA,27774,US,2025-11-19T14:51:37,ORG_0265
+CRM_B,CRM_B_O_ORG_0265_690,"Venkataraman, Biswas and Raja Diagnostic Center",Diagnostic Center,"27/23
+Balay Nagar",Pune,MA,27774,US,2025-11-01T14:33:47,ORG_0265
+CRM_A,CRM_A_O_ORG_0266_510,Rajan-Majumdar Diagnostic Center,Diagnostic Center,"H.No. 03
+Amble Nagar",Delhi,AK,33047,US,2025-10-29T16:08:39,ORG_0266
+CRM_B,CRM_B_O_ORG_0266_215,Rajan-Majumdar Diagnostic Ctr,Diagnostic Center,H.No. 03 Amble Nagar,Delhi,AK,33047,US,2025-12-22T21:19:20,ORG_0266
+CRM_B,CRM_B_O_ORG_0266_215,Rajan-Majumdar Diagnostic Center,Diagnostic Center,"H.No. 03
+Amble Nagar",Delhi,AK,33047,US,2025-11-06T03:40:52,ORG_0266
+CRM_A,CRM_A_O_ORG_0267_267,Parmar-Dash Clinic,Clinic,"18/73, Bera Ganj",Belgaum,NY,22182,US,2026-02-07T15:05:16,ORG_0267
+CRM_B,CRM_B_O_ORG_0267_429,Parmar-Dash Clnc,Clinic,18/73 Bera Ganj,Belgaum,NY,22182,US,2025-10-16T01:04:51,ORG_0267
+CRM_A,CRM_A_O_ORG_0268_246,Purohit-Khare Clinic,Clinic,"22, Taneja Ganj",Purnia,PA,91487,US,2025-11-01T12:44:00,ORG_0268
+CRM_B,CRM_B_O_ORG_0268_395,Purohit-Khare Clnc,Clinic,"22, Taneja Ganj",Purnia,PA,91487,US,2025-10-17T01:27:33,ORG_0268
+CRM_A,CRM_A_O_ORG_0269_203,"Naik, Bhargava and Lala Pharmacy",Pharmacy,"605, Bava",Madhyamgram,NJ,25862,US,2026-02-21T13:00:30,ORG_0269
+CRM_B,CRM_B_O_ORG_0269_835,"Naik, Bhargava and Lala Pharmacy",Pharmacy,"605, Bava",Madhyamgram,NJ,25862,US,2025-11-29T06:57:06,ORG_0269
+CRM_A,CRM_A_O_ORG_0269_998,"Naik, Bhargava and Lala Pharmacy",Pharmacy,"605, Bava",Madhyamgram,NJ,25862,US,2026-01-07T08:41:19,ORG_0269
+CRM_A,CRM_A_O_ORG_0270_337,Parikh and Sons Hospital,Hospital,"265
+Jha Road",Hapur,GA,33626,US,2025-10-07T08:56:58,ORG_0270
+CRM_B,CRM_B_O_ORG_0270_137,Parikh and Sons Hospital,Hospital,"265
+Jha Road",Hapur,GA,33626,US,2025-10-14T16:36:14,ORG_0270
+CRM_B,CRM_B_O_ORG_0270_274,Parikh and Sons Hosp,Hospital,"265
+Jha Road",Hapur,GA,33626,US,2026-01-21T05:28:15,ORG_0270
+CRM_A,CRM_A_O_ORG_0271_518,Sidhu and Sons Lab,Lab,"H.No. 13
+Saraf Path",Ulhasnagar,CT,90835,US,2026-01-06T15:55:46,ORG_0271
+CRM_B,CRM_B_O_ORG_0271_167,Sidhu and Sons Lab,Lab,"H.No. 13
+Saraf Path",Ulhasnagar,CT,90835,US,2025-11-02T03:54:49,ORG_0271
+CRM_A,CRM_A_O_ORG_0272_415,Bhargava-Raghavan Hospital,Hospital,"09/897, Sibal Street",Hyderabad,GA,42195,US,2025-11-12T06:55:32,ORG_0272
+CRM_B,CRM_B_O_ORG_0272_782,Bhargava-Raghavan Hosp,Hospital,"09/897, Sibal Street",Hyderabad,GA,42195,US,2025-10-23T18:17:36,ORG_0272
+CRM_A,CRM_A_O_ORG_0273_322,"Murthy, Chakraborty and Kuruvilla Lab",Lab,"H.No. 641, Chakraborty Zila",Raebareli,GA,22339,US,2026-01-27T12:28:58,ORG_0273
+CRM_B,CRM_B_O_ORG_0273_413,"Murthy, Chakraborty and Kuruvilla Lab",Lab,"H.No. 641, Chakraborty Zila",Raebareli,GA,22339,US,2025-10-23T05:54:24,ORG_0273
+CRM_A,CRM_A_O_ORG_0273_591,"Murthy, Chakraborty and Kuruvilla Lab",Lab,"H.No. 641, Chakraborty Zila",Raebareli,GA,22339,US,2025-10-10T04:46:21,ORG_0273
+CRM_A,CRM_A_O_ORG_0274_187,Saini-Mukherjee Lab,Lab,"25/426, Basak Nagar",Warangal,KA,404285,IN,2025-11-24T19:07:46,ORG_0274
+CRM_B,CRM_B_O_ORG_0274_562,Saini-Mukherjee Lab,Lab,"25/426, Basak Nagar",Warangal,KA,404285,IN,2025-12-22T02:47:42,ORG_0274
+CRM_A,CRM_A_O_ORG_0275_850,"Goswami, Ganesh and Gulati Diagnostic Center",Diagnostic Center,"579
+Guha",Chapra,MA,45487,US,2025-10-31T02:07:55,ORG_0275
+CRM_B,CRM_B_O_ORG_0275_732,"Goswami, Ganesh and Gulati Diagnostic Center",Diagnostic Center,"579
+Guha",Chapra,MA,45487,US,2025-10-13T06:47:53,ORG_0275
+CRM_A,CRM_A_O_ORG_0276_320,Pillai-Ganesh Lab,Lab,"H.No. 17, Sunder Road",Belgaum,AL,58215,US,2025-11-13T15:48:26,ORG_0276
+CRM_B,CRM_B_O_ORG_0276_929,Pillai-Ganesh Lab,Lab,"H.No. 17, Sunder Road",Belgaum,AL,58215,US,2025-11-12T11:58:06,ORG_0276
+CRM_A,CRM_A_O_ORG_0277_310,"Madan, Saxena and Shanker Pharmacy",Pharmacy,"55
+Gaba Zila",Junagadh,WA,21909,US,2025-12-05T17:12:55,ORG_0277
+CRM_B,CRM_B_O_ORG_0277_527,"Madan, Saxena and Shanker Pharmacy",Pharmacy,"55
+Gaba Zila",Junagadh,WA,21909,US,2026-01-20T14:30:51,ORG_0277
+CRM_A,CRM_A_O_ORG_0278_968,Wason and Sons Hospital,Hospital,"66
+Setty Path",Bhagalpur,PA,64595,US,2025-12-16T00:56:05,ORG_0278
+CRM_A,CRM_A_O_ORG_0278_636,Wason and Sons Hospital,Hospital,"66
+Setty Path",Bhagalpur,PA,64595,US,2025-11-10T15:41:15,ORG_0278
+CRM_A,CRM_A_O_ORG_0279_775,Aggarwal Inc Diagnostic Center,Diagnostic Center,"133, Tailor Circle",Bhagalpur,KA,398851,IN,2025-12-11T16:42:56,ORG_0279
+CRM_A,CRM_A_O_ORG_0280_811,"Lala, Gokhale and Borah Diagnostic Center",Diagnostic Center,"H.No. 83
+Mani Path",Malda,OH,18513,US,2025-12-03T19:01:05,ORG_0280
+CRM_B,CRM_B_O_ORG_0280_599,"Lala, Gokhale and Borah Diagnostic Center",Diagnostic Center,"H.No. 83
+Mani Path",Malda,OH,18513,US,2025-11-19T16:47:27,ORG_0280
+CRM_A,CRM_A_O_ORG_0281_201,Toor-Vyas Lab,Lab,"68/38, Pathak Street",Serampore,MH,971175,IN,2025-11-09T19:53:23,ORG_0281
+CRM_B,CRM_B_O_ORG_0281_957,Toor-Vyas Lab,Lab,"68/38, Pathak Street",Serampore,MH,971175,IN,2025-10-10T11:51:07,ORG_0281
+CRM_A,CRM_A_O_ORG_0281_355,Toor-Vyas Lab,Lab,"68/38, Pathak Street",Serampore,MH,971175,IN,2025-10-07T20:07:38,ORG_0281
+CRM_A,CRM_A_O_ORG_0282_936,Kale-Banik Hospital,Hospital,"H.No. 35, Bhatt Street",Rajkot,MA,91735,US,2025-11-13T23:42:39,ORG_0282
+CRM_B,CRM_B_O_ORG_0282_509,Kale-Banik Hosp,Hospital,H.No. 35 Bhatt Street,Rajkot,MA,91735,US,2025-12-07T00:01:13,ORG_0282
+CRM_A,CRM_A_O_ORG_0283_120,Hayre-Mangat Hospital,Hospital,"06
+Doshi Circle",Nandyal,CT,19253,US,2026-02-05T19:45:24,ORG_0283
+CRM_B,CRM_B_O_ORG_0283_210,Hayre-Mangat Hosp,Hospital,"06
+Doshi Circle",Nandyal,CT,19253,US,2025-11-21T21:02:52,ORG_0283
+CRM_A,CRM_A_O_ORG_0284_723,Parmar Group Lab,Lab,"10
+Batra Circle",Agra,FL,33755,US,2025-12-30T00:24:36,ORG_0284
+CRM_A,CRM_A_O_ORG_0285_250,Bahri and Sons Hospital,Hospital,"H.No. 239, Patla Path",Mangalore,VA,32872,US,2025-11-05T19:52:23,ORG_0285
+CRM_B,CRM_B_O_ORG_0285_170,Bahri and Sons Hosp,Hospital,"H.No. 239, Patla Path",Mangalore,VA,32872,US,2025-10-31T23:11:50,ORG_0285
+CRM_A,CRM_A_O_ORG_0286_849,Sahni PLC Pharmacy,Pharmacy,"328, Lad Path",Firozabad,NC,65499,US,2025-11-11T08:47:11,ORG_0286
+CRM_B,CRM_B_O_ORG_0286_859,Sahni PLC Pharmacy,Pharmacy,"328, Lad Path",Firozabad,NC,65499,US,2025-12-19T05:57:14,ORG_0286
+CRM_A,CRM_A_O_ORG_0287_175,Gala Group Clinic,Clinic,"26/214, Nagarajan Road",Fatehpur,CT,60295,US,2025-10-25T11:56:17,ORG_0287
+CRM_B,CRM_B_O_ORG_0287_698,Gala Group Clnc,Clinic,26/214 Nagarajan Road,Fatehpur,CT,60295,US,2026-01-23T14:31:14,ORG_0287
+CRM_A,CRM_A_O_ORG_0288_761,Nayar Ltd Hospital,Hospital,"H.No. 51, Ramaswamy",Tinsukia,IL,81010,US,2026-01-22T01:56:52,ORG_0288
+CRM_B,CRM_B_O_ORG_0288_891,Nayar Ltd Hospital,Hospital,"H.No. 51, Ramaswamy",Tinsukia,IL,81010,US,2025-10-22T17:52:14,ORG_0288
+CRM_A,CRM_A_O_ORG_0289_957,Tak-Tella Hospital,Hospital,"H.No. 159, Joshi Zila",Bhusawal,TS,976373,IN,2025-10-29T08:19:53,ORG_0289
+CRM_B,CRM_B_O_ORG_0289_196,Tak-Tella Hospital,Hospital,"H.No. 159, Joshi Zila",Bhusawal,TS,976373,IN,2026-01-06T03:08:25,ORG_0289
+CRM_A,CRM_A_O_ORG_0290_270,"Misra, Grewal and Hayre Lab",Lab,"63/554, Baria Marg",Nellore,GA,95682,US,2025-12-13T12:23:06,ORG_0290
+CRM_B,CRM_B_O_ORG_0290_105,"Misra, Grewal and Hayre Lab",Lab,"63/554, Baria Marg",Nellore,GA,95682,US,2025-10-18T16:42:17,ORG_0290
+CRM_B,CRM_B_O_ORG_0290_339,"Misra, Grewal and Hayre Lab",Lab,"63/554, Baria Marg",Nellore,GA,95682,US,2025-10-15T23:35:16,ORG_0290
+CRM_A,CRM_A_O_ORG_0291_112,"Ram, Guha and Chadha Pharmacy",Pharmacy,"H.No. 71, Sha",Belgaum,CO,33288,US,2025-12-17T13:30:52,ORG_0291
+CRM_B,CRM_B_O_ORG_0291_109,"Ram, Guha and Chadha Pharmacy",Pharmacy,"H.No. 71, Sha",Belgaum,CO,33288,US,2025-10-22T13:29:52,ORG_0291
+CRM_A,CRM_A_O_ORG_0292_860,Chaudhry LLC Clinic,Clinic,"H.No. 52
+Singh Chowk",Nanded,FL,49309,US,2025-12-11T14:09:27,ORG_0292
+CRM_A,CRM_A_O_ORG_0293_564,"Raj, Ahuja and Gopal Clinic",Clinic,"H.No. 64, Kaul Nagar",Pudukkottai,TX,71949,US,2025-11-11T10:03:28,ORG_0293
+CRM_B,CRM_B_O_ORG_0293_873,"Raj, Ahuja and Gopal Clinic",Clinic,"H.No. 64, Kaul Nagar",Pudukkottai,TX,71949,US,2025-11-06T12:32:48,ORG_0293
+CRM_B,CRM_B_O_ORG_0293_492,"Raj, Ahuja and Gopal Clinic",Clinic,"H.No. 64, Kaul Nagar",Pudukkottai,TX,71949,US,2026-01-09T00:47:45,ORG_0293
+CRM_A,CRM_A_O_ORG_0294_211,"Walla, Sant and Upadhyay Diagnostic Center",Diagnostic Center,"50/78, Tandon Marg",Jehanabad,PA,14886,US,2026-01-02T11:52:03,ORG_0294
+CRM_B,CRM_B_O_ORG_0294_101,"Walla, Sant and Upadhyay Diagnostic Ctr",Diagnostic Center,"50/78, Tandon Marg",Jehanabad,PA,14886,US,2025-12-19T01:29:47,ORG_0294
+CRM_B,CRM_B_O_ORG_0294_789,"Walla, Sant and Upadhyay Diagnostic Center",Diagnostic Center,50/78 Tandon Marg,Jehanabad,PA,14886,US,2026-01-14T18:55:41,ORG_0294
+CRM_A,CRM_A_O_ORG_0295_306,"Kalla, Vohra and Chokshi Clinic",Clinic,"94/874, Dalal Marg",Noida,MI,83665,US,2025-12-02T15:48:19,ORG_0295
+CRM_B,CRM_B_O_ORG_0295_145,"Kalla, Vohra and Chokshi Clinic",Clinic,"94/874, Dalal Marg",Noida,MI,83665,US,2025-10-26T00:17:27,ORG_0295
+CRM_A,CRM_A_O_ORG_0296_662,"Chacko, Anand and Banik Diagnostic Center",Diagnostic Center,"H.No. 15, Chowdhury Path",Khammam,WA,12729,US,2025-12-18T08:25:58,ORG_0296
+CRM_B,CRM_B_O_ORG_0296_500,"Chacko, Anand and Banik Diagnostic Center",Diagnostic Center,"H.No. 15, Chowdhury Path",Khammam,WA,12729,US,2026-01-01T23:16:09,ORG_0296
+CRM_A,CRM_A_O_ORG_0296_168,"Chacko, Anand and Banik Diagnostic Center",Diagnostic Center,"H.No. 15, Chowdhury Path",Khammam,WA,12729,US,2025-10-31T12:59:02,ORG_0296
+CRM_A,CRM_A_O_ORG_0297_255,"Randhawa, Kalla and Sethi Hospital",Hospital,"H.No. 33, Solanki Street",Bikaner,FL,55533,US,2026-01-11T07:05:50,ORG_0297
+CRM_B,CRM_B_O_ORG_0297_691,"Randhawa, Kalla and Sethi Hospital",Hospital,H.No. 33 Solanki Street,Bikaner,FL,55533,US,2025-10-07T13:50:34,ORG_0297
+CRM_A,CRM_A_O_ORG_0298_373,"Ratti, Rege and Saraf Diagnostic Center",Diagnostic Center,"58/43
+Chakraborty Zila",Nanded,TX,58918,US,2025-11-12T19:20:48,ORG_0298
+CRM_B,CRM_B_O_ORG_0298_961,"Ratti, Rege and Saraf Diagnostic Center",Diagnostic Center,"58/43
+Chakraborty Zila",Nanded,TX,58918,US,2025-12-06T12:40:02,ORG_0298
+CRM_A,CRM_A_O_ORG_0299_794,Bhargava Ltd Hospital,Hospital,"H.No. 14
+Kulkarni",Tiruppur,OH,65957,US,2025-11-14T17:42:55,ORG_0299
+CRM_B,CRM_B_O_ORG_0299_374,Bhargava Ltd Hospital,Hospital,"H.No. 14
+Kulkarni",Tiruppur,OH,65957,US,2025-11-09T13:59:16,ORG_0299
+CRM_B,CRM_B_O_ORG_0299_585,Bhargava Ltd Hosp,Hospital,"H.No. 14
+Kulkarni",Tiruppur,OH,65957,US,2025-10-08T06:20:53,ORG_0299
+CRM_A,CRM_A_O_ORG_0300_950,"Rau, Patla and Mannan Pharmacy",Pharmacy,"H.No. 055, Tandon Chowk",Ranchi,DL,397144,IN,2025-12-03T22:07:21,ORG_0300
+CRM_B,CRM_B_O_ORG_0300_943,"Rau, Patla and Mannan Pharmacy",Pharmacy,"H.No. 055, Tandon Chowk",Ranchi,DL,397144,IN,2026-01-16T19:46:13,ORG_0300
+CRM_A,CRM_A_O_ORG_0301_721,Bhakta Ltd Pharmacy,Pharmacy,"59, Barman Marg",Motihari,MD,15872,US,2025-12-31T02:45:17,ORG_0301
+CRM_B,CRM_B_O_ORG_0301_339,Bhakta Ltd Pharmacy,Pharmacy,"59, Barman Marg",Motihari,MD,15872,US,2025-10-23T02:48:48,ORG_0301
+CRM_A,CRM_A_O_ORG_0302_734,Seth-Gulati Diagnostic Center,Diagnostic Center,"43/42
+Chaudhry Ganj",Tezpur,CA,14932,US,2025-10-30T13:16:29,ORG_0302
+CRM_B,CRM_B_O_ORG_0302_231,Seth-Gulati Diagnostic Center,Diagnostic Center,"43/42
+Chaudhry Ganj",Tezpur,CA,14932,US,2025-12-06T19:23:51,ORG_0302
+CRM_A,CRM_A_O_ORG_0303_423,Nath-Ganesh Lab,Lab,"586, Samra Nagar",Kolkata,WB,242998,IN,2025-10-24T16:41:26,ORG_0303
+CRM_B,CRM_B_O_ORG_0303_660,Nath-Ganesh Lab,Lab,"586, Samra Nagar",Kolkata,WB,242998,IN,2025-11-21T13:33:15,ORG_0303
+CRM_A,CRM_A_O_ORG_0304_222,"Vala, Chokshi and Basu Lab",Lab,"H.No. 999
+Nadig Zila",Barasat,NY,90022,US,2026-02-12T12:33:42,ORG_0304
+CRM_B,CRM_B_O_ORG_0304_602,"Vala, Chokshi and Basu Lab",Lab,H.No. 999 Nadig Zila,Barasat,NY,90022,US,2026-01-02T10:26:29,ORG_0304
+CRM_A,CRM_A_O_ORG_0305_813,"Chawla, Manne and Agate Pharmacy",Pharmacy,"H.No. 850
+Khurana Zila",Nangloi Jat,NC,87207,US,2026-01-05T06:35:58,ORG_0305
+CRM_B,CRM_B_O_ORG_0305_272,"Chawla, Manne and Agate Pharmacy",Pharmacy,"H.No. 850
+Khurana Zila",Nangloi Jat,NC,87207,US,2025-10-24T15:50:51,ORG_0305
+CRM_A,CRM_A_O_ORG_0305_879,"Chawla, Manne and Agate Pharmacy",Pharmacy,"H.No. 850
+Khurana Zila",Nangloi Jat,NC,87207,US,2025-11-30T05:57:54,ORG_0305
+CRM_A,CRM_A_O_ORG_0306_892,"Mahajan, Edwin and Ratti Hospital",Hospital,"41, Garg Street",Avadi,VA,23958,US,2026-01-29T07:52:16,ORG_0306
+CRM_B,CRM_B_O_ORG_0306_916,"Mahajan, Edwin and Ratti Hosp",Hospital,"41, Garg Street",Avadi,VA,23958,US,2025-10-16T15:24:58,ORG_0306
+CRM_A,CRM_A_O_ORG_0307_712,Deshmukh-Nagarajan Pharmacy,Pharmacy,"39/245
+Rao Ganj",Ramagundam,AL,21141,US,2026-01-17T19:06:41,ORG_0307
+CRM_B,CRM_B_O_ORG_0307_334,Deshmukh-Nagarajan Pharmacy,Pharmacy,"39/245
+Rao Ganj",Ramagundam,AL,21141,US,2025-12-20T07:29:15,ORG_0307
+CRM_A,CRM_A_O_ORG_0308_288,Kulkarni Inc Hospital,Hospital,"44, Pillai Street",Aurangabad,DL,184718,IN,2026-01-15T17:29:10,ORG_0308
+CRM_B,CRM_B_O_ORG_0308_502,Kulkarni Incorporated Hospital,Hospital,"44, Pillai Street",Aurangabad,DL,184718,IN,2025-12-30T18:43:03,ORG_0308
+CRM_A,CRM_A_O_ORG_0309_271,"Ratta, Wable and Nazareth Lab",Lab,"68, Bahl Street",Motihari,FL,68724,US,2025-11-23T04:37:47,ORG_0309
+CRM_B,CRM_B_O_ORG_0309_239,"Ratta, Wable and Nazareth Lab",Lab,"68, Bahl Street",Motihari,FL,68724,US,2025-11-16T21:02:39,ORG_0309
+CRM_B,CRM_B_O_ORG_0309_763,"Ratta, Wable and Nazareth Lab",Lab,"68, Bahl Street",Motihari,FL,68724,US,2025-11-13T01:21:01,ORG_0309
+CRM_A,CRM_A_O_ORG_0310_180,"Chaudry, Gandhi and Dua Lab",Lab,"61
+Dutta Road",Mahbubnagar,NC,52702,US,2025-10-31T22:35:16,ORG_0310
+CRM_B,CRM_B_O_ORG_0310_458,"Chaudry, Gandhi and Dua Lab",Lab,"61
+Dutta Road",Mahbubnagar,NC,52702,US,2025-12-10T05:21:07,ORG_0310
+CRM_A,CRM_A_O_ORG_0311_777,Agarwal-Edwin Diagnostic Center,Diagnostic Center,"79/09, Koshy Marg",Salem,MD,12621,US,2025-12-11T16:47:19,ORG_0311
+CRM_B,CRM_B_O_ORG_0311_181,Agarwal-Edwin Diagnostic Center,Diagnostic Center,"79/09, Koshy Marg",Salem,MD,12621,US,2025-12-05T07:52:06,ORG_0311
+CRM_A,CRM_A_O_ORG_0312_760,"Nadkarni, Brahmbhatt and Borde Lab",Lab,"H.No. 33
+Sarraf Zila",Bhavnagar,NC,99534,US,2026-01-07T09:36:49,ORG_0312
+CRM_B,CRM_B_O_ORG_0312_865,"Nadkarni, Brahmbhatt and Borde Lab",Lab,"H.No. 33
+Sarraf Zila",Bhavnagar,NC,99534,US,2026-01-20T15:07:05,ORG_0312
+CRM_A,CRM_A_O_ORG_0313_946,"Palla, Jani and Khare Lab",Lab,"70/86
+Morar Nagar",Bhind,MA,93841,US,2025-12-16T22:30:45,ORG_0313
+CRM_B,CRM_B_O_ORG_0313_219,"Palla, Jani and Khare Lab",Lab,"70/86
+Morar Nagar",Bhind,MA,93841,US,2025-10-25T16:54:26,ORG_0313
+CRM_B,CRM_B_O_ORG_0313_347,"Palla, Jani and Khare Lab",Lab,"70/86
+Morar Nagar",Bhind,MA,93841,US,2025-12-05T14:11:45,ORG_0313
+CRM_A,CRM_A_O_ORG_0314_879,Pai-Sharma Hospital,Hospital,"H.No. 37, Tailor Zila",Vadodara,DL,391754,IN,2026-01-05T20:49:47,ORG_0314
+CRM_B,CRM_B_O_ORG_0314_185,Pai-Sharma Hospital,Hospital,"H.No. 37, Tailor Zila",Vadodara,DL,391754,IN,2025-10-13T10:26:35,ORG_0314
+CRM_B,CRM_B_O_ORG_0314_188,Pai-Sharma Hosp,Hospital,"H.No. 37, Tailor Zila",Vadodara,DL,391754,IN,2025-11-25T18:54:09,ORG_0314
+CRM_A,CRM_A_O_ORG_0315_586,"Contractor, Naik and Karpe Pharmacy",Pharmacy,"003, Nayar Street",Ramgarh,AL,85577,US,2025-11-25T12:55:52,ORG_0315
+CRM_B,CRM_B_O_ORG_0315_769,"Contractor, Naik and Karpe Pharmacy",Pharmacy,"003, Nayar Street",Ramgarh,AL,85577,US,2026-01-24T03:51:58,ORG_0315
+CRM_A,CRM_A_O_ORG_0316_108,Magar-Saxena Lab,Lab,"H.No. 331
+Parikh Zila",Hindupur,TS,147774,IN,2025-11-27T22:58:14,ORG_0316
+CRM_B,CRM_B_O_ORG_0316_437,Magar-Saxena Lab,Lab,"H.No. 331
+Parikh Zila",Hindupur,TS,147774,IN,2025-12-19T12:12:36,ORG_0316
+CRM_A,CRM_A_O_ORG_0317_300,Thakur-Karan Diagnostic Center,Diagnostic Center,"42/26
+Hora Marg",Arrah,IL,71817,US,2025-11-21T01:58:43,ORG_0317
+CRM_B,CRM_B_O_ORG_0317_935,Thakur-Karan Diagnostic Center,Diagnostic Center,"42/26
+Hora Marg",Arrah,IL,71817,US,2025-10-31T12:08:31,ORG_0317
+CRM_A,CRM_A_O_ORG_0318_825,Kala-Badami Lab,Lab,"491, Borra Ganj",Eluru,DL,940472,IN,2025-12-27T23:22:51,ORG_0318
+CRM_B,CRM_B_O_ORG_0318_681,Kala-Badami Lab,Lab,"491, Borra Ganj",Eluru,DL,940472,IN,2025-10-19T10:45:48,ORG_0318
+CRM_A,CRM_A_O_ORG_0319_524,"Oommen, Hayre and Raghavan Clinic",Clinic,"13
+Mohan Marg",Thiruvananthapuram,MA,99455,US,2025-12-04T14:58:17,ORG_0319
+CRM_B,CRM_B_O_ORG_0319_498,"Oommen, Hayre and Raghavan Clinic",Clinic,"13
+Mohan Marg",Thiruvananthapuram,MA,99455,US,2026-01-24T22:24:10,ORG_0319
+CRM_A,CRM_A_O_ORG_0320_861,Chacko-Mitra Pharmacy,Pharmacy,"282
+Dewan Ganj",Thrissur,DL,548614,IN,2025-11-06T23:09:15,ORG_0320
+CRM_B,CRM_B_O_ORG_0320_239,Chacko-Mitra Pharmacy,Pharmacy,"282
+Dewan Ganj",Thrissur,DL,548614,IN,2026-02-04T15:48:12,ORG_0320
+CRM_A,CRM_A_O_ORG_0321_263,Vaidya-Nagi Lab,Lab,"97/993, Ray Road",Bahraich,NC,19351,US,2026-01-15T16:16:17,ORG_0321
+CRM_B,CRM_B_O_ORG_0321_312,Vaidya-Nagi Lab,Lab,"97/993, Ray Road",Bahraich,NC,19351,US,2026-01-02T12:21:23,ORG_0321
+CRM_A,CRM_A_O_ORG_0322_443,Murty-Khatri Lab,Lab,"H.No. 21, Taneja",Munger,GA,63373,US,2025-10-23T08:18:44,ORG_0322
+CRM_B,CRM_B_O_ORG_0322_182,Murty-Khatri Lab,Lab,"H.No. 21, Taneja",Munger,GA,63373,US,2025-10-18T17:41:17,ORG_0322
+CRM_A,CRM_A_O_ORG_0323_269,Ahuja-Sant Pharmacy,Pharmacy,"H.No. 231
+Mand Path",Bhatpara,WB,305376,IN,2025-11-04T09:33:34,ORG_0323
+CRM_B,CRM_B_O_ORG_0323_751,Ahuja-Sant Pharmacy,Pharmacy,"H.No. 231
+Mand Path",Bhatpara,WB,305376,IN,2026-01-06T01:20:52,ORG_0323
+CRM_A,CRM_A_O_ORG_0324_936,Lal-Sharma Hospital,Hospital,"H.No. 750, Ratta Zila",Ajmer,MI,20415-3315,US,2025-12-21T18:44:49,ORG_0324
+CRM_B,CRM_B_O_ORG_0324_711,Lal-Sharma Hospital,Hospital,"H.No. 750, Ratta Zila",Ajmer,MI,20415-3315,US,2025-11-07T22:09:28,ORG_0324
+CRM_A,CRM_A_O_ORG_0325_914,Bail-Gupta Lab,Lab,"14/10
+Dass Path",Mahbubnagar,VA,90005,US,2025-10-13T02:31:48,ORG_0325
+CRM_B,CRM_B_O_ORG_0325_197,Bail-Gupta Lab,Lab,"14/10
+Dass Path",Mahbubnagar,VA,90005,US,2026-02-04T11:13:09,ORG_0325
+CRM_B,CRM_B_O_ORG_0325_522,Bail-Gupta Lab,Lab,14/10 Dass Path,Mahbubnagar,VA,90005,US,2025-11-29T21:08:16,ORG_0325
+CRM_A,CRM_A_O_ORG_0326_688,"Ranganathan, Iyer and Sachdev Diagnostic Center",Diagnostic Center,"721
+Ravi Street",Satara,AL,29323,US,2025-11-10T10:28:22,ORG_0326
+CRM_B,CRM_B_O_ORG_0326_163,"Ranganathan, Iyer and Sachdev Diagnostic Center",Diagnostic Center,"721
+Ravi Street",Satara,AL,29323,US,2025-11-16T18:19:05,ORG_0326
+CRM_A,CRM_A_O_ORG_0327_769,Jain-Ram Lab,Lab,"87
+Sant",Farrukhabad,UP,649643,IN,2025-11-12T01:29:29,ORG_0327
+CRM_B,CRM_B_O_ORG_0327_439,Jain-Ram Lab,Lab,"87
+Sant",Farrukhabad,UP,649643,IN,2025-11-15T01:58:50,ORG_0327
+CRM_A,CRM_A_O_ORG_0328_833,Srinivas-Grewal Clinic,Clinic,"86/30
+Kaul Zila",Muzaffarnagar,OH,64388,US,2026-02-08T21:02:32,ORG_0328
+CRM_B,CRM_B_O_ORG_0328_956,Srinivas-Grewal Clnc,Clinic,"86/30
+Kaul Zila",Muzaffarnagar,OH,64388,US,2025-12-13T14:22:51,ORG_0328
+CRM_A,CRM_A_O_ORG_0329_421,Sura PLC Clinic,Clinic,"H.No. 702, Sule Marg",Madanapalle,FL,99129,US,2025-12-19T09:03:57,ORG_0329
+CRM_B,CRM_B_O_ORG_0329_767,Sura PLC Clinic,Clinic,"H.No. 702, Sule Marg",Madanapalle,FL,99129,US,2025-12-15T01:19:02,ORG_0329
+CRM_A,CRM_A_O_ORG_0330_274,"Rajan, Bobal and Minhas Diagnostic Center",Diagnostic Center,"18/51
+Sharaf Road",Bhusawal,WA,59482,US,2025-12-15T14:16:34,ORG_0330
+CRM_A,CRM_A_O_ORG_0330_732,"Rajan, Bobal and Minhas Diagnostic Center",Diagnostic Center,"18/51
+Sharaf Road",Bhusawal,WA,59482,US,2025-12-11T16:38:01,ORG_0330
+CRM_A,CRM_A_O_ORG_0331_621,Sagar Ltd Diagnostic Center,Diagnostic Center,"849, Doctor Path",Bhopal,GA,29731-4214,US,2025-11-13T03:28:32,ORG_0331
+CRM_B,CRM_B_O_ORG_0331_134,Sagar Ltd Diagnostic Center,Diagnostic Center,"849, Doctor Path",Bhopal,GA,29731-4214,US,2025-10-21T21:59:07,ORG_0331
+CRM_A,CRM_A_O_ORG_0332_909,Varma-Gour Hospital,Hospital,"79/56, Mohanty Zila",Hyderabad,NY,16267,US,2026-01-03T12:37:22,ORG_0332
+CRM_B,CRM_B_O_ORG_0332_296,Varma-Gour Hosp,Hospital,"79/56, Mohanty Zila",Hyderabad,NY,16267,US,2026-01-24T05:13:30,ORG_0332
+CRM_A,CRM_A_O_ORG_0333_484,"Rai, Raja and Boase Pharmacy",Pharmacy,"29/32
+Seth Path",Motihari,GA,56835,US,2026-01-21T11:40:38,ORG_0333
+CRM_B,CRM_B_O_ORG_0333_763,"Rai, Raja and Boase Pharmacy",Pharmacy,"29/32
+Seth Path",Motihari,GA,56835,US,2026-01-27T06:19:21,ORG_0333
+CRM_A,CRM_A_O_ORG_0334_260,"Nayak, Bassi and Sampath Pharmacy",Pharmacy,"034, Bobal Chowk",Udaipur,NJ,60872,US,2025-11-28T17:19:55,ORG_0334
+CRM_B,CRM_B_O_ORG_0334_538,"Nayak, Bassi and Sampath Pharmacy",Pharmacy,"034, Bobal Chowk",Udaipur,NJ,60872,US,2025-11-25T09:36:38,ORG_0334
+CRM_A,CRM_A_O_ORG_0335_700,Devan Group Lab,Lab,"H.No. 238, Narayanan Path",Kolhapur,NC,76773,US,2026-02-02T17:49:36,ORG_0335
+CRM_B,CRM_B_O_ORG_0335_402,Devan Group Lab,Lab,H.No. 238 Narayanan Path,Kolhapur,NC,76773,US,2025-12-31T21:47:14,ORG_0335
+CRM_A,CRM_A_O_ORG_0336_313,"Dube, Banik and Shetty Diagnostic Center",Diagnostic Center,"303, Prabhu Ganj",Korba,TX,74998,US,2025-11-11T23:35:48,ORG_0336
+CRM_B,CRM_B_O_ORG_0336_780,"Dube, Banik and Shetty Diagnostic Center",Diagnostic Center,"303, Prabhu Ganj",Korba,TX,74998,US,2025-12-13T23:48:37,ORG_0336
+CRM_A,CRM_A_O_ORG_0337_611,Zachariah PLC Lab,Lab,"H.No. 113
+Tank",Latur,OH,99671,US,2025-11-16T01:29:45,ORG_0337
+CRM_B,CRM_B_O_ORG_0337_378,Zachariah PLC Lab,Lab,H.No. 113 Tank,Latur,OH,99671,US,2025-12-07T22:50:31,ORG_0337
+CRM_A,CRM_A_O_ORG_0338_970,"Shankar, Dugar and Sarna Diagnostic Center",Diagnostic Center,"78
+Korpal Street",Chennai,GA,28132,US,2025-11-08T18:26:37,ORG_0338
+CRM_B,CRM_B_O_ORG_0338_472,"Shankar, Dugar and Sarna Diagnostic Ctr",Diagnostic Center,"78
+Korpal Street",Chennai,GA,28132,US,2025-12-13T17:05:31,ORG_0338
+CRM_A,CRM_A_O_ORG_0339_355,"Memon, Gopal and De Pharmacy",Pharmacy,"51
+Kumer Road",Danapur,FL,13604,US,2025-11-07T02:20:48,ORG_0339
+CRM_B,CRM_B_O_ORG_0339_718,"Memon, Gopal and De Pharmacy",Pharmacy,"51
+Kumer Road",Danapur,FL,13604,US,2026-01-19T09:50:38,ORG_0339
+CRM_A,CRM_A_O_ORG_0340_357,Nigam-Sharaf Pharmacy,Pharmacy,"062
+Raja Nagar",Tirupati,WB,588354,IN,2026-01-07T19:39:58,ORG_0340
+CRM_B,CRM_B_O_ORG_0340_870,Nigam-Sharaf Pharmacy,Pharmacy,"062
+Raja Nagar",Tirupati,WB,588354,IN,2025-11-14T11:20:06,ORG_0340
+CRM_B,CRM_B_O_ORG_0340_840,Nigam-Sharaf Pharmacy,Pharmacy,"062
+Raja Nagar",Tirupati,WB,588354,IN,2025-10-17T18:54:21,ORG_0340
+CRM_A,CRM_A_O_ORG_0341_277,"Misra, Dasgupta and Tiwari Lab",Lab,"029
+Buch Circle",Dhule,OH,12952,US,2025-12-19T01:21:04,ORG_0341
+CRM_B,CRM_B_O_ORG_0341_959,"Misra, Dasgupta and Tiwari Lab",Lab,"029
+Buch Circle",Dhule,OH,12952,US,2025-10-14T05:00:18,ORG_0341
+CRM_A,CRM_A_O_ORG_0342_609,Agrawal PLC Lab,Lab,"391
+Chad Road",Aurangabad,MH,184428,IN,2026-01-18T00:50:47,ORG_0342
+CRM_B,CRM_B_O_ORG_0342_967,Agrawal PLC Lab,Lab,"391
+Chad Road",Aurangabad,MH,184428,IN,2025-10-15T15:07:50,ORG_0342
+CRM_A,CRM_A_O_ORG_0343_622,"Sarma, Roy and Krish Lab",Lab,"H.No. 507, Nori Road",Ichalkaranji,NY,51561,US,2025-11-04T18:39:34,ORG_0343
+CRM_B,CRM_B_O_ORG_0343_215,"Sarma, Roy and Krish Lab",Lab,"H.No. 507, Nori Road",Ichalkaranji,NY,51561,US,2026-01-18T03:13:31,ORG_0343
+CRM_A,CRM_A_O_ORG_0344_533,Khare-Garde Clinic,Clinic,"H.No. 929
+Ahuja Circle",Saharsa,WB,162280,IN,2026-01-25T16:17:05,ORG_0344
+CRM_B,CRM_B_O_ORG_0344_676,Khare-Garde Clinic,Clinic,"H.No. 929
+Ahuja Circle",Saharsa,WB,162280,IN,2026-01-12T19:28:25,ORG_0344
+CRM_B,CRM_B_O_ORG_0344_318,Khare-Garde Clinic,Clinic,"H.No. 929
+Ahuja Circle",Saharsa,WB,162280,IN,2025-12-17T14:33:51,ORG_0344
+CRM_A,CRM_A_O_ORG_0345_858,Lalla-Choudhury Hospital,Hospital,"H.No. 693
+Gola Marg",Howrah,AK,46406,US,2025-10-22T01:10:40,ORG_0345
+CRM_B,CRM_B_O_ORG_0345_975,Lalla-Choudhury Hospital,Hospital,"H.No. 693
+Gola Marg",Howrah,AK,46406,US,2025-12-15T15:21:49,ORG_0345
+CRM_B,CRM_B_O_ORG_0345_562,Lalla-Choudhury Hospital,Hospital,"H.No. 693
+Gola Marg",Howrah,AK,46406,US,2026-02-03T01:36:25,ORG_0345
+CRM_A,CRM_A_O_ORG_0346_484,"Vora, Narayanan and Contractor Lab",Lab,"238
+Hayre Zila",Kanpur,NJ,29662,US,2025-12-25T02:40:28,ORG_0346
+CRM_B,CRM_B_O_ORG_0346_445,"Vora, Narayanan and Contractor Lab",Lab,"238
+Hayre Zila",Kanpur,NJ,29662,US,2025-11-26T04:25:44,ORG_0346
+CRM_A,CRM_A_O_ORG_0346_323,"Vora, Narayanan and Contractor Lab",Lab,"238
+Hayre Zila",Kanpur,NJ,29662,US,2026-01-12T06:55:20,ORG_0346
+CRM_A,CRM_A_O_ORG_0347_363,"Nagarajan, Subramanian and Menon Lab",Lab,"H.No. 376, Gill Street",Thanjavur,MA,53716,US,2025-12-22T02:17:31,ORG_0347
+CRM_B,CRM_B_O_ORG_0347_769,"Nagarajan, Subramanian and Menon Lab",Lab,"H.No. 376, Gill Street",Thanjavur,MA,53716,US,2025-12-26T00:07:59,ORG_0347
+CRM_A,CRM_A_O_ORG_0348_760,"Loyal, Das and Narain Lab",Lab,"H.No. 83, Palla Circle",Chinsurah,NJ,36251,US,2026-01-04T16:55:17,ORG_0348
+CRM_B,CRM_B_O_ORG_0348_502,"Loyal, Das and Narain Lab",Lab,"H.No. 83, Palla Circle",Chinsurah,NJ,36251,US,2025-12-25T23:15:41,ORG_0348
+CRM_B,CRM_B_O_ORG_0348_120,"Loyal, Das and Narain Lab",Lab,"H.No. 83, Palla Circle",Chinsurah,NJ,36251,US,2025-11-30T01:24:50,ORG_0348
+CRM_A,CRM_A_O_ORG_0349_610,Murty Group Pharmacy,Pharmacy,"H.No. 644, Roy Marg",Nangloi Jat,TS,133440,IN,2026-01-15T12:09:48,ORG_0349
+CRM_B,CRM_B_O_ORG_0349_486,Murty Group Pharmacy,Pharmacy,"H.No. 644, Roy Marg",Nangloi Jat,TS,133440,IN,2025-10-27T09:37:29,ORG_0349
+CRM_A,CRM_A_O_ORG_0350_757,Gupta and Sons Hospital,Hospital,"H.No. 029, Nigam Zila",Jamshedpur,AL,13788,US,2026-01-03T12:41:52,ORG_0350
+CRM_A,CRM_A_O_ORG_0351_806,Pillai PLC Hospital,Hospital,"H.No. 014, Bath Marg",Jhansi,DL,162841,IN,2025-10-24T06:22:46,ORG_0351
+CRM_A,CRM_A_O_ORG_0352_465,"Prabhakar, Krish and Nazareth Lab",Lab,"28/90
+Madan Zila",Siwan,MA,20196,US,2025-12-17T02:12:04,ORG_0352
+CRM_B,CRM_B_O_ORG_0352_832,"Prabhakar, Krish and Nazareth Lab",Lab,"28/90
+Madan Zila",Siwan,MA,20196,US,2026-01-22T04:45:12,ORG_0352
+CRM_A,CRM_A_O_ORG_0353_918,Dey Ltd Diagnostic Center,Diagnostic Center,"H.No. 63, Rastogi Zila",Eluru,WA,51203,US,2026-01-16T08:37:35,ORG_0353
+CRM_A,CRM_A_O_ORG_0354_844,Bawa-Dhar Lab,Lab,"H.No. 689
+Sheth Street",Bhind,KA,626786,IN,2025-10-29T05:52:10,ORG_0354
+CRM_B,CRM_B_O_ORG_0354_957,Bawa-Dhar Lab,Lab,"H.No. 689
+Sheth Street",Bhind,KA,626786,IN,2025-11-16T20:42:25,ORG_0354
+CRM_A,CRM_A_O_ORG_0355_815,"Sharaf, Chakraborty and Bose Lab",Lab,"34/77, Pall Nagar",Ahmedabad,NY,20027,US,2025-12-31T17:33:09,ORG_0355
+CRM_A,CRM_A_O_ORG_0356_422,"Kumer, Som and Kaul Pharmacy",Pharmacy,"80/282, Kale Zila",Vijayawada,MA,76941,US,2025-12-13T21:11:27,ORG_0356
+CRM_B,CRM_B_O_ORG_0356_890,"Kumer, Som and Kaul Pharmacy",Pharmacy,"80/282, Kale Zila",Vijayawada,MA,76941,US,2025-10-25T11:02:00,ORG_0356
+CRM_A,CRM_A_O_ORG_0357_186,"Misra, Vaidya and Gera Hospital",Hospital,"14/304
+More Road",Tezpur,NJ,70497,US,2025-12-02T21:37:00,ORG_0357
+CRM_B,CRM_B_O_ORG_0357_452,"Misra, Vaidya and Gera Hospital",Hospital,"14/304
+More Road",Tezpur,NJ,70497,US,2025-11-23T23:03:08,ORG_0357
+CRM_A,CRM_A_O_ORG_0358_850,Walia-Minhas Pharmacy,Pharmacy,"H.No. 96, Mital Ganj",Jaipur,NJ,29301,US,2026-01-31T12:56:07,ORG_0358
+CRM_B,CRM_B_O_ORG_0358_764,Walia-Minhas Pharmacy,Pharmacy,"H.No. 96, Mital Ganj",Jaipur,NJ,29301,US,2025-11-04T22:41:05,ORG_0358
+CRM_A,CRM_A_O_ORG_0358_506,Walia-Minhas Pharmacy,Pharmacy,"H.No. 96, Mital Ganj",Jaipur,NJ,29301,US,2026-01-22T22:42:28,ORG_0358
+CRM_A,CRM_A_O_ORG_0359_465,Seth Group Clinic,Clinic,"450, Kuruvilla Nagar",Tadipatri,AL,54969,US,2025-11-07T15:42:42,ORG_0359
+CRM_B,CRM_B_O_ORG_0359_959,Seth Group Clnc,Clinic,"450, Kuruvilla Nagar",Tadipatri,AL,54969,US,2025-12-13T10:24:54,ORG_0359
+CRM_A,CRM_A_O_ORG_0360_670,Chakraborty-Chadha Diagnostic Center,Diagnostic Center,"03/076, Bobal Marg",Kolkata,DL,773084,IN,2025-12-09T18:10:56,ORG_0360
+CRM_B,CRM_B_O_ORG_0360_236,Chakraborty-Chadha Diagnostic Center,Diagnostic Center,"03/076, Bobal Marg",Kolkata,DL,773084,IN,2025-11-21T05:47:44,ORG_0360
+CRM_B,CRM_B_O_ORG_0360_408,Chakraborty-Chadha Diagnostic Ctr,Diagnostic Center,03/076 Bobal Marg,Kolkata,DL,773084,IN,2025-12-12T05:05:00,ORG_0360
+CRM_A,CRM_A_O_ORG_0361_998,Cherian-Rama Clinic,Clinic,"46/48
+Balasubramanian Street",Cuttack,IL,10473,US,2025-11-24T02:39:43,ORG_0361
+CRM_B,CRM_B_O_ORG_0361_692,Cherian-Rama Clinic,Clinic,"46/48
+Balasubramanian Street",Cuttack,IL,10473,US,2026-01-29T19:07:41,ORG_0361
+CRM_A,CRM_A_O_ORG_0361_455,Cherian-Rama Clinic,Clinic,"46/48
+Balasubramanian Street",Cuttack,IL,10473,US,2025-12-25T14:56:25,ORG_0361
+CRM_A,CRM_A_O_ORG_0362_553,"More, Virk and Bobal Pharmacy",Pharmacy,"69/69, Kara Street",Rohtak,VA,47456,US,2025-10-21T10:48:13,ORG_0362
+CRM_B,CRM_B_O_ORG_0362_491,"More, Virk and Bobal Pharmacy",Pharmacy,"69/69, Kara Street",Rohtak,VA,47456,US,2025-10-19T10:00:53,ORG_0362
+CRM_A,CRM_A_O_ORG_0363_928,Bhalla-Narain Pharmacy,Pharmacy,"24
+Shenoy Chowk",Gwalior,TN,813460,IN,2025-12-15T20:36:07,ORG_0363
+CRM_B,CRM_B_O_ORG_0363_507,Bhalla-Narain Pharmacy,Pharmacy,"24
+Shenoy Chowk",Gwalior,TN,813460,IN,2025-10-30T03:36:44,ORG_0363
+CRM_A,CRM_A_O_ORG_0364_649,Rout and Sons Clinic,Clinic,"091
+Amble Marg",Bhimavaram,TX,17182-6809,US,2026-01-14T03:02:37,ORG_0364
+CRM_B,CRM_B_O_ORG_0364_801,Rout and Sons Clinic,Clinic,"091
+Amble Marg",Bhimavaram,TX,17182-6809,US,2025-11-02T00:36:06,ORG_0364
+CRM_A,CRM_A_O_ORG_0365_740,"Menon, Choudhary and Sood Pharmacy",Pharmacy,"190, Sarna Zila",Pali,AZ,73511-6038,US,2025-10-29T06:57:25,ORG_0365
+CRM_B,CRM_B_O_ORG_0365_632,"Menon, Choudhary and Sood Pharmacy",Pharmacy,190 Sarna Zila,Pali,AZ,73511-6038,US,2025-10-17T12:02:54,ORG_0365
+CRM_A,CRM_A_O_ORG_0366_583,Vyas-Prashad Diagnostic Center,Diagnostic Center,"21, Patil Circle",Sri Ganganagar,GA,43204,US,2025-11-02T10:08:50,ORG_0366
+CRM_B,CRM_B_O_ORG_0366_785,Vyas-Prashad Diagnostic Center,Diagnostic Center,"21, Patil Circle",Sri Ganganagar,GA,43204,US,2025-12-06T06:59:37,ORG_0366
+CRM_A,CRM_A_O_ORG_0367_153,"Krishna, Behl and Mody Lab",Lab,"H.No. 571
+Saha Street",Munger,PA,49642,US,2025-12-16T11:43:20,ORG_0367
+CRM_B,CRM_B_O_ORG_0367_323,"Krishna, Behl and Mody Lab",Lab,"H.No. 571
+Saha Street",Munger,PA,49642,US,2026-01-22T17:13:55,ORG_0367
+CRM_A,CRM_A_O_ORG_0368_809,Rajagopalan-Mall Diagnostic Center,Diagnostic Center,"65/666, Chandran Chowk",Berhampore,KA,375204,IN,2025-10-28T09:06:11,ORG_0368
+CRM_B,CRM_B_O_ORG_0368_837,Rajagopalan-Mall Diagnostic Center,Diagnostic Center,"65/666, Chandran Chowk",Berhampore,KA,375204,IN,2025-11-08T18:17:17,ORG_0368
+CRM_A,CRM_A_O_ORG_0369_571,Chacko Inc Clinic,Clinic,"H.No. 701, Badami Circle",Hajipur,AL,39613,US,2025-10-25T23:44:02,ORG_0369
+CRM_B,CRM_B_O_ORG_0369_853,Chacko Inc Clinic,Clinic,H.No. 701 Badami Circle,Hajipur,AL,39613,US,2026-02-03T19:26:26,ORG_0369
+CRM_A,CRM_A_O_ORG_0370_864,"Handa, Pillai and Sami Lab",Lab,"92/625
+Devan Path",Jaunpur,MH,186074,IN,2025-12-29T23:57:17,ORG_0370
+CRM_B,CRM_B_O_ORG_0370_235,"Handa, Pillai and Sami Lab",Lab,"92/625
+Devan Path",Jaunpur,MH,186074,IN,2025-12-09T21:39:47,ORG_0370
+CRM_A,CRM_A_O_ORG_0371_280,Brar-Palla Pharmacy,Pharmacy,"33/598, Wason Road",Hazaribagh,NJ,22518,US,2026-01-06T06:29:42,ORG_0371
+CRM_B,CRM_B_O_ORG_0371_359,Brar-Palla Pharmacy,Pharmacy,"33/598, Wason Road",Hazaribagh,NJ,22518,US,2025-12-21T08:09:41,ORG_0371
+CRM_A,CRM_A_O_ORG_0372_875,Bhatti-Thaman Hospital,Hospital,"83/043
+Dhillon Road",Guntakal,FL,34628,US,2026-01-22T01:15:08,ORG_0372
+CRM_B,CRM_B_O_ORG_0372_420,Bhatti-Thaman Hospital,Hospital,"83/043
+Dhillon Road",Guntakal,FL,34628,US,2026-01-28T01:23:17,ORG_0372
+CRM_A,CRM_A_O_ORG_0373_920,"Tandon, Zachariah and Prakash Clinic",Clinic,"101, Kanda Ganj",Bangalore,MI,64841,US,2026-01-13T06:47:32,ORG_0373
+CRM_B,CRM_B_O_ORG_0373_678,"Tandon, Zachariah and Prakash Clinic",Clinic,"101, Kanda Ganj",Bangalore,MI,64841,US,2025-12-31T04:49:30,ORG_0373
+CRM_A,CRM_A_O_ORG_0374_966,"Atwal, Mand and Amble Lab",Lab,"765, More Circle",Aligarh,DL,320240,IN,2025-11-27T09:35:44,ORG_0374
+CRM_B,CRM_B_O_ORG_0374_854,"Atwal, Mand and Amble Lab",Lab,"765, More Circle",Aligarh,DL,320240,IN,2026-01-09T10:42:53,ORG_0374
+CRM_A,CRM_A_O_ORG_0375_837,Basak-Nori Lab,Lab,"H.No. 02
+Sengupta Path",Agra,DL,768672,IN,2025-11-28T15:39:14,ORG_0375
+CRM_A,CRM_A_O_ORG_0376_134,"Batra, Nair and Bhalla Diagnostic Center",Diagnostic Center,"79/904, Hans Marg",Mahbubnagar,CA,91607,US,2026-02-06T23:53:19,ORG_0376
+CRM_B,CRM_B_O_ORG_0376_835,"Batra, Nair and Bhalla Diagnostic Center",Diagnostic Center,"79/904, Hans Marg",Mahbubnagar,CA,91607,US,2026-02-01T14:59:18,ORG_0376
+CRM_A,CRM_A_O_ORG_0377_475,Choudhury PLC Diagnostic Center,Diagnostic Center,"64/88, Rai Ganj",Alappuzha,KA,418335,IN,2025-11-09T14:17:49,ORG_0377
+CRM_B,CRM_B_O_ORG_0377_382,Choudhury PLC Diagnostic Center,Diagnostic Center,64/88 Rai Ganj,Alappuzha,KA,418335,IN,2026-01-16T06:29:08,ORG_0377
+CRM_A,CRM_A_O_ORG_0378_244,"Sachdeva, Buch and Sachar Diagnostic Center",Diagnostic Center,"77, Shah Zila",Ratlam,AZ,53292,US,2025-10-31T18:21:22,ORG_0378
+CRM_B,CRM_B_O_ORG_0378_908,"Sachdeva, Buch and Sachar Diagnostic Center",Diagnostic Center,"77, Shah Zila",Ratlam,AZ,53292,US,2025-12-29T15:10:56,ORG_0378
+CRM_A,CRM_A_O_ORG_0379_986,Roy Ltd Hospital,Hospital,"26/915
+Zachariah Road",Panvel,PA,55241,US,2025-10-24T04:49:07,ORG_0379
+CRM_B,CRM_B_O_ORG_0379_564,Roy Ltd Hospital,Hospital,"26/915
+Zachariah Road",Panvel,PA,55241,US,2025-12-21T17:04:48,ORG_0379
+CRM_A,CRM_A_O_ORG_0380_278,"Chakrabarti, Lanka and Char Clinic",Clinic,"H.No. 52, Sodhi Chowk",Mirzapur,TS,995289,IN,2025-12-28T20:04:05,ORG_0380
+CRM_B,CRM_B_O_ORG_0380_994,"Chakrabarti, Lanka and Char Clinic",Clinic,"H.No. 52, Sodhi Chowk",Mirzapur,TS,995289,IN,2025-12-12T00:55:34,ORG_0380
+CRM_A,CRM_A_O_ORG_0381_495,Walla Group Diagnostic Center,Diagnostic Center,"H.No. 05
+Gaba Marg",Sagar,GA,15380,US,2025-11-19T07:57:36,ORG_0381
+CRM_B,CRM_B_O_ORG_0381_492,Walla Group Diagnostic Center,Diagnostic Center,"H.No. 05
+Gaba Marg",Sagar,GA,15380,US,2026-01-19T22:53:10,ORG_0381
+CRM_A,CRM_A_O_ORG_0382_614,"Buch, Yadav and Walia Hospital",Hospital,"89
+Bakshi Path",Kamarhati,FL,60486,US,2026-01-30T13:14:17,ORG_0382
+CRM_B,CRM_B_O_ORG_0382_896,"Buch, Yadav and Walia Hospital",Hospital,"89
+Bakshi Path",Kamarhati,FL,60486,US,2025-12-22T16:51:33,ORG_0382
+CRM_A,CRM_A_O_ORG_0383_252,"Chowdhury, Iyer and Vora Clinic",Clinic,"H.No. 741
+Ganguly Road",Salem,CO,30576,US,2025-11-10T08:19:14,ORG_0383
+CRM_B,CRM_B_O_ORG_0383_204,"Chowdhury, Iyer and Vora Clinic",Clinic,"H.No. 741
+Ganguly Road",Salem,CO,30576,US,2026-01-13T11:06:45,ORG_0383
+CRM_B,CRM_B_O_ORG_0383_519,"Chowdhury, Iyer and Vora Clinic",Clinic,H.No. 741 Ganguly Road,Salem,CO,30576,US,2025-12-23T13:07:08,ORG_0383
+CRM_A,CRM_A_O_ORG_0384_879,Malhotra PLC Diagnostic Center,Diagnostic Center,"828
+Mukhopadhyay Zila",Jalna,WA,41740,US,2025-12-08T18:26:43,ORG_0384
+CRM_B,CRM_B_O_ORG_0384_554,Malhotra PLC Diagnostic Ctr,Diagnostic Center,"828
+Mukhopadhyay Zila",Jalna,WA,41740,US,2025-11-09T22:36:04,ORG_0384
+CRM_A,CRM_A_O_ORG_0385_959,Goel-Muni Diagnostic Center,Diagnostic Center,"63/57
+Kale Street",Ujjain,WB,871233,IN,2026-02-02T21:08:13,ORG_0385
+CRM_B,CRM_B_O_ORG_0385_383,Goel-Muni Diagnostic Ctr,Diagnostic Center,"63/57
+Kale Street",Ujjain,WB,871233,IN,2025-12-19T04:26:51,ORG_0385
+CRM_A,CRM_A_O_ORG_0386_430,Karan-Kaul Lab,Lab,"90/34, Minhas Path",Sikar,TS,262254,IN,2025-11-28T03:46:27,ORG_0386
+CRM_B,CRM_B_O_ORG_0386_101,Karan-Kaul Lab,Lab,"90/34, Minhas Path",Sikar,TS,262254,IN,2025-12-14T17:28:10,ORG_0386
+CRM_A,CRM_A_O_ORG_0387_823,"Tella, Mander and Kothari Hospital",Hospital,"H.No. 095, Ram Road",Kota,FL,62635,US,2025-12-12T03:18:05,ORG_0387
+CRM_B,CRM_B_O_ORG_0387_211,"Tella, Mander and Kothari Hospital",Hospital,"H.No. 095, Ram Road",Kota,FL,62635,US,2025-10-10T17:13:15,ORG_0387
+CRM_A,CRM_A_O_ORG_0388_589,Sharma-Guha Lab,Lab,"90, Borra",Sikar,GA,17074,US,2025-11-09T02:13:46,ORG_0388
+CRM_B,CRM_B_O_ORG_0388_592,Sharma-Guha Lab,Lab,"90, Borra",Sikar,GA,17074,US,2025-12-28T20:54:33,ORG_0388
+CRM_A,CRM_A_O_ORG_0389_399,Saini-Bir Clinic,Clinic,"H.No. 995
+Chanda Zila",Thrissur,TN,161746,IN,2026-01-18T17:12:41,ORG_0389
+CRM_B,CRM_B_O_ORG_0389_655,Saini-Bir Clinic,Clinic,"H.No. 995
+Chanda Zila",Thrissur,TN,161746,IN,2026-02-02T19:26:02,ORG_0389
+CRM_A,CRM_A_O_ORG_0390_115,"Panchal, Raval and Gaba Diagnostic Center",Diagnostic Center,"62
+Bhandari Zila",Ajmer,TY,192223,IN,2026-01-12T02:38:54,ORG_0390
+CRM_B,CRM_B_O_ORG_0390_113,"Panchal, Raval and Gaba Diagnostic Ctr",Diagnostic Center,"62
+Bhandari Zila",Ajmer,TY,192223,IN,2025-11-09T22:31:11,ORG_0390
+CRM_A,CRM_A_O_ORG_0391_130,"Bal, Pal and Setty Diagnostic Center",Diagnostic Center,"H.No. 00
+Kunda Nagar",Panipat,CA,63381,US,2025-11-11T20:14:17,ORG_0391
+CRM_B,CRM_B_O_ORG_0391_412,"Bal, Pal and Setty Diagnostic Center",Diagnostic Center,"H.No. 00
+Kunda Nagar",Panipat,CA,63381,US,2025-11-25T14:57:34,ORG_0391
+CRM_A,CRM_A_O_ORG_0392_533,Padmanabhan Group Lab,Lab,"30/572
+Pradhan Chowk",Bhatpara,TX,63317,US,2026-02-04T16:13:25,ORG_0392
+CRM_B,CRM_B_O_ORG_0392_280,Padmanabhan Group Lab,Lab,30/572 Pradhan Chowk,Bhatpara,TX,63317,US,2025-11-28T07:08:46,ORG_0392
+CRM_A,CRM_A_O_ORG_0393_366,Bains and Sons Lab,Lab,"58, Gola",Phusro,NJ,49790,US,2025-10-30T02:17:49,ORG_0393
+CRM_B,CRM_B_O_ORG_0393_615,Bains and Sons Lab,Lab,"58, Gola",Phusro,NJ,49790,US,2025-10-20T01:01:46,ORG_0393
+CRM_A,CRM_A_O_ORG_0394_275,"Bains, Nagi and Hari Clinic",Clinic,"H.No. 137
+Balakrishnan Marg",Udaipur,TX,22881,US,2025-11-02T17:47:19,ORG_0394
+CRM_B,CRM_B_O_ORG_0394_743,"Bains, Nagi and Hari Clinic",Clinic,"H.No. 137
+Balakrishnan Marg",Udaipur,TX,22881,US,2025-11-21T13:36:27,ORG_0394
+CRM_A,CRM_A_O_ORG_0395_878,Kalita and Sons Diagnostic Center,Diagnostic Center,"93/23
+Subramaniam Chowk",Bidar,WA,30014,US,2025-10-21T16:24:07,ORG_0395
+CRM_A,CRM_A_O_ORG_0396_602,Soni-Madan Diagnostic Center,Diagnostic Center,"85
+Grewal Ganj",Bhiwandi,MA,23497,US,2025-12-16T13:22:48,ORG_0396
+CRM_B,CRM_B_O_ORG_0396_977,Soni-Madan Diagnostic Center,Diagnostic Center,"85
+Grewal Ganj",Bhiwandi,MA,23497,US,2026-02-03T12:41:43,ORG_0396
+CRM_B,CRM_B_O_ORG_0396_345,Soni-Madan Diagnostic Ctr,Diagnostic Center,"85
+Grewal Ganj",Bhiwandi,MA,23497,US,2025-10-09T16:47:17,ORG_0396
+CRM_A,CRM_A_O_ORG_0397_170,Tiwari-Mandal Pharmacy,Pharmacy,"89, Banik Circle",Gandhidham,CA,59877,US,2026-01-15T20:39:34,ORG_0397
+CRM_B,CRM_B_O_ORG_0397_626,Tiwari-Mandal Pharmacy,Pharmacy,"89, Banik Circle",Gandhidham,CA,59877,US,2025-10-13T00:46:57,ORG_0397
+CRM_A,CRM_A_O_ORG_0398_277,Soni-Mangal Diagnostic Center,Diagnostic Center,"H.No. 85
+Prabhu Chowk",Dewas,AZ,30976,US,2025-11-11T18:02:19,ORG_0398
+CRM_B,CRM_B_O_ORG_0398_200,Soni-Mangal Diagnostic Ctr,Diagnostic Center,"H.No. 85
+Prabhu Chowk",Dewas,AZ,30976,US,2026-01-11T09:00:23,ORG_0398
+CRM_A,CRM_A_O_ORG_0399_497,Chahal-Gola Hospital,Hospital,"793
+Raju Road",Tadepalligudem,CO,28532,US,2025-12-30T06:05:36,ORG_0399
+CRM_B,CRM_B_O_ORG_0399_970,Chahal-Gola Hospital,Hospital,"793
+Raju Road",Tadepalligudem,CO,28532,US,2026-01-26T04:35:35,ORG_0399
+CRM_A,CRM_A_O_ORG_0400_823,"Patil, Chand and Rastogi Clinic",Clinic,"287
+Narain Ganj",Chandigarh,PA,92944,US,2025-11-23T00:52:02,ORG_0400
+CRM_B,CRM_B_O_ORG_0400_600,"Patil, Chand and Rastogi Clinic",Clinic,"287
+Narain Ganj",Chandigarh,PA,92944,US,2026-01-10T13:35:30,ORG_0400
+CRM_B,CRM_B_O_ORG_0400_208,"Patil, Chand and Rastogi Clinic",Clinic,"287
+Narain Ganj",Chandigarh,PA,92944,US,2025-11-29T21:49:47,ORG_0400
+CRM_A,CRM_A_O_ORG_0401_658,"Sibal, Srivastava and Wali Pharmacy",Pharmacy,"414
+Sridhar Road",Gandhidham,TN,278781,IN,2025-10-19T06:46:10,ORG_0401
+CRM_B,CRM_B_O_ORG_0401_152,"Sibal, Srivastava and Wali Pharmacy",Pharmacy,"414
+Sridhar Road",Gandhidham,TN,278781,IN,2025-10-09T22:58:51,ORG_0401
+CRM_B,CRM_B_O_ORG_0401_405,"Sibal, Srivastava and Wali Pharmacy",Pharmacy,"414
+Sridhar Road",Gandhidham,TN,278781,IN,2025-10-28T20:55:23,ORG_0401
+CRM_A,CRM_A_O_ORG_0402_960,Saxena-Reddy Diagnostic Center,Diagnostic Center,"71/03, Viswanathan Zila",Mangalore,NC,29137,US,2025-11-02T22:43:45,ORG_0402
+CRM_B,CRM_B_O_ORG_0402_295,Saxena-Reddy Diagnostic Center,Diagnostic Center,"71/03, Viswanathan Zila",Mangalore,NC,29137,US,2025-10-26T20:49:55,ORG_0402
+CRM_A,CRM_A_O_ORG_0403_952,Sur-Sahota Pharmacy,Pharmacy,"88, Raja Circle",Ichalkaranji,FL,21318,US,2025-12-18T20:18:18,ORG_0403
+CRM_B,CRM_B_O_ORG_0403_725,Sur-Sahota Pharmacy,Pharmacy,"88, Raja Circle",Ichalkaranji,FL,21318,US,2026-01-16T18:22:14,ORG_0403
+CRM_A,CRM_A_O_ORG_0404_659,"Ghosh, Andra and Narayanan Clinic",Clinic,"57/846, Dhawan Street",Machilipatnam,AL,93118,US,2026-01-22T21:49:24,ORG_0404
+CRM_B,CRM_B_O_ORG_0404_921,"Ghosh, Andra and Narayanan Clinic",Clinic,"57/846, Dhawan Street",Machilipatnam,AL,93118,US,2025-12-25T01:45:45,ORG_0404
+CRM_A,CRM_A_O_ORG_0404_278,"Ghosh, Andra and Narayanan Clinic",Clinic,"57/846, Dhawan Street",Machilipatnam,AL,93118,US,2025-11-20T20:50:19,ORG_0404
+CRM_A,CRM_A_O_ORG_0405_252,Lala Group Clinic,Clinic,"H.No. 865
+Pal Zila",Guwahati,MI,69751,US,2025-12-01T02:30:35,ORG_0405
+CRM_B,CRM_B_O_ORG_0405_332,Lala Group Clinic,Clinic,"H.No. 865
+Pal Zila",Guwahati,MI,69751,US,2025-12-12T21:50:38,ORG_0405
+CRM_A,CRM_A_O_ORG_0406_540,Bhatt LLC Hospital,Hospital,"38/298, Batta Chowk",Danapur,FL,94592-8590,US,2025-12-14T15:22:15,ORG_0406
+CRM_B,CRM_B_O_ORG_0406_767,Bhatt LLC Hospital,Hospital,"38/298, Batta Chowk",Danapur,FL,94592-8590,US,2026-01-20T11:52:23,ORG_0406
+CRM_B,CRM_B_O_ORG_0406_113,Bhatt LLC Hospital,Hospital,38/298 Batta Chowk,Danapur,FL,94592-8590,US,2025-10-14T01:15:20,ORG_0406
+CRM_A,CRM_A_O_ORG_0407_170,Murty-Chokshi Diagnostic Center,Diagnostic Center,"60
+Talwar Zila",Etawah,TN,617310,IN,2025-11-25T05:47:44,ORG_0407
+CRM_A,CRM_A_O_ORG_0408_541,"Khalsa, Sachdeva and Sheth Diagnostic Center",Diagnostic Center,"H.No. 552, Ram Street",Solapur,IL,26003,US,2026-02-06T14:40:17,ORG_0408
+CRM_B,CRM_B_O_ORG_0408_407,"Khalsa, Sachdeva and Sheth Diagnostic Center",Diagnostic Center,H.No. 552 Ram Street,Solapur,IL,26003,US,2026-01-11T06:21:41,ORG_0408
+CRM_B,CRM_B_O_ORG_0408_558,"Khalsa, Sachdeva and Sheth Diagnostic Center",Diagnostic Center,H.No. 552 Ram Street,Solapur,IL,26003,US,2026-01-30T00:35:41,ORG_0408
+CRM_A,CRM_A_O_ORG_0409_677,"Deol, Lall and Raju Lab",Lab,"H.No. 29
+Sunder Path",Thiruvananthapuram,MI,15858,US,2026-01-04T07:18:32,ORG_0409
+CRM_B,CRM_B_O_ORG_0409_684,"Deol, Lall and Raju Lab",Lab,"H.No. 29
+Sunder Path",Thiruvananthapuram,MI,15858,US,2025-11-01T12:20:07,ORG_0409
+CRM_A,CRM_A_O_ORG_0410_902,Contractor-Raghavan Hospital,Hospital,"022, Dash Chowk",Kakinada,PA,29322,US,2026-01-22T23:27:53,ORG_0410
+CRM_B,CRM_B_O_ORG_0410_594,Contractor-Raghavan Hospital,Hospital,"022, Dash Chowk",Kakinada,PA,29322,US,2026-01-19T10:47:41,ORG_0410
+CRM_A,CRM_A_O_ORG_0411_358,"Buch, Tella and Bedi Pharmacy",Pharmacy,"149, Behl Circle",Deoghar,DL,146051,IN,2025-12-27T19:36:17,ORG_0411
+CRM_B,CRM_B_O_ORG_0411_649,"Buch, Tella and Bedi Pharmacy",Pharmacy,"149, Behl Circle",Deoghar,DL,146051,IN,2025-12-30T17:28:39,ORG_0411
+CRM_A,CRM_A_O_ORG_0411_811,"Buch, Tella and Bedi Pharmacy",Pharmacy,"149, Behl Circle",Deoghar,DL,146051,IN,2026-01-01T00:56:54,ORG_0411
+CRM_A,CRM_A_O_ORG_0412_227,Savant-Murty Clinic,Clinic,"H.No. 77
+Mannan Ganj",Jalgaon,AL,64854,US,2026-01-21T20:04:58,ORG_0412
+CRM_B,CRM_B_O_ORG_0412_452,Savant-Murty Clinic,Clinic,"H.No. 77
+Mannan Ganj",Jalgaon,AL,64854,US,2025-12-13T21:12:13,ORG_0412
+CRM_A,CRM_A_O_ORG_0413_625,"Gole, Karnik and Bir Pharmacy",Pharmacy,"183, Ramakrishnan Marg",Hazaribagh,WB,376289,IN,2025-12-31T22:37:12,ORG_0413
+CRM_A,CRM_A_O_ORG_0414_105,Parmar PLC Diagnostic Center,Diagnostic Center,"46/98, Jhaveri Chowk",Gangtok,NC,15460,US,2025-11-14T10:37:10,ORG_0414
+CRM_B,CRM_B_O_ORG_0414_754,Parmar PLC Diagnostic Center,Diagnostic Center,46/98 Jhaveri Chowk,Gangtok,NC,15460,US,2026-01-11T12:35:37,ORG_0414
+CRM_A,CRM_A_O_ORG_0415_293,Mutti-Uppal Hospital,Hospital,"H.No. 62
+Chhabra Chowk",Kirari Suleman Nagar,AL,86601,US,2025-12-23T16:18:28,ORG_0415
+CRM_B,CRM_B_O_ORG_0415_186,Mutti-Uppal Hospital,Hospital,"H.No. 62
+Chhabra Chowk",Kirari Suleman Nagar,AL,86601,US,2025-12-02T20:26:25,ORG_0415
+CRM_A,CRM_A_O_ORG_0416_873,Dhawan LLC Lab,Lab,"98
+Pall Road",Madanapalle,NJ,22290,US,2025-12-20T06:35:36,ORG_0416
+CRM_B,CRM_B_O_ORG_0416_713,Dhawan LLC Lab,Lab,"98
+Pall Road",Madanapalle,NJ,22290,US,2025-11-30T00:09:29,ORG_0416
+CRM_A,CRM_A_O_ORG_0417_989,Raghavan Group Lab,Lab,"47/83, Saha Nagar",Khandwa,TN,552371,IN,2025-12-23T14:57:26,ORG_0417
+CRM_B,CRM_B_O_ORG_0417_732,Raghavan Group Lab,Lab,"47/83, Saha Nagar",Khandwa,TN,552371,IN,2025-12-17T15:12:22,ORG_0417
+CRM_A,CRM_A_O_ORG_0418_236,Ravi-Narula Pharmacy,Pharmacy,"444
+Kibe Marg",Ajmer,TS,656629,IN,2025-10-12T10:02:38,ORG_0418
+CRM_B,CRM_B_O_ORG_0418_727,Ravi-Narula Pharmacy,Pharmacy,"444
+Kibe Marg",Ajmer,TS,656629,IN,2025-11-15T17:10:59,ORG_0418
+CRM_B,CRM_B_O_ORG_0418_151,Ravi-Narula Pharmacy,Pharmacy,"444
+Kibe Marg",Ajmer,TS,656629,IN,2026-01-14T12:01:29,ORG_0418
+CRM_A,CRM_A_O_ORG_0419_385,"Wagle, Mammen and Dey Pharmacy",Pharmacy,"27/49, Basu Ganj",Vijayawada,PA,90392,US,2025-11-28T13:20:29,ORG_0419
+CRM_B,CRM_B_O_ORG_0419_809,"Wagle, Mammen and Dey Pharmacy",Pharmacy,"27/49, Basu Ganj",Vijayawada,PA,90392,US,2026-01-15T20:30:29,ORG_0419
